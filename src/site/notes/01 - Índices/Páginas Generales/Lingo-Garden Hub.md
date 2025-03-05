@@ -40,7 +40,7 @@ Explora reglas, estructuras y principios esenciales de cada idioma. Esta secció
 ## Idiomas
 
 
->### Français
+>### [[01 - Índices/Páginas de Idiomas/Français\|Français]]
 
 Recursos, gramática y consejos para mejorar tu comprensión y expresión en francés, desde lo básico hasta niveles avanzados.
 ___
