@@ -78,4 +78,4 @@ A través de la gramática:
 [[02 - Páginas de Gramática/Gramática General/Los Adjetivos Sustantivados\|Los Adjetivos Sustantivados]]
 [[02 - Páginas de Gramática/Gramática General/La Concordancia Temporal en Oraciones Subordinadas\|La Concordancia Temporal en Oraciones Subordinadas]]
 
-
+___
