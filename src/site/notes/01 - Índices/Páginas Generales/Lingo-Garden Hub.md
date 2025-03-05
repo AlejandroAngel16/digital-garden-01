@@ -10,7 +10,7 @@ Nuestro enfoque es la educación y el uso de herramientas que faciliten la educa
 
 Hemos trabajado y estudiado diferentes fuentes con el fin de crear un **jardín digital** donde se comparta la información que hemos recolectado en relación a recursos, medios e incluso secciones completas de [[01 - Índices/Páginas Generales/Fundamentación Gramatical\|gramática]] con el fin de que cualquier estudiante pueda iniciar a aprender un idioma por su cuenta.
 
-<iframe width="768" height="432" src="https://miro.com/app/live-embed/uXjVIVnsX0g=/?moveToViewport=-1586,-253,1359,708&embedId=496982503034" frameborder="0" scrolling="no" allow="fullscreen; clipboard-read; clipboard-write" allowfullscreen></iframe>
+<iframe width="650" height="432" src="https://miro.com/app/live-embed/uXjVIVnsX0g=/?moveToViewport=-1586,-253,1359,708&embedId=496982503034" frameborder="0" scrolling="no" allow="fullscreen; clipboard-read; clipboard-write" allowfullscreen></iframe>
 
 > ¡Entiende la estructura de nuestra página con el anterior diagrama explicativo!
 
