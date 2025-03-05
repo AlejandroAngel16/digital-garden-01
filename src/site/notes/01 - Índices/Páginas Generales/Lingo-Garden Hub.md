@@ -33,7 +33,7 @@ En esta sección encontrarás recursos diseñados para facilitar el aprendizaje 
 Aquí encontrarás herramientas digitales, aplicaciones y plataformas que facilitan el aprendizaje autónomo de idiomas. Descubre cómo la tecnología puede potenciar tu estudio y mejorar tu práctica diaria.
 
 ## Fundamentos Lingüísticos
-> ### Fundamentación Gramatical
+> ### [[01 - Índices/Páginas Generales/Fundamentación Gramatical\|Fundamentación Gramatical]]
 
 Explora reglas, estructuras y principios esenciales de cada idioma. Esta sección te brinda explicaciones claras para comprender y aplicar la gramática de manera efectiva, todo desde el español.
 
