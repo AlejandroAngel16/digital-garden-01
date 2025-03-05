@@ -10,7 +10,7 @@ ___
 Un **pronombre** es una palabra que sustituye a un sustantivo dentro de la oración, evitando su repetición y facilitando la fluidez en el discurso. Los pronombres pueden referirse a personas, animales, cosas o ideas sin nombrarlas directamente.
 
 > [!example] 
-> María es mi amiga. Ella vive cerca de mi casa.("Ella" sustituye a "María" para evitar repetir el nombre.)
+> María es mi amiga. Ella vive cerca de mi casa. ("Ella" sustituye a "María" para evitar repetir el nombre.)
 
 ## Tipos de pronombres
 
@@ -47,7 +47,7 @@ El pronombre puede desempeñar varias funciones en la oración, dependiendo de s
 
 - **Sujeto:** _Ella canta muy bien._
 - **Complemento directo:** _Lo encontré en el parque._
-- **Complemento indirecto**: Le di un regalo.
+- **Complemento indirecto**: _Le di un regalo._
 
 Los pronombres sustituyen al sustantivo para evitar repeticiones.
 ___
