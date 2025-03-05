@@ -21,6 +21,7 @@ Podemos ver las terminaciones regulares para los verbos en este tiempo de manera
 | Nous           | -ons            | -issons/-ont    | -ons            |
 | Vous           | -ez             | -issez/-ez      | -ez             |
 | Ils/elles      | -ent            | -issent/-ent    | -ent            |
+
 En la siguiente tabla se recopilan los verbos más irregulares e importantes junto a los Verbos Modales para hablar usando el [[02 - Páginas de Gramática/Gramática General/El Indicativo Presente\|indicativo presente]]:
 
 | Pronombre Suj. | Être   | Avoir | Aller  | Faire   | Prendre  | Tenir    |
