@@ -6,7 +6,7 @@
 #Language #Learning #DigitalGarden
 ## Hola! Somos Alejandro & Luna, estudiantes de lenguas extranjeras!
 
-Nuestro enfoque es la educación y el uso de herramientas que faciliten la educación para jóvenes y adultos que estén interesados en aprender nuevos **idiomas**.
+Nuestro enfoque es la educación y el uso de herramientas que faciliten la educación para jóvenes y adultos que estén interesados en aprender nuevos **idiomas**. 
 
 Hemos trabajado y estudiado diferentes fuentes con el fin de crear un **jardín digital** donde se comparta la información que hemos recolectado en relación a recursos, medios e incluso secciones completas de [[01 - Índices/Páginas Generales/Fundamentación Gramatical\|gramática]] con el fin de que cualquier estudiante pueda iniciar a aprender un idioma por su cuenta.
 
@@ -16,7 +16,8 @@ Hemos trabajado y estudiado diferentes fuentes con el fin de crear un **jardín 
 
 ## ¿Qué es Lingo-Garden?
 
-**Lingo-Garden** es, además de un proyecto personal, un blog diseñado para ser un recurso práctico y accesible para quienes desean aprender un idioma de forma independiente. Aquí encontrarás una variedad de [[01 - Índices/Páginas Generales/Recursos Tecnológicos\|herramientas tecnológicas]] y métodos efectivos para el estudio individual, desde aplicaciones móviles hasta plataformas interactivas. **Lingo-Garden** no solo te guía en cómo aprender de manera eficiente, sino que también incluye secciones dedicadas a la gramática de distintos idiomas, explicada de forma clara y amigable para todos los niveles.
+**Lingo-Garden** es, además de un proyecto personal, un blog diseñado para ser un recurso práctico y accesible para quienes desean aprender un idioma de forma independiente. Aquí encontrarás una variedad de [[01 - Índices/Páginas Generales/Recursos Tecnológicos\|herramientas tecnológicas]] y métodos efectivos para el estudio individual, desde aplicaciones móviles hasta plataformas interactivas. **Lingo-Garden** no solo te guía en cómo aprender de manera eficiente, sino que también incluye secciones dedicadas a la gramática de distintos idiomas, explicada de forma clara y amigable para todos los niveles. 
+
 > ### [[01 - Índices/Páginas Secundarias/La Importancia del Lenguaje\|La Importancia del Lenguaje]]
 ## ¿Quiénes somos?
 

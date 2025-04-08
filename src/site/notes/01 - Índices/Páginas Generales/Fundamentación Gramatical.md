@@ -30,22 +30,20 @@ A través de la gramática:
 [[02 - Páginas de Gramática/Gramática General/El Verbo\|El Verbo]]
 [[02 - Páginas de Gramática/Gramática General/Los Pronombres\|Los Pronombres]]
 [[02 - Páginas de Gramática/Gramática General/Los Pronombres Sujeto\|Los Pronombres Sujeto]]
-[[02 - Páginas de Gramática/Gramática General/Los Pronombres Tónicos\|Los Pronombres Tónicos]] ❌
+[[02 - Páginas de Gramática/Gramática General/Los Pronombres Tónicos\|Los Pronombres Tónicos]] 
 [[02 - Páginas de Gramática/Gramática General/Los Artículos\|Los Artículos]]
 [[02 - Páginas de Gramática/Gramática General/Las Preposiciones\|Las Preposiciones]]
-[[02 - Páginas de Gramática/Gramática General/Los Pronombres Interrogativos\|Los Pronombres Interrogativos]] ⭕
-[[02 - Páginas de Gramática/Gramática General/Los Pronombres Pronominales\|Los Pronombres Pronominales]] ❌
+[[02 - Páginas de Gramática/Gramática General/Los Pronombres Interrogativos\|Los Pronombres Interrogativos]] 
+[[02 - Páginas de Gramática/Gramática General/Los Pronombres Pronominales\|Los Pronombres Pronominales]] 
 [[02 - Páginas de Gramática/Gramática General/El Complemento Directo\|El Complemento Directo]]
 [[02 - Páginas de Gramática/Gramática General/El Complemento Indirecto\|El Complemento Indirecto]]
 [[02 - Páginas de Gramática/Gramática General/Los Adverbios\|Los Adverbios]]
 [[02 - Páginas de Gramática/Gramática General/Los Adjetivos\|Los Adjetivos]]
 [[02 - Páginas de Gramática/Gramática General/Los Pronombres Relativos\|Los Pronombres Relativos]]
 [[02 - Páginas de Gramática/Gramática General/La Concordancia Compuesta\|La Concordancia Compuesta]]
-
-
 ### Formas Verbales
-[[02 - Páginas de Gramática/Gramática General/Los Verbos en Infinitivo\|Los Verbos en Infinitivo]] ⭕
-[[02 - Páginas de Gramática/Gramática General/Los Verbos Auxiliares\|Los Verbos Auxiliares]] ⭕
+[[02 - Páginas de Gramática/Gramática General/Los Verbos en Infinitivo\|Los Verbos en Infinitivo]] 
+[[02 - Páginas de Gramática/Gramática General/Los Verbos Auxiliares\|Los Verbos Auxiliares]] 
 [[02 - Páginas de Gramática/Gramática General/La Conjugación Simple\|La Conjugación Simple]]
 [[02 - Páginas de Gramática/Gramática General/La Conjugación Compuesta\|La Conjugación Compuesta]]
 [[02 - Páginas de Gramática/Gramática General/El Indicativo Presente\|El Indicativo Presente]]
@@ -63,17 +61,16 @@ A través de la gramática:
 [[02 - Páginas de Gramática/Gramática General/Qué es una Oración\|¿Qué Es Una Oración?]]
 [[02 - Páginas de Gramática/Gramática General/La Comunicación Directa\|La Comunicación Directa]]
 [[02 - Páginas de Gramática/Gramática General/La Inflexión\|La Inflexión]] 
-[[02 - Páginas de Gramática/Gramática General/Los Sufijos\|Los Sufijos]] ⭕
+[[02 - Páginas de Gramática/Gramática General/Los Sufijos\|Los Sufijos]] 
 [[02 - Páginas de Gramática/Gramática General/El Registro\|El Registro]]
 [[02 - Páginas de Gramática/Gramática General/La Perífrasis Verbal y Locución Verbal\|La Perífrasis Verbal y Locución Verbal]]
 [[02 - Páginas de Gramática/Gramática General/La Diacronía y Sincronía\|La Diacronía y Sincronía]]
 [[02 - Páginas de Gramática/Gramática General/Los Choques Fonéticos\|Los Choques Fonéticos]]
 [[02 - Páginas de Gramática/Gramática General/Las Conjunciones\|Las Conjunciones]]
 [[02 - Páginas de Gramática/Gramática General/Los Verbos Transitivos e Intransitivos\|Los Verbos Transitivos e Intransitivos]]
-[[02 - Páginas de Gramática/Gramática General/Los Verbos Modales\|Los Verbos Modales]] ⭕
-[[02 - Páginas de Gramática/Gramática General/Las Estructuras Modales\|Las Estructuras Modales]] ⭕
+[[02 - Páginas de Gramática/Gramática General/Los Verbos Modales\|Los Verbos Modales]] 
 [[02 - Páginas de Gramática/Gramática General/Las Oraciones & Clausulas\|Las Oraciones & Clausulas]] ⭕
-[[02 - Páginas de Gramática/Gramática General/El Discurso Indirecto\|El Discurso Indirecto]] ⭕
+[[02 - Páginas de Gramática/Gramática General/El Discurso Indirecto\|El Discurso Indirecto]] 
 [[02 - Páginas de Gramática/Gramática General/Las Estructuras Pasivas\|Las Estructuras Pasivas]]
 [[02 - Páginas de Gramática/Gramática General/Los Adjetivos Sustantivados\|Los Adjetivos Sustantivados]]
 [[02 - Páginas de Gramática/Gramática General/La Concordancia Temporal en Oraciones Subordinadas\|La Concordancia Temporal en Oraciones Subordinadas]]

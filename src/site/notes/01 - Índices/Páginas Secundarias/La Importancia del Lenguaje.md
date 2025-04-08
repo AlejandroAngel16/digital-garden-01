@@ -24,5 +24,5 @@ Para Iniciar… Es como descubrir un super-poder: Hablar otro idioma te permite 
 - **Te abre puertas**: Saber idiomas te puede ayudar profesionalmente, ya que las empresas buscan personas que puedan conectar con diferentes mercados. También puedes acceder a más contenido educativo o artístico.
 
 
->>- **Esperamos que aquí encuentres tu nueva pasión por los idiomas y las lenguas!!**
+>- **Esperamos que aquí encuentres tu nueva pasión por los idiomas y las lenguas!!**
 ___

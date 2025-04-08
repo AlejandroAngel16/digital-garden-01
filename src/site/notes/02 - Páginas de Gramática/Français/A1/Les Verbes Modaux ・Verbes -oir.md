@@ -33,7 +33,7 @@ Los [[02 - Páginas de Gramática/Gramática General/Los Verbos Modales\|verbos 
 | Ils/elles    | Veulent          | Peuvent         | Doivent        | Savent |
 Estos cuatro verbos no son los únicos que se pueden utilizar de **manera modal** junto a otro verbos. Sin embargo son los más comunes cuando se trata de armar estructuras así. Otros verbos que se usen para este fin pueden ser: **Aimer, Laisser, Détester, Avoir besoin de.**
 ## Estructura Modal (2 Verbos)
-La [[02 - Páginas de Gramática/Gramática General/Las Estructuras Modales\|Estructura Modal]] usará entonces un verbo de carácter modal, que será interpretado como el verbo principal ya que estará conjugado y el verbo complementario que estará en infinitivo.
+La [[02 - Páginas de Gramática/Gramática General/Los Verbos Modales\|Estructura Modal]] usará entonces un verbo de carácter modal, que será interpretado como el verbo principal ya que estará conjugado y el verbo complementario que estará en infinitivo.
 En el caso de que el verbo complementario (Modal) sea pronominal, debemos poner el pronombre pronominal correspondiente justo antes del infinitivo:
 
 > [!NOTE] 
