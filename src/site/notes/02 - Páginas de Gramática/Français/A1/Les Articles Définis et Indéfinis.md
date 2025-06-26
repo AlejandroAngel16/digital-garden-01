@@ -5,7 +5,7 @@
 # Les Articles Définis et Indéfinis
 #Français #A1
 ___
-Main Index: [[02 - Páginas de Gramática/Français/A1/Nivel A1・FR\|Nivel A1・FR]]
+Main Index: [[02 - Páginas de Gramática/Français/A1/Nivel A1・FR\|02 - Páginas de Gramática/Français/A1/Nivel A1・FR]]
 ___
 ## Artículos Definidos
 La lengua francesa, justo como el español, tiene dos géneros → **masculino y femenino** para cada sustantivo. Hay ligeras reglas para poder identificar el género de una palabra. Sin embargo, existen varias excepciones y por esta razón, tiene más sentido aprender el genero de cada palabra directamente por memoria.
@@ -37,7 +37,7 @@ Este artículo nos permite hablar de un elemento **no específico** que también
 
 > [!info] 
 > - No existe un [[02 - Páginas de Gramática/Gramática General/Los Artículos\|artículo indefinido]] que se apostrofe, por ende no hace falta prestar atención si un sustantivo inicia por vocal, solamente al género.
-> - **Des** es otra palabra complicada debido a que tiene otro uso más alla de ser un Artículo Indefinido. En la sección de [[02 - Páginas de Gramática/Français/A1/Les Articles Partitifs\|Les Articles Partitifs]]  se revisará precisamente la importancia de estos elementos.
+> - **Des** es otra palabra complicada debido a que tiene otro uso más alla de ser un Artículo Indefinido. En la sección de [[02 - Páginas de Gramática/Français/A1/Les Articles Partitifs\|02 - Páginas de Gramática/Français/A1/Les Articles Partitifs]]  se revisará precisamente la importancia de estos elementos.
 
 > [!example] 
 > - J’ai une orange. → Tengo una naranja.

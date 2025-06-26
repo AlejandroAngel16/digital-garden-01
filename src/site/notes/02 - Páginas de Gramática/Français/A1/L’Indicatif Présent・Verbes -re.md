@@ -5,7 +5,7 @@
 # L’Indicatif Présent・Verbes -re
 #Français #A1
 ___
-Main Index: [[02 - Páginas de Gramática/Français/A1/Nivel A1・FR\|Nivel A1・FR]]
+Main Index: [[02 - Páginas de Gramática/Français/A1/Nivel A1・FR\|02 - Páginas de Gramática/Français/A1/Nivel A1・FR]]
 ___
 Los verbos de este grupo son algunas veces irregulares y por dado, hay ocasiones en las que su conjugación debe aprenderse por memoria.
 >En francés hay una cantidad considerable de verbos irregulares. Por ello es mejor aprenderlos en la marcha y haciendo ejercicios de escritura.
@@ -29,6 +29,6 @@ Los verbos de este grupo son algunas veces irregulares y por dado, hay ocasiones
 > - Nous attendons le bus depuis vingt minutes. → Esperamos el bus desde hace 20 minutos.
 > - Tu réponds toujours rapidement à mes messages. → Respondes siempre rápido a mis mensajes.
 
-Es sugerido saltar a la sección [[02 - Páginas de Gramática/Français/A2/Les Verbes d’Interaction + (Faire)\|Les Verbes d’Interaction + (Faire)]] directamente al acabar esta sección de conjugaciones y luego regresar a ver el resto de contenido A1.
+Es sugerido saltar a la sección [[02 - Páginas de Gramática/Français/A2/Les Verbes d’Interaction + (Faire)\|02 - Páginas de Gramática/Français/A2/Les Verbes d’Interaction + (Faire)]] directamente al acabar esta sección de conjugaciones y luego regresar a ver el resto de contenido A1.
 
 ___

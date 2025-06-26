@@ -5,7 +5,7 @@
 # Les Articles Partitifs
 #Français #A1
 ___
-Main Index: [[02 - Páginas de Gramática/Français/A1/Nivel A1・FR\|Nivel A1・FR]]
+Main Index: [[02 - Páginas de Gramática/Français/A1/Nivel A1・FR\|02 - Páginas de Gramática/Français/A1/Nivel A1・FR]]
 ___
 ## Artículos Partitivos Positivos
 Estos artículos, como es usual, son usados justo antes de un sustantivo. Sin embargo, solo los usamos cuando estemos hablando de un cantidad que no sea definida. En español no existen, por ello puede ser un poco extraño. Tampoco existe una traducción directa.

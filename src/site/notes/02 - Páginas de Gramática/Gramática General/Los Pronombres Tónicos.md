@@ -15,7 +15,7 @@ Los pronombres tónicos son en otras palabras:
 Entre ellos se encuentran los pronombres personales, interrogativos, exclamativos, demostrativos, indefinidos y relativos.
 
 **Pronombres personales tónicos**
-Yo, Tú, Nosotros, Ellos, Mí, Ti/Tú , Conmigo, Contigo.
+>Yo, Tú, Nosotros, Ellos, Mí, Ti/Tú , Conmigo, Contigo.
 
 Funciones de los pronombres personales tónicos Sujeto, Atributo, Complemento precedido de preposición.
 

@@ -5,9 +5,9 @@
 # Les Prépositions (+ Chez)
 #Français #A1
 ___
-Main Index: [[02 - Páginas de Gramática/Français/A1/Nivel A1・FR\|Nivel A1・FR]]
+Main Index: [[02 - Páginas de Gramática/Français/A1/Nivel A1・FR\|02 - Páginas de Gramática/Français/A1/Nivel A1・FR]]
 ___
-> Antes que nada, es extremadamente importante recordar que “a” y “à” son dos palabras completamente diferentes. No está demás recordar que “a” es la conjugación del verbo “avoir”. → [[02 - Páginas de Gramática/Français/A1/Les Verbes - Être et Avoir\|Les Verbes - Être et Avoir]]
+> Antes que nada, es extremadamente importante recordar que “a” y “à” son dos palabras completamente diferentes. No está demás recordar que “a” es la conjugación del verbo “avoir”. → [[02 - Páginas de Gramática/Français/A1/Les Verbes - Être et Avoir\|02 - Páginas de Gramática/Français/A1/Les Verbes - Être et Avoir]]
 
 ## Preposiciones de Lugar
 Las [[02 - Páginas de Gramática/Gramática General/Las Preposiciones\|preposiciones]] de lugar, como ya sabemos, nos permiten localizar elementos dentro del plano físico. Es posible que algunas palabras también se consideren adverbios de lugar dependiendo de su categoría. 

@@ -11,28 +11,23 @@ El indicativo imperfecto es un tiempo verbal utilizado para expresar acciones qu
 
 El **indicativo imperfecto** se utiliza para:
 
-> 1. **Acciones habituales o repetidas en el pasado**:
-    - Ejemplo: _Cuando era niño, **jugaba** todos los días en el parque._ (Acción habitual en el pasado)
+Acciones habituales o repetidas en el pasado:
+>Cuando era niño, **jugaba** todos los días en el parque.(Acción habitual en el pasado)
 
->2. **Acciones en progreso o situaciones que estaban en desarrollo**:
-    - Ejemplo: _Mientras él **leía**, yo **escribía**._ (Acciones en progreso)
+Acciones en progreso o situaciones que estaban en desarrollo:
+> Mientras él **leía**, yo **escribía**. (Acciones en progreso)
 
->3. **Descripciones de personas, lugares o situaciones en el pasado**:
-    - Ejemplo: _La casa **era** grande y **tenía** un jardín hermoso._ (Descripción)
+Descripciones de personas, lugares o situaciones en el pasado:
+>La casa **era** grande y **tenía** un jardín hermoso.(Descripción)
 
->4. **Acciones simultáneas en el pasado**:
-    - Ejemplo: _Yo **cocinaba** mientras ella **limpiaba**._ (Acciones simultáneas)
+Acciones simultáneas en el pasado:
+>Yo **cocinaba** mientras ella **limpiaba**. (Acciones simultáneas)
 
-## Formación del Imperfecto
+### Conjugación de verbos regulares:
 
-| Pronombre Sujeto | Verbo -ar | Verbo -er | Verbo -ir |
-| ---------------- | --------- | --------- | --------- |
-| Yo               | -ba       | -ía       | -ía       |
-| Tú               | -bas      | -ías      | -ías      |
-| Él/ella          | -ba       | -ía       | -ía       |
-| Nosotros         | -bamos    | -íamos    | -íamos    |
-| Vosotros         | -bais     | -íais     | -íais     |
-| Ellos/ellas      | -ban      | -ían      | -ían      |
 
+| **Verbos en -AR** (_hablar_)                                                                                                          | **Verbos en -ER** (_comer_)                                                                                               | **Verbos en -IR** (_vivir_)                                                                                                 |
+| ------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------- |
+| Yo hablaba<br>Tú hablabas<br>Él/Ella/Usted hablaba<br>Nosotros/as hablábamos<br>Vosotros/as hablabais<br>Ellos/Ellas/Ustedes hablaban | Yo comía<br>Tú comías<br>Él/Ella/Usted comía<br>Nosotros/as comíamos<br>Vosotros/as comíais<br>Ellos/Ellas/Ustedes comían | Yo vivía<br>Tú vivías<br>Él/Ella/Usted vivía  <br>Nosotros/as vivíamos<br>Vosotros/as vivíais<br>Ellos/Ellas/Ustedes vivían |
 
 ___

@@ -5,7 +5,7 @@
 # Les Adverbes De Lieu
 #Français #A1
 ___
-Main Index: [[02 - Páginas de Gramática/Français/A1/Nivel A1・FR\|Nivel A1・FR]]
+Main Index: [[02 - Páginas de Gramática/Français/A1/Nivel A1・FR\|02 - Páginas de Gramática/Français/A1/Nivel A1・FR]]
 ___
 ## Adverbios de Lugar Específicos
 Estas palabras se usan para describir la posición de algún elemento, justo como en español. La mayor diferencia se encuentra en el uso de la preposición de, ya que algunos de estos no la usan en comparación al español.

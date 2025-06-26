@@ -5,7 +5,7 @@
 # Les Verbes Pronominaux
 #Français #A1
 ___
-Main Index: [[02 - Páginas de Gramática/Français/A1/Nivel A1・FR\|Nivel A1・FR]]
+Main Index: [[02 - Páginas de Gramática/Français/A1/Nivel A1・FR\|02 - Páginas de Gramática/Français/A1/Nivel A1・FR]]
 ___
 Los [[02 - Páginas de Gramática/Gramática General/Los Pronombres Pronominales\|pronombres pronominales ]]son elementos que se añaden junto a un [[02 - Páginas de Gramática/Gramática General/Los Pronombres Sujeto\|pronombre sujeto]] para poder dar a entender que el siguiente verbo va a tener un acto de reflexión. ¿Qué significa esto? Básicamente, el verbo que realice un Sujeto recaerá en el mismo sujeto. Primero aprendamos cuales pronombres corresponden a cada uno.
 

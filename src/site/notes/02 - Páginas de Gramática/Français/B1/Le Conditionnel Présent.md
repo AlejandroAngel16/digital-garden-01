@@ -5,7 +5,7 @@
 # Le Conditionnel Présent
 #Français #B1
 ___
-Main Index: [[02 - Páginas de Gramática/Français/B1/Nivel B1・FR\|Nivel B1・FR]]
+Main Index: [[02 - Páginas de Gramática/Français/B1/Nivel B1・FR\|02 - Páginas de Gramática/Français/B1/Nivel B1・FR]]
 ___
 [image]
 
@@ -34,7 +34,7 @@ Las terminaciones siempre serán las mismas independientemente del grupo verbal 
 > 	- Partir → Partirais
 > - En el caso de los verbos -re, tendremos que remover la ‘e’ del final y reemplazarla por la terminación adecuada.
 
-[[02 - Páginas de Gramática/Français/B1/Le Conditionnel Présent\|Le Conditionnel Présent]] también se podrá utilizar no solo para hablar del futuro, sino para crear estructuras condicionales como se verá en secciones siguientes.
+[[02 - Páginas de Gramática/Français/B1/Le Conditionnel Présent\|02 - Páginas de Gramática/Français/B1/Le Conditionnel Présent]] también se podrá utilizar no solo para hablar del futuro, sino para crear estructuras condicionales como se verá en secciones siguientes.
 
 
 > [!example] 
@@ -49,7 +49,7 @@ Como se puede notar, esta conjugación se utiliza para expresar formalidad, suge
 ### Raíces Irregulares
 Existe un gran grupo de verbos cuya raíz cambia para poder utilizarse en este tiempo. Estos cambios de la raíz no sigue un patrón fijo y debe aprenderse por memoria.
 
-Está sección está igualmente en [[02 - Páginas de Gramática/Français/A2/L’Indicatif Futur\|L’Indicatif Futur]] pero no está de más recordarla.
+Está sección está igualmente en [[02 - Páginas de Gramática/Français/A2/L’Indicatif Futur\|02 - Páginas de Gramática/Français/A2/L’Indicatif Futur]] pero no está de más recordarla.
 
 Podemos revisar los Verbos Irregulares en la siguiente tabla:
 

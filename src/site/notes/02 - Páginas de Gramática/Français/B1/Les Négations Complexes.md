@@ -5,9 +5,9 @@
 # Les Négations Complexes
 #Français #B1
 ___
-Main Index: [[02 - Páginas de Gramática/Français/B1/Nivel B1・FR\|Nivel B1・FR]]
+Main Index: [[02 - Páginas de Gramática/Français/B1/Nivel B1・FR\|02 - Páginas de Gramática/Français/B1/Nivel B1・FR]]
 ___
-Reconocemos que [[02 - Páginas de Gramática/Français/A1/La Négation\|La Négation]] en la lengua francesa requiere utilizar ne-pas alrededor de un verbo conjugado. Sin embargo, hay varias formas de hacer una negación y las elementos que se usen, debido a su naturaleza de negación, van a reemplazar a pas dentro de la oración.
+Reconocemos que [[02 - Páginas de Gramática/Français/A1/La Négation\|02 - Páginas de Gramática/Français/A1/La Négation]] en la lengua francesa requiere utilizar ne-pas alrededor de un verbo conjugado. Sin embargo, hay varias formas de hacer una negación y las elementos que se usen, debido a su naturaleza de negación, van a reemplazar a pas dentro de la oración.
 ## Negaciones Simples
 Podemos ver estas negaciones simples en la siguiente tabla:
 

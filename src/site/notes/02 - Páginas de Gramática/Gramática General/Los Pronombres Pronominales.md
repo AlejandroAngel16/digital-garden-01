@@ -9,7 +9,7 @@ Main Index: [[01 - Índices/Páginas Generales/Fundamentación Gramatical\|Funda
 ___
 Los pronombres pronominales son aquellos pronombres que se refieren al sujeto de la oración o que indican una relación reflexiva o recíproca. Estos pronombres se utilizan en verbos reflexivos, recíprocos y en algunas estructuras impersonales. 
 
-**Como ejemplo →** "me lavo", "te lavas", "se lava", "nos lavamos", "os laváis", "ellos se lavan", el pronombre reflexivo es "me", "te", "se", "nos", "os", "se".
+>**ejemplo** → "me lavo", "te lavas", "se lava", "nos lavamos", "os laváis", "ellos se lavan", el pronombre reflexivo es "me", "te", "se", "nos", "os", "se".
 
 | Pronombre Sujeto | Pronombre Pronominal |
 | ---------------- | -------------------- |

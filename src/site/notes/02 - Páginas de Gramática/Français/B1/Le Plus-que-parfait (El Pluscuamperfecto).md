@@ -5,21 +5,21 @@
 # Le Plus-que-parfait (El Pluscuamperfecto)
 #Français #B1
 ___
-Main Index: [[02 - Páginas de Gramática/Français/B1/Nivel B1・FR\|Nivel B1・FR]]
+Main Index: [[02 - Páginas de Gramática/Français/B1/Nivel B1・FR\|02 - Páginas de Gramática/Français/B1/Nivel B1・FR]]
 ___
 >Esta sección es extremadamente similar al [[02 - Páginas de Gramática/Français/A2/Le Passé Composé (El Perfecto Compuesto)\|passé composé]], incluyendo las mismas reglas debido a que es una [[02 - Páginas de Gramática/Gramática General/La Conjugación Compuesta\|conjugación compuesta]]. Se podría decir que es una continuación directa.
 
 [Image]
 
-Esta es una Conjugación Compuesta justo como el [[02 - Páginas de Gramática/Français/A2/Le Passé Composé (El Perfecto Compuesto)\|passé composé]], o sea que las reglas de conjugación son extremadamente similares. Su estructura análoga del español es el **pluscuamperfecto** y se usa para hablar de eventos en un pasado lejano.
+Esta es una [[02 - Páginas de Gramática/Gramática General/La Conjugación Compuesta\|conjugación compuesta]] justo como el [[02 - Páginas de Gramática/Français/A2/Le Passé Composé (El Perfecto Compuesto)\|passé composé]], o sea que las reglas de conjugación son extremadamente similares. Su estructura análoga del español es el **pluscuamperfecto** y se usa para hablar de eventos en un pasado lejano.
 
-Si antes usábamos [[02 - Páginas de Gramática/Français/A2/Le Passé Composé (El Perfecto Compuesto)\|Le Passé Composé (El Perfecto Compuesto)]] para hablar de una situación que pasó una sola vez en el pasado, [[02 - Páginas de Gramática/Français/B1/Le Plus-que-parfait (El Pluscuamperfecto)\|Le Plus-que-parfait (El Pluscuamperfecto)]] funciona igual, solo que ahora será una situación anterior a otra y por esta razón utilizaremos esta conjugación junto a otras como [[02 - Páginas de Gramática/Français/A2/L’Indicatif Imparfait\|L’Indicatif Imparfait]].
+Si antes usábamos [[02 - Páginas de Gramática/Français/A2/Le Passé Composé (El Perfecto Compuesto)\|02 - Páginas de Gramática/Français/A2/Le Passé Composé (El Perfecto Compuesto)]] para hablar de una situación que pasó una sola vez en el pasado, [[02 - Páginas de Gramática/Français/B1/Le Plus-que-parfait (El Pluscuamperfecto)\|02 - Páginas de Gramática/Français/B1/Le Plus-que-parfait (El Pluscuamperfecto)]] funciona igual, solo que ahora será una situación anterior a otra y por esta razón utilizaremos esta conjugación junto a otras como [[02 - Páginas de Gramática/Français/A2/L’Indicatif Imparfait\|02 - Páginas de Gramática/Français/A2/L’Indicatif Imparfait]].
 ## Estructuración
 Para poder armar una oración en **plus-que-parfait**, debemos comprender qué es un [[02 - Páginas de Gramática/Gramática General/El Participio Pasado\|participio pasado]] y su formación junto a los verbos auxiliares que acompañan a ciertos verbos dependiendo de su categoría.
 
-- Para formar [[02 - Páginas de Gramática/Gramática General/El Participio Pasado\|participios pasados]], es necesario revisar la sección previa en [[02 - Páginas de Gramática/Français/A2/Le Passé Composé (El Perfecto Compuesto)\|Le Passé Composé (El Perfecto Compuesto)]] donde se explica a profundidad.
+- Para formar [[02 - Páginas de Gramática/Gramática General/El Participio Pasado\|participios pasados]], es necesario revisar la sección previa en [[02 - Páginas de Gramática/Français/A2/Le Passé Composé (El Perfecto Compuesto)\|02 - Páginas de Gramática/Français/A2/Le Passé Composé (El Perfecto Compuesto)]] donde se explica a profundidad.
 
-En el caso de los [[02 - Páginas de Gramática/Gramática General/Los Verbos Auxiliares\|verbos auxiliares]], es importante reconocer su uso cuando el verbo en participio corresponde a un **verbo de movimiento** o no. Estas reglas están descritas en la sección de [[02 - Páginas de Gramática/Français/A2/Le Passé Composé (El Perfecto Compuesto)\|Le Passé Composé (El Perfecto Compuesto)]].  Sin embargo, a diferencia de [[02 - Páginas de Gramática/Français/A2/Le Passé Composé (El Perfecto Compuesto)\|Le Passé Composé (El Perfecto Compuesto)]], el **plus-que-parfait** requiere que utilicemos los verbos auxiliares en [[02 - Páginas de Gramática/Français/A2/L’Indicatif Imparfait\|L’Indicatif Imparfait]].
+En el caso de los [[02 - Páginas de Gramática/Gramática General/Los Verbos Auxiliares\|verbos auxiliares]], es importante reconocer su uso cuando el verbo en participio corresponde a un **verbo de movimiento** o no. Estas reglas están descritas en la sección de [[02 - Páginas de Gramática/Français/A2/Le Passé Composé (El Perfecto Compuesto)\|02 - Páginas de Gramática/Français/A2/Le Passé Composé (El Perfecto Compuesto)]].  Sin embargo, a diferencia de [[02 - Páginas de Gramática/Français/A2/Le Passé Composé (El Perfecto Compuesto)\|02 - Páginas de Gramática/Français/A2/Le Passé Composé (El Perfecto Compuesto)]], el **plus-que-parfait** requiere que utilicemos los verbos auxiliares en [[02 - Páginas de Gramática/Français/A2/L’Indicatif Imparfait\|02 - Páginas de Gramática/Français/A2/L’Indicatif Imparfait]].
 
 Primero recordemos la conjugación de estos dos verbos:
 

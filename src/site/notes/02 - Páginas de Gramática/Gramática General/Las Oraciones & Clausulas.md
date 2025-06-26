@@ -69,8 +69,4 @@ Una **cláusula** avanzada se refiere a una cláusula que incluye estructuras m�
 > - **Cláusula relativa compleja**: La chica que llegó tarde al evento, que había estado esperando en la puerta, finalmente pudo entrar.
 
 
-## Clausulas Relativas
-
-WIP
-
 ___

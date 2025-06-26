@@ -5,9 +5,9 @@
 # Les Adverbes de Quantité
 #Français #A1
 ___
-Main Index: [[02 - Páginas de Gramática/Français/A1/Nivel A1・FR\|Nivel A1・FR]]
+Main Index: [[02 - Páginas de Gramática/Français/A1/Nivel A1・FR\|02 - Páginas de Gramática/Français/A1/Nivel A1・FR]]
 ___
-Sabemos que [[02 - Páginas de Gramática/Français/A1/Les Articles Partitifs\|Les Articles Partitifs]] usan para describir cantidades indefinidas. Sin embargo, cuando definimos cantidades de algo, utilizamos una gran cantidad de **Adverbios** y palabras claves junto a la preposición de, similar al español.
+Sabemos que [[02 - Páginas de Gramática/Français/A1/Les Articles Partitifs\|02 - Páginas de Gramática/Français/A1/Les Articles Partitifs]] usan para describir cantidades indefinidas. Sin embargo, cuando definimos cantidades de algo, utilizamos una gran cantidad de **Adverbios** y palabras claves junto a la preposición de, similar al español.
 
 ## Adverbios de Cantidad
 

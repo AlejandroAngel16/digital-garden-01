@@ -5,9 +5,9 @@
 # Le Conditionnel I (Réel)
 #Français #B1
 ___
-Main Index: [[02 - Páginas de Gramática/Français/B1/Nivel B1・FR\|Nivel B1・FR]]
+Main Index: [[02 - Páginas de Gramática/Français/B1/Nivel B1・FR\|02 - Páginas de Gramática/Français/B1/Nivel B1・FR]]
 ___
-El condicional 1 o Condicional Real en francés , justo como en español, se utiliza para expresar situaciones que son probables. Para ello vamos a utilizar el [[02 - Páginas de Gramática/Français/A2/L’Indicatif Futur\|L’Indicatif Futur]] el resultado de la condición. Con este condicional hablamos desde la experiencia y expresamos que algo ocurrirá dado que se cumpla la condición
+El condicional 1 o Condicional Real en francés , justo como en español, se utiliza para expresar situaciones que son probables. Para ello vamos a utilizar el [[02 - Páginas de Gramática/Français/A2/L’Indicatif Futur\|02 - Páginas de Gramática/Français/A2/L’Indicatif Futur]] el resultado de la condición. Con este condicional hablamos desde la experiencia y expresamos que algo ocurrirá dado que se cumpla la condición
 
 Hay que comprender el concepto de → [[02 - Páginas de Gramática/Gramática General/Las Oraciones & Clausulas\|Clausula]] para entender como se divide una oración.
 

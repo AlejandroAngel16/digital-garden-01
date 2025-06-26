@@ -5,9 +5,9 @@
 # Le Conditionnel 0 (de Vérité)
 #Français #B1
 ___
-Main Index: [[02 - Páginas de Gramática/Français/B1/Nivel B1・FR\|Nivel B1・FR]]
+Main Index: [[02 - Páginas de Gramática/Français/B1/Nivel B1・FR\|02 - Páginas de Gramática/Français/B1/Nivel B1・FR]]
 ___
-El Condicional 0 o Condicional de Verdad en francés , justo como en español, se utiliza para expresar situaciones que siempre serán ciertas, hechos. Para ello vamos a utilizar [[02 - Páginas de Gramática/Français/A1/L’Indicatif Présent (Résumé)\|L’Indicatif Présent (Résumé)]] en cada una de las [[02 - Páginas de Gramática/Gramática General/Las Oraciones & Clausulas\|clausulas]].
+El Condicional 0 o Condicional de Verdad en francés , justo como en español, se utiliza para expresar situaciones que siempre serán ciertas, hechos. Para ello vamos a utilizar [[02 - Páginas de Gramática/Français/A1/L’Indicatif Présent (Résumé)\|02 - Páginas de Gramática/Français/A1/L’Indicatif Présent (Résumé)]] en cada una de las [[02 - Páginas de Gramática/Gramática General/Las Oraciones & Clausulas\|clausulas]].
 
 Hay que comprender el concepto de → [[02 - Páginas de Gramática/Gramática General/Las Oraciones & Clausulas\|clausula]] para entender como se divide una oración.
 

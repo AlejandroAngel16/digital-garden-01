@@ -5,9 +5,9 @@
 # L’Indicatif Présent (Résumé)
 #Français #A1
 ___
-Main Index: [[02 - Páginas de Gramática/Français/A1/Nivel A1・FR\|Nivel A1・FR]]
+Main Index: [[02 - Páginas de Gramática/Français/A1/Nivel A1・FR\|02 - Páginas de Gramática/Français/A1/Nivel A1・FR]]
 ___
-Considerando que cada sección para el Indicativo Presente del francés se ha visto por separado → [[02 - Páginas de Gramática/Français/A1/L’Indicatif Présent・Verbes -er (+ Aller)\|L’Indicatif Présent・Verbes -er (+ Aller)]], [[02 - Páginas de Gramática/Français/A1/L’Indicatif Présent・Verbes -ir\|L’Indicatif Présent・Verbes -ir]] y [[02 - Páginas de Gramática/Français/A1/L’Indicatif Présent・Verbes -re\|L’Indicatif Présent・Verbes -re]], podemos simplificar la información sin ahondar en los mismos detalles de cada lección.
+Considerando que cada sección para el Indicativo Presente del francés se ha visto por separado → [[02 - Páginas de Gramática/Français/A1/L’Indicatif Présent・Verbes -er (+ Aller)\|02 - Páginas de Gramática/Français/A1/L’Indicatif Présent・Verbes -er (+ Aller)]], [[02 - Páginas de Gramática/Français/A1/L’Indicatif Présent・Verbes -ir\|02 - Páginas de Gramática/Français/A1/L’Indicatif Présent・Verbes -ir]] y [[02 - Páginas de Gramática/Français/A1/L’Indicatif Présent・Verbes -re\|02 - Páginas de Gramática/Français/A1/L’Indicatif Présent・Verbes -re]], podemos simplificar la información sin ahondar en los mismos detalles de cada lección.
 
 > Esta sección se hace con el fin de organizar la información de manera más compacta para enfocarse en la conjugación del Indicativo Presente de los tres grupos verbales del francés.
 

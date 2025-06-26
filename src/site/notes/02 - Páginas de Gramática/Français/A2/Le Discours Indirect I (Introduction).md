@@ -5,7 +5,7 @@
 # Le Discours Indirect I (Introduction)
 #Français #A2
 ___
-Main Index: [[02 - Páginas de Gramática/Français/A2/Nivel A2・FR\|Nivel A2・FR]]
+Main Index: [[02 - Páginas de Gramática/Français/A2/Nivel A2・FR\|02 - Páginas de Gramática/Français/A2/Nivel A2・FR]]
 ___
 El [[02 - Páginas de Gramática/Gramática General/El Discurso Indirecto\|discurso indirecto]] es una estructura que nos permite reportar información que otro actor ha mencionado antes. Esta estructura requiere realizarse con unas condiciones específicas y evita que se expresen las palabras exactas del emisor original.
 

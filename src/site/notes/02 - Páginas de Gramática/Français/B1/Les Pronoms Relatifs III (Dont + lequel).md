@@ -5,7 +5,7 @@
 # Les Pronoms Relatifs III (Dont + lequel)
 #Français #B1
 ___
-Main Index: [[02 - Páginas de Gramática/Français/B1/Nivel B1・FR\|Nivel B1・FR]]
+Main Index: [[02 - Páginas de Gramática/Français/B1/Nivel B1・FR\|02 - Páginas de Gramática/Français/B1/Nivel B1・FR]]
 ___
 Para conectar oraciones o hacer referencias a otros elementos entre oraciones con más de una [[02 - Páginas de Gramática/Gramática General/Las Oraciones & Clausulas\|clausula]], utilizamos pronombres relativos o como también es descrito, [[02 - Páginas de Gramática/Gramática General/Las Oraciones & Clausulas\|clausulas subordinadas]].
 
@@ -23,7 +23,7 @@ Los Pronombres Relativos Compuestos se usan principalmente después de ciertas p
 
 > [!info] 
 > - Estos pronombres están sujetos a un Artículo Definido y dependiendo de la preposición que se utilice en las oraciones, podrán existir ligeros cambios a la expresión.
-> - Por ejemplo, se tiene en cuenta [[02 - Páginas de Gramática/Français/A2/Les Verbes à Regime Prépositionnel\|Les Verbes à Regime Prépositionnel]] para la modificación de los pronombres.
+> - Por ejemplo, se tiene en cuenta [[02 - Páginas de Gramática/Français/A2/Les Verbes à Regime Prépositionnel\|02 - Páginas de Gramática/Français/A2/Les Verbes à Regime Prépositionnel]] para la modificación de los pronombres.
 
 ### Preposiciones Sencillas
 
@@ -41,7 +41,7 @@ Los Pronombres Relativos Compuestos se usan principalmente después de ciertas p
 > - C’est l’outil avec lequel je travaille chaque jour. → Es la herramienta con la cual yo trabajo cada día.
 > - Voici la personne pour laquelle j’ai tout fait. → He aquí la persona por la cual he hecho todo.
 
-> Si deseamos sonar más informales, la contra-parte de estos pronombres son los demostrativos en → [[02 - Páginas de Gramática/Français/A2/Les Pronoms Démonstratifs ( + Ce que)\|Les Pronoms Démonstratifs ( + Ce que)]] Ej → Pour celui-ci que je travaille → Por el que trabajo.
+> Si deseamos sonar más informales, la contra-parte de estos pronombres son los demostrativos en → [[02 - Páginas de Gramática/Français/A2/Les Pronoms Démonstratifs ( + Ce que)\|02 - Páginas de Gramática/Français/A2/Les Pronoms Démonstratifs ( + Ce que)]] Ej → Pour celui-ci que je travaille → Por el que trabajo.
 
 ### Preposiciones Contractas
 

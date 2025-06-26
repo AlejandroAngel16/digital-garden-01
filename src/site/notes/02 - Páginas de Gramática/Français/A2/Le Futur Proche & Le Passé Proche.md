@@ -5,7 +5,7 @@
 # Le Futur Proche & Le Passé Proche
 #Français #A2
 ___
-Main Index: [[02 - Páginas de Gramática/Français/A2/Nivel A2・FR\|Nivel A2・FR]]
+Main Index: [[02 - Páginas de Gramática/Français/A2/Nivel A2・FR\|02 - Páginas de Gramática/Français/A2/Nivel A2・FR]]
 ___
 Existen un par de estructuras en el francés, muy similares al español, que nos permiten hablar rápidamente de acciones que toman lugar en el futuro cercano o que tomaron lugar hace poco.
 

@@ -5,7 +5,7 @@
 # Les Adverbes Irrégulières & -ent
 #Français #A2
 ___
-Main Index: [[02 - Páginas de Gramática/Français/A2/Nivel A2・FR\|Nivel A2・FR]]
+Main Index: [[02 - Páginas de Gramática/Français/A2/Nivel A2・FR\|02 - Páginas de Gramática/Français/A2/Nivel A2・FR]]
 ___
 Usualmente cuando queremos utilizar adjetivos y volverlos adverbios para definir la forma en como se realiza una acción, utilizamos un [[02 - Páginas de Gramática/Gramática General/Los Sufijos\|sufijo]] y ya está (como se demuestra en la segunda sub-sección de esta página). Sin embargo, Unos pocos adjetivos importantes tienen una forma particular para su contra-parte adverbial.
 ## Adverbios Irregulares

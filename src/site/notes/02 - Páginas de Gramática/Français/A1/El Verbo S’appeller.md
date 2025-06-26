@@ -5,7 +5,7 @@
 # El Verbo S’appeller
 #Français #A1
 ___
-Main Index: [[02 - Páginas de Gramática/Français/A1/Nivel A1・FR\|Nivel A1・FR]]
+Main Index: [[02 - Páginas de Gramática/Français/A1/Nivel A1・FR\|02 - Páginas de Gramática/Français/A1/Nivel A1・FR]]
 Editado por: **Luna Isabel Ramos**
 ___
 El verbo s'appeler (llamarse) es un [[02 - Páginas de Gramática/Français/A1/Les Verbes Pronominaux\|verbo pronominal]] en francés y se usa para decir el nombre de alguien o algo. Su conjugación en [[02 - Páginas de Gramática/Gramática General/El Indicativo Presente\|Presente Indicativo]] es:

@@ -5,7 +5,7 @@
 # Les Introductions
 #Français #A1
 ___
-Main Index: [[02 - Páginas de Gramática/Français/A1/Nivel A1・FR\|Nivel A1・FR]]
+Main Index: [[02 - Páginas de Gramática/Français/A1/Nivel A1・FR\|02 - Páginas de Gramática/Français/A1/Nivel A1・FR]]
 ___
 ## Saludos Introductorios
 Cuando nos introducimos ante una persona nueva, lo primero que tenemos en cuenta es el tiempo del día. ¿Es de mañana, tarde, noche? Es importante conocer que la forma en como se interpreta el tiempo dentro del lenguaje francés es muy seguramente distinta si tú no vives en el país objetivo.
@@ -16,7 +16,8 @@ Cuando nos introducimos ante una persona nueva, lo primero que tenemos en cuenta
 | Bon après-midi | Buenas tardes |
 | Bonsoir        | Buenas tardes |
 | Bonne nuit     | Buenas noches |
-|                |               |
+
+
 
 > [!info]
 > - **Bonjour** es un saludo matinal que va desde las 6 a.m. hasta las 12 p.m.
@@ -124,8 +125,8 @@ ___
 | Où est-ce que vous habitez? | ¿Dónde vive usted?     |
 
 Podemos usar estas expresiones para hablar específicamente de nuestra ciudad:
-- Je viens de → Yo vengo de
-- J’habite à → Yo vivo en
+>- Je viens de → Yo vengo de
+>- J’habite à → Yo vivo en
 
 Sin embargo si deseamos hablar de nuestro país de origen, algunas cosas cambiarán por las [[02 - Páginas de Gramática/Gramática General/Las Preposiciones\|preposiciones]] .
 
@@ -138,7 +139,7 @@ Sin embargo si deseamos hablar de nuestro país de origen, algunas cosas cambiar
 | Quelles langues est-ce que tu parles?   | ¿Cuáles idiomas hablas tú?   |
 | Quelles langues est-ce que vous parlez? | ¿Cuáles idiomas habla usted? |
 Antes de mencionar qué idioma hablamos, es necesario poner un Artículo antes:
-- Je parle le français. → Yo hablo (el) francés.
+>- Je parle le français. → Yo hablo (el) francés.
 
 Reconozcamos también los términos formales para referirse a personas con un título:
 

@@ -8,14 +8,23 @@ ___
 Main Index: [[01 - Índices/Páginas Generales/Fundamentación Gramatical\|Fundamentación Gramatical]]
 ___
 
-[![Watch the video](https://www.youtube.com/watch?v=BVJvNz3WyBc)](https://www.youtube.com/watch?v=BVJvNz3WyBc)
-## El Habla
+<div style="text-align:center">
+    <iframe width="560" height="315" 
+    src="https://www.youtube.com/embed/BVJvNz3WyBc" 
+    style="border:3px solid rgba(174, 0, 31, 1); #ccc; border-radius:8px; box-shadow:0 4px 8px rgba(0,0,0,1.1)"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+    allowfullscreen></iframe>
+</div>
+
+
+
 - Se refiere al acto físico de producir sonidos para comunicarse.
 - Implica el uso de la voz, la articulación (movimiento de labios, lengua, mandíbula), y la fluidez para expresar palabras.
 - Es una habilidad motora que puede variar en claridad o ritmo dependiendo de factores como el desarrollo físico, los trastornos del habla, o el contexto.
 - Ejemplo: Alguien puede tener un retraso en el habla si tiene dificultades para pronunciar ciertos sonidos correctamente, como decir "ca" en lugar de "casa".
 
 ## Lenguaje
+
 - Es un sistema de comunicación más amplio que incluye las palabras, reglas, y estructuras que usamos para expresar ideas, emociones, o necesidades.
 - Puede manifestarse de forma oral, escrita, o mediante gestos (como en el lenguaje de señas).
     - Comprende aspectos como el vocabulario, la gramática, y el uso adecuado según el contexto.
@@ -31,6 +40,7 @@ Un niño con un trastorno del lenguaje podría tener problemas para formar frase
 | Ejemplo de problema | Tartamudeo (problemas de pronunciación) | Afasia (problemas de comprensión y uso del lenguaje) |
 
 ## Lexicología
+
 Si la **lingüística** fuera un bosque que incluye árboles, suelo, y animales, la **lexicología** sería como estudiar específicamente las hojas de los árboles.
 
 La **lexicología** es una rama de la lingüística que estudia el **léxico** de un idioma, es decir, el conjunto de palabras y expresiones que lo conforman. Se enfoca en analizar:

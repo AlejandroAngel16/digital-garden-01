@@ -5,10 +5,10 @@
 # Les Pronoms Complément II (En & Y)
 #Français #A2
 ___
-Main Index: [[02 - Páginas de Gramática/Français/A2/Nivel A2・FR\|Nivel A2・FR]]
+Main Index: [[02 - Páginas de Gramática/Français/A2/Nivel A2・FR\|02 - Páginas de Gramática/Français/A2/Nivel A2・FR]]
 ___
 ## Estructura de Una Oración
-Regresando de [[02 - Páginas de Gramática/Français/A2/Les Pronoms Complément I (COD-COI)\|Les Pronoms Complément I (COD-COI)]] , se introducen complementos nuevos cuya existencia no está en español. Por esta razón, no tenemos una traducción directa al español. Sin embargo hay conceptos bastante cercanos para comprender su interpretación.
+Regresando de [[02 - Páginas de Gramática/Français/A2/Les Pronoms Complément I (COD-COI)\|02 - Páginas de Gramática/Français/A2/Les Pronoms Complément I (COD-COI)]] , se introducen complementos nuevos cuya existencia no está en español. Por esta razón, no tenemos una traducción directa al español. Sin embargo hay conceptos bastante cercanos para comprender su interpretación.
 
 Antes de explorar el uso de cada complemento de manera específica, recordemos que estos deben responder a una pregunta de la oración.
 

@@ -16,41 +16,39 @@ La inflexión no cambia la raíz de una palabra, sino que añade un **sufijo** o
 Los verbos cambian su forma según **tiempo**, **modo**, **persona** y **número**.
 
 **Hablar**
-- Yo hablo
-- Tú hablas
-- Nosotros hablamos
-- Ustedes hablan
+>- Yo hablo
+>- Tú hablas
+>- Nosotros hablamos
+>- Ustedes hablan
 
->En este caso, el verbo "hablar" tiene inflexión según la **persona** y el **número**.
+En este caso, el verbo "hablar" tiene inflexión según la **persona** y el **número**.
 
 ## Inflexión en los sustantivos
 
 Los sustantivos también tienen inflexión, principalmente para indicar **número** (singular/plural) y **género** (masculino/femenino).
 
-- En este caso, el sustantivo se inflexiona para pasar de singular a plural.
-    - Un perro → Unos perros
-    - Una mesa → Unas mesas
+En este caso, el sustantivo se inflexiona para pasar de singular a plural.
+>Un perro → Unos perros
+Una mesa → Unas mesas
 
 ## Inflexión en los adjetivos
 
 Los adjetivos también tienen inflexión para concordar en **género** y **número** con el sustantivo que califican.
 
-- El adjetivo "inteligente" cambia según el **género** (masculino/femenino) y **número** (singular/plural).
-    - Un chico inteligente
-    - Una chica inteligente
-    - Unos chicos inteligentes
-    - Unas chicas inteligentes
+El adjetivo "inteligente" cambia según el **género** (masculino/femenino) y **número** (singular/plural).    
+>Un chico inteligente
+Una chica inteligente
+Unos chicos inteligentes
+Unas chicas inteligentes
 
 ## Inflexión en los pronombres
 
 Los pronombres también se inflexionan según **género**, **número** y **caso**.
 
-- Ejemplo en francés:
-    
-    - Yo → Nosotros
-    - Él → Ellos
-    - Ella → Ellas
+>Yo → Nosotros
+>Él → Ellos
+>Ella → Ellas
 
-> Los pronombres cambian dependiendo de la **persona** y el **número**.
+ Los pronombres cambian dependiendo de la **persona** y el **número**.
 
 ___

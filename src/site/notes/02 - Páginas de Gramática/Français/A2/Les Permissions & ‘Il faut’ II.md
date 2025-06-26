@@ -5,7 +5,7 @@
 # Les Permissions & ‘Il faut’ II
 #Français #A2
 ___
-Main Index: [[02 - Páginas de Gramática/Français/A2/Nivel A2・FR\|Nivel A2・FR]]
+Main Index: [[02 - Páginas de Gramática/Français/A2/Nivel A2・FR\|02 - Páginas de Gramática/Français/A2/Nivel A2・FR]]
 ___
 Existen algunas expresiones fijas en francés que nos permiten describir si una acción es adecuada según el contexto o simplemente si está prohibida de alguna manera. De nuevo utilizamos la expresión “[[02 - Páginas de Gramática/Français/A1/L’Expression “Il faut”\|Il faut]]” para expresar la necesidad de realizar algo.
 

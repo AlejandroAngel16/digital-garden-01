@@ -5,14 +5,14 @@
 # L’Indicatif Futur
 #Français #A2
 ___
-Main Index: [[02 - Páginas de Gramática/Français/A2/Nivel A2・FR\|Nivel A2・FR]]
+Main Index: [[02 - Páginas de Gramática/Français/A2/Nivel A2・FR\|02 - Páginas de Gramática/Français/A2/Nivel A2・FR]]
 ___
 [image]
 
 Como tercera [[02 - Páginas de Gramática/Gramática General/La Conjugación Simple\|conjugación simple]] que se aprende en el francés, tenemos el [[02 - Páginas de Gramática/Gramática General/El Indicativo Futuro\|indicativo futuro]]. Esta conjugación nos permite hablar de acciones en un futuro lejano y suena bastante formal en comparación al [[02 - Páginas de Gramática/Français/A2/Le Futur Proche & Le Passé Proche\|futuro próximo]].
 
 ## Conjugación de Verbos -er/-ir/-re
-Conjugar verbos en este tiempo es bastante sencillo, justo como [[02 - Páginas de Gramática/Français/A2/L’Indicatif Imparfait\|L’Indicatif Imparfait]]. Pero la complejidad se encuentra en el cambio de las raíces y la cantidad de verbos irregulares.
+Conjugar verbos en este tiempo es bastante sencillo, justo como [[02 - Páginas de Gramática/Français/A2/L’Indicatif Imparfait\|02 - Páginas de Gramática/Français/A2/L’Indicatif Imparfait]]. Pero la complejidad se encuentra en el cambio de las raíces y la cantidad de verbos irregulares.
 
 Las terminaciones siempre serán las mismas independientemente del grupo verbal y su pronunciación se basa en la entonación de la última sílaba.
 

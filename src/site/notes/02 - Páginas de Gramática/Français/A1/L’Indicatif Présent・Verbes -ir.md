@@ -5,7 +5,7 @@
 # L’Indicatif Présent・Verbes -ir
 #Français #A1
 ___
-Main Index: [[02 - Páginas de Gramática/Français/A1/Nivel A1・FR\|Nivel A1・FR]]
+Main Index: [[02 - Páginas de Gramática/Français/A1/Nivel A1・FR\|02 - Páginas de Gramática/Français/A1/Nivel A1・FR]]
 ___
 El siguiente grupo de verbos son aquellos con esta terminación, usualmente confusos debido a que estos verbos tienen dos formas de conjugación. Algunos verbos usarán la forma #1 y otros la forma #2, posiblemente debido a su fonética o por reglas arbitrarias.
 

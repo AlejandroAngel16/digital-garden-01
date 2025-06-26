@@ -37,23 +37,33 @@ El COI también puede ser reemplazado por un pronombre que sustituya al objeto i
 | 1ª persona | Yo                       | me            | me           |
 | 2ª persona | Tú                       | te            | te           |
 | 3ª persona | Él/Ella                  | le            | le           |
-| -/-        | -/-                      | -/-           | -/-          |
-| **Plural** | **Masculino y Femenino** | **Masculino** | **Femenino** |
+
+
+| Plural | Masculino y Femenino | Masculino | Femenino |
+| ---------- | ------------------------ | ------------- | ------------ |
 | 1ª persona | Nosotros                 | nos           | nos          |
 | 2ª persona | Ustedes/Vosotros         | les/os        | les/os       |
 | 3ª persona | Ellos/ellas              | les           | les          |
-> **Ejemplos con pronombres de complemento indirecto**:
-> 
-> - Yo le hablo (a ella)
->     - Reemplaza a la persona a la que se le habla
-> - Ella nos dio consejos.
->        - Reemplaza a las personas a las que se dio los consejos.
+
+
+**Ejemplos con pronombres de complemento indirecto**:
+
+
+
+> - _Yo le hablo (a ella)_
+>Reemplaza a la persona a la que se le habla
+
+
+> - _Ella nos dio consejos._
+>Reemplaza a las personas a las que se dio los consejos.
+
+
 > - _Ella les escucha._
->        - Reemplaza a las personas a las que se les escribió la carta.
+>Reemplaza a las personas a las que se les escribió la carta.
 
 ### Distinción entre COD y COI:
 La diferencia clave entre el complemento directo y el complemento indirecto es la presencia de una preposición con el COI, que lo distingue del complemento directo, que no requiere preposición.
 
-El complemento de objeto indirecto (COI) es la persona, cosa o concepto que recibe la acción de un verbo de manera indirecta, mediante el uso de una preposición. Responde a preguntas como ¿A quién?, ¿Para quién? o ¿De quién?, y puede ser reemplazado por pronombres de COI.
+El complemento de objeto indirecto (COI) es la persona, cosa o concepto que recibe la acción de un verbo de manera indirecta, mediante el uso de una preposición. Responde a preguntas como **¿A quién?, ¿Para quién? o ¿De quién?**, y puede ser reemplazado por **pronombres de COI**.
 
 ___

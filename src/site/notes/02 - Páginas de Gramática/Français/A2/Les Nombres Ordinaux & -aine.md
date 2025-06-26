@@ -5,9 +5,9 @@
 # Les Nombres Ordinaux & -aine
 #Français #A2
 ___
-Main Index: [[02 - Páginas de Gramática/Français/A2/Nivel A2・FR\|Nivel A2・FR]]
+Main Index: [[02 - Páginas de Gramática/Français/A2/Nivel A2・FR\|02 - Páginas de Gramática/Français/A2/Nivel A2・FR]]
 ___
-> Sección seguida de [[02 - Páginas de Gramática/Français/A1/Les Números\|Les Números]]
+> Sección seguida de [[02 - Páginas de Gramática/Français/A1/Les Números\|02 - Páginas de Gramática/Français/A1/Les Números]]
 
 Este tipo de números nos permite organizar el orden de algún concepto y se necesitan formas particulares además de un [[02 - Páginas de Gramática/Gramática General/Los Sufijos\|sufijo]].
 

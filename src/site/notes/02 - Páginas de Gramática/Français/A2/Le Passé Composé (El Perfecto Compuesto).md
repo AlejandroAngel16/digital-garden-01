@@ -5,7 +5,7 @@
 # Le Passé Composé (El Perfecto Compuesto)
 #Français #A2
 ___
-Main Index: [[02 - Páginas de Gramática/Français/A2/Nivel A2・FR\|Nivel A2・FR]]
+Main Index: [[02 - Páginas de Gramática/Français/A2/Nivel A2・FR\|02 - Páginas de Gramática/Français/A2/Nivel A2・FR]]
 ___
 > Esta sección es larga, y se compone de diferentes conceptos nuevos. Sin embargo, existen varios tip para entender como funciona esta estructura sin mucho problema.
 
@@ -21,15 +21,15 @@ Para simplificar, esta estructura se parece mucho al [[02 - Páginas de Gramáti
     - Yo he hablado de la situación.
     - Yo hablé de la situación.
 
-Aunque por estructura el [[02 - Páginas de Gramática/Français/A2/Le Passé Composé (El Perfecto Compuesto)\|Le Passé Composé (El Perfecto Compuesto)]] se asemeja más a la oración #1, realmente ambas traducciones son igual de correctas.
->El indicativo pasado en francés existe, justo como en español, pero es una estructura literaria. Culturalmente hablando casi nunca se usará en conversaciones en comparación al passé composé. Aunque es un tema avanzado, se puede revisar aquí: [[02 - Páginas de Gramática/Français/C1/L’Indicatif Passé Simple\|L’Indicatif Passé Simple]]
+Aunque por estructura el [[02 - Páginas de Gramática/Français/A2/Le Passé Composé (El Perfecto Compuesto)\|02 - Páginas de Gramática/Français/A2/Le Passé Composé (El Perfecto Compuesto)]] se asemeja más a la oración #1, realmente ambas traducciones son igual de correctas.
+>El indicativo pasado en francés existe, justo como en español, pero es una estructura literaria. Culturalmente hablando casi nunca se usará en conversaciones en comparación al passé composé. Aunque es un tema avanzado, se puede revisar aquí: [[02 - Páginas de Gramática/Français/C1/L’Indicatif Passé Simple\|02 - Páginas de Gramática/Français/C1/L’Indicatif Passé Simple]]
 
 ## Verbos en Participio Pasado
 Antes de construir una oración, hay que comprender qué es un [[02 - Páginas de Gramática/Gramática General/El Participio Pasado\|participio pasado]].
-Se puede decir que este es una inflexión de cualquier verbo y su uso puede ser el de un [[02 - Páginas de Gramática/Gramática General/Los Adjetivos\|adjetivo]] como se vio en [[02 - Páginas de Gramática/Français/A1/Les Adjectifs\|Les Adjectifs]]. Pero este tiene unas reglas específicas para crearse. Su contra-parte en español son todos los adjetivos que terminan en: -ado, -ido, (& muchas excepciones más). Y justo como un [[02 - Páginas de Gramática/Gramática General/Los Adjetivos\|adjetivo]], tiene [[02 - Páginas de Gramática/Gramática General/La Inflexión\|inflexiones]] según el género y la cantidad. ([[02 - Páginas de Gramática/Gramática General/La Concordancia Compuesta\|concordancia]])
+Se puede decir que este es una inflexión de cualquier verbo y su uso puede ser el de un [[02 - Páginas de Gramática/Gramática General/Los Adjetivos\|adjetivo]] como se vio en [[02 - Páginas de Gramática/Français/A1/Les Adjectifs\|02 - Páginas de Gramática/Français/A1/Les Adjectifs]]. Pero este tiene unas reglas específicas para crearse. Su contra-parte en español son todos los adjetivos que terminan en: -ado, -ido, (& muchas excepciones más). Y justo como un [[02 - Páginas de Gramática/Gramática General/Los Adjetivos\|adjetivo]], tiene [[02 - Páginas de Gramática/Gramática General/La Inflexión\|inflexiones]] según el género y la cantidad. ([[02 - Páginas de Gramática/Gramática General/La Concordancia Compuesta\|concordancia]])
 
 ### Terminaciones del Participio
-Cada grupo verbal tiene una terminación regular, pero existen varios verbos cuyo participio es irregular y debe aprenderse por memoria justo como las conjugaciones de [[02 - Páginas de Gramática/Français/A1/L’Indicatif Présent (Résumé)\|L’Indicatif Présent (Résumé)]].
+Cada grupo verbal tiene una terminación regular, pero existen varios verbos cuyo participio es irregular y debe aprenderse por memoria justo como las conjugaciones de [[02 - Páginas de Gramática/Français/A1/L’Indicatif Présent (Résumé)\|02 - Páginas de Gramática/Français/A1/L’Indicatif Présent (Résumé)]].
 
 | Grupo verbal | Masculin Sing. | Masculin Plur. | Féminin Sing. | Féminin Plur. |
 | ------------ | -------------- | -------------- | ------------- | ------------- |
@@ -59,9 +59,9 @@ Como es de esperar del francés, existen muchos verbos que poseen participios ir
 | Découvrir       | Découvert                  | -/- |                       |                            |
 | Recevoir        | Reçu                       | -/- |                       |                            |
 ## Verbos Auxiliares
-Cuando usamos la estructura del [[02 - Páginas de Gramática/Gramática General/La Conjugación Compuesta\|perfecto]] en español, solamente utilizamos un verbo → **haber** como el auxiliar previo al [[02 - Páginas de Gramática/Gramática General/El Participio Pasado\|participio pasado]]. En francés utilizaremos dos (**être et avoir**) y su traducción no será directa cuando hablemos con esta estructura, precisamente eso es lo más confuso. En esta conjugación, ambos verbos se usarán siempre en [[02 - Páginas de Gramática/Français/A1/L’Indicatif Présent (Résumé)\|L’Indicatif Présent (Résumé)]]
+Cuando usamos la estructura del [[02 - Páginas de Gramática/Gramática General/La Conjugación Compuesta\|perfecto]] en español, solamente utilizamos un verbo → **haber** como el auxiliar previo al [[02 - Páginas de Gramática/Gramática General/El Participio Pasado\|participio pasado]]. En francés utilizaremos dos (**être et avoir**) y su traducción no será directa cuando hablemos con esta estructura, precisamente eso es lo más confuso. En esta conjugación, ambos verbos se usarán siempre en [[02 - Páginas de Gramática/Français/A1/L’Indicatif Présent (Résumé)\|02 - Páginas de Gramática/Français/A1/L’Indicatif Présent (Résumé)]]
 
-Recordemos la conjugación para ambos verbos auxiliares en [[02 - Páginas de Gramática/Gramática General/El Indicativo Presente\|indicativo presente]]. → [[02 - Páginas de Gramática/Français/A1/Les Verbes - Être et Avoir\|Les Verbes - Être et Avoir]]
+Recordemos la conjugación para ambos verbos auxiliares en [[02 - Páginas de Gramática/Gramática General/El Indicativo Presente\|indicativo presente]]. → [[02 - Páginas de Gramática/Français/A1/Les Verbes - Être et Avoir\|02 - Páginas de Gramática/Français/A1/Les Verbes - Être et Avoir]]
 > Para entender esta estructura de manera más sencilla, imaginémonos que tanto el verbo **avoir** y **être** son en realidad el verbo “haber”, y así tendrá más sentido en nuestra cabeza hispano-hablante.
 
 | Pronom Sujet  | Être   | Avoir |

@@ -5,7 +5,7 @@
 # L’Argot I
 #Français #B2
 ___
-Main Index: [[02 - Páginas de Gramática/Français/B2/Nivel B2・FR\|Nivel B2・FR]]
+Main Index: [[02 - Páginas de Gramática/Français/B2/Nivel B2・FR\|02 - Páginas de Gramática/Français/B2/Nivel B2・FR]]
 ___
 El Argot es una forma de habla de la lengua francesa y su uso es particularmente coloquial y familiar, el uso de este dialecto es bastante imprescindible para comunicarse con otros franco-hablantes que tengan un nivel alto dentro de este idioma.
 

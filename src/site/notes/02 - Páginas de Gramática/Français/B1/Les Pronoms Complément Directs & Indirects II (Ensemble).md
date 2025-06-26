@@ -5,9 +5,9 @@
 # Les Pronoms Complément Directs & Indirects II (Ensemble)
 #Français #B1
 ___
-Main Index: [[02 - Páginas de Gramática/Français/B1/Nivel B1・FR\|Nivel B1・FR]]
+Main Index: [[02 - Páginas de Gramática/Français/B1/Nivel B1・FR\|02 - Páginas de Gramática/Français/B1/Nivel B1・FR]]
 ___
-Previa a esta sección → [[02 - Páginas de Gramática/Français/A2/Les Pronoms Complément I (COD-COI)\|Les Pronoms Complément I (COD-COI)]], donde se explica detalladamente las diferencias entre un tipo de pronombre y el otro, además de su uso **por separado**.
+Previa a esta sección → [[02 - Páginas de Gramática/Français/A2/Les Pronoms Complément I (COD-COI)\|02 - Páginas de Gramática/Français/A2/Les Pronoms Complément I (COD-COI)]], donde se explica detalladamente las diferencias entre un tipo de pronombre y el otro, además de su uso **por separado**.
 
 Recordemos la ‘Estructura de Una Oración:
 [image]

@@ -3,7 +3,7 @@
 ---
 
 # Métodos de Aprendizaje
-#Language #Learning #Index 
+#Language #Learning #Index #DigitalGarden 
 ___
 Main Page: [[01 - Índices/Páginas Generales/Lingo-Garden Hub\|Lingo-Garden Hub]]
 Autor: 

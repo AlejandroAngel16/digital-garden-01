@@ -3,7 +3,7 @@
 ---
 
 # Français 🥐
-#Français #Language #Index 
+#Français #Language #Index #DigitalGarden 
 ___
 Main Page: [[01 - Índices/Páginas Generales/Lingo-Garden Hub\|Lingo-Garden Hub]] 
 Autor: **Luis Alejandro Cuevas**
@@ -29,21 +29,29 @@ En este espacio se han recopilado diferentes tipos de recursos que han sido reco
 Dentro de estos recursos encontramos canales de YouTube, podcast de Spotify, páginas web con información adicional y libros complementarios que pueden usarse en cualquier nivel de competencia para evaluar los conocimientos personales de cada estudiante.
 
 > [!TIP] Échale un ojo a todo aquí:
-> [[02 - Páginas de Gramática/Français/La France dans Toute Sa Splendeur\|La France dans Toute Sa Splendeur]]
-## Contenido Gramatical
+> [[02 - Páginas de Gramática/Français/La France dans Toute Sa Splendeur\|02 - Páginas de Gramática/Français/La France dans Toute Sa Splendeur]]
 
-> ### Nivel Básico
+___
 
- #### [[02 - Páginas de Gramática/Français/A1/Nivel A1・FR\|Nivel A1・FR]]
-#### [[02 - Páginas de Gramática/Français/A2/Nivel A2・FR\|Nivel A2・FR]]
-> ### Nivel Intermedio
-#### [[02 - Páginas de Gramática/Français/B1/Nivel B1・FR\|Nivel B1・FR]]
-#### [[02 - Páginas de Gramática/Français/B2/Nivel B2・FR\|Nivel B2・FR]]
+>## Contenido Gramatical
 
-> ### Nivel Avanzado
-#### [[02 - Páginas de Gramática/Français/C1/Nivel C1・FR\|Nivel C1・FR]]
-#### [[02 - Páginas de Gramática/Français/C2/Nivel C2・FR\|Nivel C2・FR]]
+>[!note] ### Nivel Básico
+> [[02 - Páginas de Gramática/Français/A1/Nivel A1・FR\|Nivel A1・FR]]
+[[02 - Páginas de Gramática/Français/A2/Nivel A2・FR\|Nivel A2・FR]]
 
->## Fuentes 
 
-- Roger Hawkings - French Grammar and Usage
+
+> [!note] ### Nivel Intermedio
+>  [[02 - Páginas de Gramática/Français/B1/Nivel B1・FR\|Nivel B1・FR]]
+ [[02 - Páginas de Gramática/Français/B2/Nivel B2・FR\|Nivel B2・FR]]
+
+
+
+> [!note] ### Nivel Avanzado
+ [[02 - Páginas de Gramática/Français/C1/Nivel C1・FR\|Nivel C1・FR]]
+ [[02 - Páginas de Gramática/Français/C2/Nivel C2・FR\|Nivel C2・FR]]
+
+___
+
+>[!tldr] ## Fuentes
+>- Roger Hawkings - French Grammar and Usage

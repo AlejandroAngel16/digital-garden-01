@@ -5,9 +5,9 @@
 # Le Discours Indirect IV (Literario)
 #Français #C2
 ___
-Main Index: [[02 - Páginas de Gramática/Français/C2/Nivel C2・FR\|Nivel C2・FR]]
+Main Index: [[02 - Páginas de Gramática/Français/C2/Nivel C2・FR\|02 - Páginas de Gramática/Français/C2/Nivel C2・FR]]
 ___
-> La información en esta sección está descrita igual a la original → [[02 - Páginas de Gramática/Français/A2/Le Discours Indirect I (Introduction)\|Le Discours Indirect I (Introduction)]]
+> La información en esta sección está descrita igual a la original → [[02 - Páginas de Gramática/Français/A2/Le Discours Indirect I (Introduction)\|02 - Páginas de Gramática/Français/A2/Le Discours Indirect I (Introduction)]]
 > Recordar → [[02 - Páginas de Gramática/Gramática General/La Concordancia Temporal en Oraciones Subordinadas\|La Concordancia Temporal en Oraciones Subordinadas]]
 
 El [[02 - Páginas de Gramática/Gramática General/El Discurso Indirecto\|discurso indirecto]] es una estructura que nos permite reportar información que otro actor ha mencionado antes. Esta estructura requiere realizarse con unas condiciones específicas y evita que se expresen las palabras exactas del emisor original.
@@ -49,7 +49,7 @@ En la sección original logramos comprender como usar esta estructura usando ún
 | (Matin, Soir, Après-midi, Nuit) | (Matin, Soir, Après-midi, Nuit)-là | En la tarde → Esa tarde            |
 
 ### Cambios de Tiempo Para Las Oraciones
-> Antes de introducir la oración reportada, es normal utilizar las oraciones de introducción en un tiempo pasado o una Conjugación Compuesta como → [[02 - Páginas de Gramática/Français/A2/Le Passé Composé (El Perfecto Compuesto)\|Le Passé Composé (El Perfecto Compuesto)]]
+> Antes de introducir la oración reportada, es normal utilizar las oraciones de introducción en un tiempo pasado o una Conjugación Compuesta como → [[02 - Páginas de Gramática/Français/A2/Le Passé Composé (El Perfecto Compuesto)\|02 - Páginas de Gramática/Français/A2/Le Passé Composé (El Perfecto Compuesto)]]
 
 | Tiempo de la oración original | Tiempo de la oración reportada | Traducción             |
 | ----------------------------- | ------------------------------ | ---------------------- |

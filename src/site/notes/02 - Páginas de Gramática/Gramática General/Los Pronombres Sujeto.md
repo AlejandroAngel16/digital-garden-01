@@ -9,15 +9,15 @@ Main Index: [[01 - Índices/Páginas Generales/Fundamentación Gramatical\|Funda
 ___
 Los pronombres sujeto son las palabras que reemplazan al sujeto en una oración y nos indican quién realiza la acción. Estos son:
 
-| Pronombres       | Ejemplo                 |
-| ---------------- | ----------------------- |
-| Yo               | Yo hablo francés.       |
-| Tú               | Tú estudias mucho.      |
-| Él               | Él es simpático.        |
-| Ella             | Ella canta bien.        |
-| Usted            | Usted vive aquí         |
-| Nosotros         | Nosotros amamos viajar. |
-| Ustedes/Vosotros | Ustedes juegan fútbol.  |
-| Ellos/as         | Ellas bailan.           |
+| Pronombres Sujeto | Ejemplo                 |
+| ----------------- | ----------------------- |
+| Yo                | Yo hablo francés.       |
+| Tú                | Tú estudias mucho.      |
+| Él                | Él es simpático.        |
+| Ella              | Ella canta bien.        |
+| Usted             | Usted vive aquí         |
+| Nosotros          | Nosotros amamos viajar. |
+| Ustedes/Vosotros  | Ustedes juegan fútbol.  |
+| Ellos/as          | Ellas bailan.           |
 
 ___

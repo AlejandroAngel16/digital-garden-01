@@ -5,7 +5,7 @@
 # Les Adverbes De Fréquence (Jours de la semaine)
 #Français #A1
 ___
-Main Index: [[02 - Páginas de Gramática/Français/A1/Nivel A1・FR\|Nivel A1・FR]]
+Main Index: [[02 - Páginas de Gramática/Français/A1/Nivel A1・FR\|02 - Páginas de Gramática/Français/A1/Nivel A1・FR]]
 ___
 Cuando nos encontramos con estas palabras, es necesario interpretarlas para saber en qué tiempo ocurre la acción. Los adverbios de tiempo dictarán si se utiliza un indicativo en presente, futuro o pasado.
 ## Adverbios Introductorios de Tiempo

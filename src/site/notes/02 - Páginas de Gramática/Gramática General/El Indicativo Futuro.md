@@ -11,32 +11,23 @@ El indicativo futuro es un tiempo verbal que se utiliza tanto en español como e
 
 El **indicativo futuro** se utiliza para:
 
->1. Acciones que ocurrirán en el futuro:
-Ejemplo: _Mañana **viajaré** a París._ (Acción futura)
+Acciones que ocurrirán en el futuro:
+> Mañana **viajaré** a París. (Acción futura)
 
->2. Predicciones o suposiciones sobre el futuro:
-Ejemplo: _Creo que **lloverá** esta tarde._ (Predicción sobre el futuro)
+Predicciones o suposiciones sobre el futuro:
+>Creo que **lloverá** esta tarde.(Predicción sobre el futuro)
 
->3. Promesas, ofertas o decisiones:
-Ejemplo: _Te **ayudaré** con tus estudios._ (Promesa o decisión)
+Promesas, ofertas o decisiones:
+>Te **ayudaré** con tus estudios. (Promesa o decisión)
 
->4. Para expresar una acción que es probable o tiene alta probabilidad de ocurrir:
-Ejemplo: _Este libro **costará** 20 euros._ (Probabilidad)
+Para expresar una acción que es probable o tiene alta probabilidad de ocurrir:
+>Este libro **costará** 20 euros. (Probabilidad)
 
-## Formación del Indicativo Futuro
+### Conjugación de verbos regulares:
 
-Se forma añadiendo las siguientes terminaciones al **infinitivo** del verbo:
-
-- **é, -ás, -á, -emos, -éis, -án**
-
-Ejemplo con el verbo **"hablar"**:
-
-- Yo **hablaré** 
-- Tú **hablarás** 
-- Él/Ella **hablará** 
-- Nosotros **hablaremos** 
-- Vosotros **hablaréis** 
-- Ellos **hablarán** .
+| **Verbos en -AR** (_hablar_)                                                                                                           | **Verbos en -ER** (_comer_)                                                                                                      | **Verbos en -IR** (_vivir_)                                                                                                         |
+| -------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------- |
+| Yo hablaré <br>Tú hablarás<br>Él/Ella/Usted hablará<br>Nosotros/as hablaremos<br>Vosotros/as hablaréis<br>Ellos/Ellas/Ustedes hablarán | Yo comeré<br>Tú comerás<br>Él/Ella/Usted comerá<br>Nosotros/as comeremos <br>Vosotros/as comeréis<br>Ellos/Ellas/Ustedes comerán | Yo viviré<br>Tú vivirás<br>Él/Ella/Usted vivirá  <br>Nosotros/as viviremos  <br>Vosotros/as viviréis<br>Ellos/Ellas/Ustedes vivirán |
 
 El indicativo futuro en ambos idiomas se utiliza para expresar acciones que sucederán en el futuro. En español, se forma añadiendo las terminaciones del futuro al infinitivo, mientras que en francés se sigue un patrón similar, añadiendo las terminaciones correspondientes al infinitivo del verbo. En ambos casos, se usa para hablar de predicciones, promesas, decisiones y situaciones futuras.
 

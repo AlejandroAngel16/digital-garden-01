@@ -5,7 +5,7 @@
 # Les Pronoms Sujet
 #Français #A1
 ___
-Main Index: [[02 - Páginas de Gramática/Français/A1/Nivel A1・FR\|Nivel A1・FR]]
+Main Index: [[02 - Páginas de Gramática/Français/A1/Nivel A1・FR\|02 - Páginas de Gramática/Français/A1/Nivel A1・FR]]
 ___
 # Sujetos de la oración
 
@@ -21,7 +21,7 @@ Otro detalle importante es que el uso de estos pronombres es obligatorio, a dife
 | Tu                 | Tu                              |
 | Il                 | Él                              |
 | Elle               | Ella                            |
-| Ça                 | Eso                             |
+| Ça/Ce              | Eso/Esto                        |
 | Nous               | Nosotros                        |
 | Vous               | Ustedes/Vosotros(as)  <br>Usted |
 | Ils                | Ellos                           |

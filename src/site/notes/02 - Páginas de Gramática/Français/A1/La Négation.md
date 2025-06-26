@@ -5,7 +5,7 @@
 # La Négation
 #Français #A1
 ___
-Main Index: [[02 - Páginas de Gramática/Français/A1/Nivel A1・FR\|Nivel A1・FR]]
+Main Index: [[02 - Páginas de Gramática/Français/A1/Nivel A1・FR\|02 - Páginas de Gramática/Français/A1/Nivel A1・FR]]
 ___
 La negación de las oraciones en francés requiere el uso de dos elementos importantes → **ne & pas**. Estos elementos tienen su posición especial y el uso de ‘pas’ es necesario en cualquier nivel de formalidad. Por otro lado el ‘ne’ puede ser saltado para precisamente hablar con más comodidad e informalidad.
 

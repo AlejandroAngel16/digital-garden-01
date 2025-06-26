@@ -5,7 +5,7 @@
 # Les Verbes à Regime Prépositionnel
 #Français #A2
 ___
-Main Index: [[02 - Páginas de Gramática/Français/A2/Nivel A2・FR\|Nivel A2・FR]]
+Main Index: [[02 - Páginas de Gramática/Français/A2/Nivel A2・FR\|02 - Páginas de Gramática/Français/A2/Nivel A2・FR]]
 ___
 Muchos verbos tienen la particularidad de utilizar una preposición justo después de ellos para unirse con el resto de la oración. Muchas de estas preposiciones son diferentes al español y puede ser el origen de bastantes confusiones. Este es un tema necesario antes de continuar con otros temas.
 

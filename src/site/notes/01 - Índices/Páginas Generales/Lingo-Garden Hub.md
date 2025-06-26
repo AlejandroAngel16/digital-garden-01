@@ -2,7 +2,8 @@
 {"dg-publish":true,"permalink":"/01-indices/paginas-generales/lingo-garden-hub/","tags":["gardenEntry"]}
 ---
 
-# 🪴Lingo-Garden Home🌎
+# ☀Lingo-Garden Home🌎
+
 #Language #Learning #DigitalGarden
 ## Hola! Somos Alejandro & Luna, estudiantes de lenguas extranjeras!
 
@@ -34,29 +35,33 @@ En esta sección encontrarás recursos diseñados para facilitar el aprendizaje 
 Aquí encontrarás herramientas digitales, aplicaciones y plataformas que facilitan el aprendizaje autónomo de idiomas. Descubre cómo la tecnología puede potenciar tu estudio y mejorar tu práctica diaria.
 
 ## Fundamentos Lingüísticos
-> ### [[01 - Índices/Páginas Generales/Fundamentación Gramatical\|Fundamentación Gramatical]]
 
-Explora reglas, estructuras y principios esenciales de cada idioma. Esta sección te brinda explicaciones claras para comprender y aplicar la gramática de manera efectiva, todo desde el español.
+>[!note] #### [[01 - Índices/Páginas Generales/Fundamentación Gramatical\|Fundamentación Gramatical]]
+>Explora reglas, estructuras y principios esenciales de cada idioma. Esta sección te brinda explicaciones claras para comprender y aplicar la gramática de manera efectiva, todo desde el español.
+
+
 
 ## Idiomas
 
+> [!note] #### [[01 - Índices/Páginas de Idiomas/Français\|Français]] 🥐
+> Recursos, gramática y consejos para mejorar tu comprensión y expresión en francés, desde lo básico hasta niveles avanzados.
 
->### [[01 - Índices/Páginas de Idiomas/Français\|Français]]
-
-Recursos, gramática y consejos para mejorar tu comprensión y expresión en francés, desde lo básico hasta niveles avanzados.
 ___
 
->### [[01 - Índices/Páginas de Idiomas/Italiano\|Italiano]] [WIP]
+>### [[01 - Índices/Páginas de Idiomas/Italiano\|Italiano]] 🍕 [WIP]
 
 Aprende y perfecciona tu italiano con explicaciones claras, ejercicios y estrategias de estudio adaptadas a estudiantes autónomos.
 ___
 
->### [[01 - Índices/Páginas de Idiomas/Deutsch\|Deutsch]] [WIP]
-
+> [!note] #### [[01 - Índices/Páginas de Idiomas/Deutsch\|Deutsch]] 🍻 [WIP]
 Domina la gramática, el vocabulario y la pronunciación del alemán con materiales diseñados para un aprendizaje estructurado y eficaz.
+
+
 ___
 
+> ### [[01 - Índices/Páginas de Idiomas/English\|English]] 🍔 [WIP]
 
+___
 ## ¡Contáctanos!
 Info
 

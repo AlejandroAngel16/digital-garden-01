@@ -5,7 +5,7 @@
 # Les Pronoms Toniques
 #Français #A1
 ___
-Main Index: [[02 - Páginas de Gramática/Français/A1/Nivel A1・FR\|Nivel A1・FR]]
+Main Index: [[02 - Páginas de Gramática/Français/A1/Nivel A1・FR\|02 - Páginas de Gramática/Français/A1/Nivel A1・FR]]
 ___
 Los pronombres tónicos son elementos análogos a los pronombres sujeto. Sin embargo, usamos estos pronombres cuando son el [[02 - Páginas de Gramática/Gramática General/El Complemento Directo\|complemento directo]] o [[02 - Páginas de Gramática/Gramática General/El Complemento Indirecto\|complemento indirecto]] de la oración. Algunos pronombres no cambian.
 

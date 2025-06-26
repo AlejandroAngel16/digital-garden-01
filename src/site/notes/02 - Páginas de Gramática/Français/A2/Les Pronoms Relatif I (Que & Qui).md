@@ -5,7 +5,7 @@
 # Les Pronoms Relatif I (Que & Qui)
 #Français #A2
 ___
-Main Index: [[02 - Páginas de Gramática/Français/A2/Nivel A2・FR\|Nivel A2・FR]]
+Main Index: [[02 - Páginas de Gramática/Français/A2/Nivel A2・FR\|02 - Páginas de Gramática/Français/A2/Nivel A2・FR]]
 ___
 Para conectar oraciones o hacer referencias a otros elementos entre oraciones con más de una [[02 - Páginas de Gramática/Gramática General/Las Oraciones & Clausulas\|clausula]], utilizamos [[02 - Páginas de Gramática/Gramática General/Los Pronombres Relativos\|pronombres relativos]] o como también es descrito, [[02 - Páginas de Gramática/Gramática General/Las Oraciones & Clausulas\|clausulas]] Subordinadas.
 
@@ -41,9 +41,9 @@ Este pronombre se utiliza para referirse a un objeto que realiza una acción par
 > - Elle est qui a invité la dame à la fête. → Ella es quien ha invitado la dama a la fiesta.
 
 ## Concordancia en Estructuras Compuestas
-En adición, al utilizar estos pronombres en una [[02 - Páginas de Gramática/Gramática General/La Conjugación Compuesta\|estructura compuesta]] como [[02 - Páginas de Gramática/Français/A2/Le Passé Composé (El Perfecto Compuesto)\|Le Passé Composé (El Perfecto Compuesto)]], tendremos que tener en cuenta el [[02 - Páginas de Gramática/Gramática General/El Complemento Directo\|complemento directo]] de la oración para poder concordar el verbo en participio pasado.
+En adición, al utilizar estos pronombres en una [[02 - Páginas de Gramática/Gramática General/La Conjugación Compuesta\|estructura compuesta]] como [[02 - Páginas de Gramática/Français/A2/Le Passé Composé (El Perfecto Compuesto)\|02 - Páginas de Gramática/Français/A2/Le Passé Composé (El Perfecto Compuesto)]], tendremos que tener en cuenta el [[02 - Páginas de Gramática/Gramática General/El Complemento Directo\|complemento directo]] de la oración para poder concordar el verbo en participio pasado.
 
-Este proceso es obligatorio y se realiza debido a que, justo como lo dicta la lógica de [[02 - Páginas de Gramática/Français/A2/Les Pronoms Complément I (COD-COI)\|Les Pronoms Complément I (COD-COI)]], es necesario enfatizar el género y la cantidad de los elementos a los cuales nos referimos.
+Este proceso es obligatorio y se realiza debido a que, justo como lo dicta la lógica de [[02 - Páginas de Gramática/Français/A2/Les Pronoms Complément I (COD-COI)\|02 - Páginas de Gramática/Français/A2/Les Pronoms Complément I (COD-COI)]], es necesario enfatizar el género y la cantidad de los elementos a los cuales nos referimos.
 
 > [!NOTE]
 > 

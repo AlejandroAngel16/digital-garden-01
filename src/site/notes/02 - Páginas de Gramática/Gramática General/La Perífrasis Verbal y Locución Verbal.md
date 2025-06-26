@@ -40,9 +40,9 @@ Expresan cómo se desarrolla la acción (inicio, continuidad, fin).
 	- **incoativas**: Indican el inicio de una acción.
 	- **Durativas**: Expresan una acción en desarrollo.
 	- **Perfectivas**: Indican el final de una acción.
-> - _Voy a comer_ (inicio).
-> -  _Estoy estudiando_ (continuidad).
-> -  _Acabo de llegar_ (finalización).
+> - Voy a comer (inicio).
+> -  Estoy estudiando (continuidad).
+> -  Acabo de llegar (finalización).
 
 - **De modalidad:**
 Indican obligación, posibilidad, necesidad o intención.

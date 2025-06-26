@@ -5,7 +5,7 @@
 # Fonética Fundamental
 #Français #A1 
 ___
-Main Index: [[02 - Páginas de Gramática/Français/A1/Nivel A1・FR\|Nivel A1・FR]]
+Main Index: [[02 - Páginas de Gramática/Français/A1/Nivel A1・FR\|02 - Páginas de Gramática/Français/A1/Nivel A1・FR]]
 ___
 El francés tiene un sistema fonético complejo pero coherente, con reglas claras que pueden facilitar el aprendizaje de estas mismas. Para poder aprovechar al máximo el estudio fonético del francés, debemos conocer bien como funciona el IPA y hacer constante práctica de estos sonidos, ya que entre el español y el francés existen considerables diferencias.
 
@@ -14,12 +14,37 @@ En el siguiente marcador podemos ver una tabla comprensiva de las pronunciacione
 
 Es recomendable de la misma manera les siguiente videos para iniciar la práctica de las consonantes y vocales más complicadas para pronunciar en el caso de un hispano-hablante:
 
-[![Watch the video](https://www.youtube.com/watch?v=_V0cVTnS2Kk)](https://www.youtube.com/watch?v=_V0cVTnS2Kk)
+<div style="text-align:center">
+    <iframe width="560" height="315" 
+    src="https://www.youtube.com/embed/_V0cVTnS2Kk" 
+    style="border:3px solid rgba(174, 0, 31, 1); #ccc; border-radius:8px; box-shadow:0 4px 8px rgba(0,0,0,1.1)"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+    allowfullscreen></iframe>
+</div>
 
-[![Watch the video](https://www.youtube.com/watch?v=QdMORya9Z_A)](https://www.youtube.com/watch?v=QdMORya9Z_A)
 
 
-[![Watch the video](https://www.youtube.com/watch?v=VhcZzFv1_WM)](https://www.youtube.com/watch?v=VhcZzFv1_WM)
+<div style="text-align:center">
+    <iframe width="560" height="315" 
+    src="https://www.youtube.com/embed/QdMORya9Z_A" 
+    style="border:3px solid rgba(174, 0, 31, 1); #ccc; border-radius:8px; box-shadow:0 4px 8px rgba(0,0,0,1.1)"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+    allowfullscreen></iframe>
+</div>
+
+
+
+<div style="text-align:center">
+    <iframe width="560" height="315" 
+    src="https://www.youtube.com/embed/VhcZzFv1_WM" 
+    style="border:3px solid rgba(174, 0, 31, 1); #ccc; border-radius:8px; box-shadow:0 4px 8px rgba(0,0,0,1.1)"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+    allowfullscreen></iframe>
+</div>
+
+
+
+
 
 
 ___

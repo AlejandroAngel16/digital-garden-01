@@ -5,7 +5,7 @@
 # L’Indicatif Imparfait
 #Français #A2
 ___
-Main Index: [[02 - Páginas de Gramática/Français/A2/Nivel A2・FR\|Nivel A2・FR]]
+Main Index: [[02 - Páginas de Gramática/Français/A2/Nivel A2・FR\|02 - Páginas de Gramática/Français/A2/Nivel A2・FR]]
 ___
 [image]
 
@@ -47,7 +47,7 @@ El único verbo irregular de esta conjugación es el verbo **être**:
 - La raíz para conjugar en este tiempo se toma del [[02 - Páginas de Gramática/Français/A1/L’Indicatif Présent (Résumé)\|Indicativo Presente]], particularmente la conjugación para el pronombre sujeto **nous**. A partir de ahí se debe poner la terminación adecuada
 > Avoir → (Nous) Avons → La raíz sería > Av-
 
-[[02 - Páginas de Gramática/Français/A2/L’Indicatif Imparfait\|L’Indicatif Imparfait]] puede utilizarse junto a [[02 - Páginas de Gramática/Français/A2/Le Passé Composé (El Perfecto Compuesto)\|Le Passé Composé (El Perfecto Compuesto)]] para describir que una acción ocurría antes de ser interrumpida por otra, como se puede interpretar en la gráfica. Al inicio resulta un poco extraño debido a que en español utilizamos el [[02 - Páginas de Gramática/Gramática General/El Indicativo Pasado o Pretérito Simple\|indicativo pasado]] en vez de una [[02 - Páginas de Gramática/Gramática General/La Conjugación Compuesta\|conjugación compuesta]].
+[[02 - Páginas de Gramática/Français/A2/L’Indicatif Imparfait\|02 - Páginas de Gramática/Français/A2/L’Indicatif Imparfait]] puede utilizarse junto a [[02 - Páginas de Gramática/Français/A2/Le Passé Composé (El Perfecto Compuesto)\|02 - Páginas de Gramática/Français/A2/Le Passé Composé (El Perfecto Compuesto)]] para describir que una acción ocurría antes de ser interrumpida por otra, como se puede interpretar en la gráfica. Al inicio resulta un poco extraño debido a que en español utilizamos el [[02 - Páginas de Gramática/Gramática General/El Indicativo Pasado o Pretérito Simple\|indicativo pasado]] en vez de una [[02 - Páginas de Gramática/Gramática General/La Conjugación Compuesta\|conjugación compuesta]].
 
 
 > [!example] 

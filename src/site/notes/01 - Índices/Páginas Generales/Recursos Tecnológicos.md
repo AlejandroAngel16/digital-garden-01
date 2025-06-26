@@ -51,10 +51,11 @@ Esta herramienta se puede utilizar principalmente para investigar la pronunciaci
 ___
 ## Aplicaciones de Aprendizaje
 Esta sección promueve el uso de ciertas aplicaciones para uso individual, en un navegador o en un dispositivo móvil para complementar sustancialmente el aprendizaje de un idioma. Cada aplicación tiene su forma de uso y curva de aprendizaje.
-### Language Reactor
+### Language Reactor / FluentAi
 > https://www.languagereactor.com/
+> https://fluentai.pro/
 
-**Language Reactor** es una extensión para navegadores que usen Chromium y provee una nueva forma de utilizar los sub-títulos de páginas como YouTube, permitiendo una búsqueda directa de traducciones en el contenido que se está consumiendo. Esta aplicación además provee otras funcionalidades y detalles descritos en su página original.
+**Language Reactor** es una extensión para navegadores que usen Chromium (**FluentAi** en caso de usar Firefox) y provee una nueva forma de utilizar los sub-títulos de páginas como YouTube, permitiendo una búsqueda directa de traducciones en el contenido que se está consumiendo. Esta aplicación además provee otras funcionalidades y detalles descritos en su página original.
 ###  ⭐Anki
 > https://ankiweb.net/
 

@@ -16,28 +16,28 @@ Cada idioma tiene sonidos únicos, y aunque los idiomas comparten algunas letras
 
 ### Como está organizado el IPA
 
->**Sonidos de las vocales**
+**Sonidos de las vocales**
 
 Las vocales en el IPA se dividen según su **altura** (si la lengua está alta o baja en la boca) y su **desplazamiento** (si está hacia adelante o hacia atrás en la boca). Por ejemplo:
 
 - **/i/** (como en _beat_) es una vocal alta y cerrada.
 - **/æ/** (como en _cat_) es una vocal baja y abierta.
 
->**Sonidos de las consonantes**
+**Sonidos de las consonantes**
 
 Las consonantes se agrupan según su lugar de articulación (dónde se produce el sonido) y su modo de articulación (cómo se produce).
 
 - **/p/** (como en _pat_) es una consonante **bilabial** (se produce con los dos labios).
 - **/s/** (como en _sit_) es una consonante **alveolar** (se produce con la lengua cerca de los alveólos).
 
->**Los tonos y acentos**
+**Los tonos y acentos**
 
 Algunos idiomas usan el tono o el acento para cambiar el significado de una palabra. El IPA también puede indicar estos cambios.
 
 - **/ˈ/** indica que la sílaba es tónica (con énfasis).
 - **/ˌ/** indica que la sílaba es secundaria.
 
->**Sonidos especiales y variaciones**
+**Sonidos especiales y variaciones**
 
 El IPA también tiene símbolos para sonidos que no se encuentran comúnmente en todos los idiomas, como los sonidos nasales o aspirados.
 
@@ -56,18 +56,18 @@ El **IPA** no es un alfabeto regular, es una forma de notación que usa símbolo
 
 Algunas letras, como **"c"** o **"g"**, tienen diferentes sonidos en distintos idiomas, y el IPA te muestra qué sonido se produce en cada caso.
 
->**Vocales:**
+**Vocales:**
 
 - **/i/**: como en _see_ (cierre de boca, lengua hacia arriba).
 - **/æ/**: como en _cat_ (boca abierta, lengua hacia el centro).
 
->**Consonantes:**
+**Consonantes:**
 
 - **/p/**: como en _pat_ (bilabial, sin vibración de cuerdas vocales).
 - **/t/**: como en _tap_ (dental, con el contacto de la lengua con los dientes).
 - **/ʃ/**: como en _ship_ (fricativa, el aire pasa por la boca).
 
->**Otros sonidos especiales:**
+**Otros sonidos especiales:**
 
 - **/ŋ/**: como en _sing_ (sonido nasal, la lengua en la parte posterior de la boca).
 

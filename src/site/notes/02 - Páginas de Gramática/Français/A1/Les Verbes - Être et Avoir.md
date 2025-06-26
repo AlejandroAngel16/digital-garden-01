@@ -5,7 +5,7 @@
 # Les Verbes - Être et Avoir
 #Français #A1
 ___
-Main Index: [[02 - Páginas de Gramática/Français/A1/Nivel A1・FR\|Nivel A1・FR]]
+Main Index: [[02 - Páginas de Gramática/Français/A1/Nivel A1・FR\|02 - Páginas de Gramática/Français/A1/Nivel A1・FR]]
 ___
 >Aprender estos dos verbos es demasiado importante porque todo se hace con ellos, además de que el español tiene más verbos para expresar cosas similares. Por eso, hay que aprovechar la simpleza de este idioma.
 
@@ -17,15 +17,15 @@ El verbo ‘Être’ significa literalmente ‘Ser’ o ‘Estar’. Considerand
 
 Hace falta decir que cuando vayamos a conjugar un verbo, hay que tener en cuenta el [[02 - Páginas de Gramática/Français/A1/Les Pronoms Sujet\|pronombre sujeto]] que realizará la acción para adecuarlo, justo como en español. (Tú eres, yo soy…)
 
-| Pronom        | Conjugación | Español                               |
-| ------------- | ----------- | ------------------------------------- |
-| Être          |             | Ser/estar                             |
-| Je            | Suis        | Soy/estoy                             |
-| Tu            | Es          | Eres/estás                            |
-| Il/elle/on/ça | Est         | Es/está                               |
-| Nous          | Sommes      | Somos/estamos                         |
-| Vous          | Êtes        | Son/Están   <br>_==Es/Está (Usted)==_ |
-| Ils/elles     | Sont        | Son/Están                             |
+| Pronom        | Conjugación | Español                           |
+| ------------- | ----------- | --------------------------------- |
+| Être          |             | Ser/estar                         |
+| Je            | Suis        | Soy/estoy                         |
+| Tu            | Es          | Eres/estás                        |
+| Il/elle/on/ça | Est         | Es/está                           |
+| Nous          | Sommes      | Somos/estamos                     |
+| Vous          | Êtes        | Son/Están   <br>_Es/Está (Usted)_ |
+| Ils/elles     | Sont        | Son/Están                         |
 
 > [!info] 
 > Recordemos que el pronombre vous se puede interpretar como “usted”, lo que hace que su traducción cambie al español cuando hablamos de manera formal.

@@ -5,9 +5,9 @@
 # Le Discours Indirect II (Simple)
 #Français #B1
 ___
-Main Index: [[02 - Páginas de Gramática/Français/B1/Nivel B1・FR\|Nivel B1・FR]]
+Main Index: [[02 - Páginas de Gramática/Français/B1/Nivel B1・FR\|02 - Páginas de Gramática/Français/B1/Nivel B1・FR]]
 ___
-> La información en esta sección es igual a la original → [[02 - Páginas de Gramática/Français/A2/Le Discours Indirect I (Introduction)\|Le Discours Indirect I (Introduction)]] para fines de comodidad y retro-alimentación.
+> La información en esta sección es igual a la original → [[02 - Páginas de Gramática/Français/A2/Le Discours Indirect I (Introduction)\|02 - Páginas de Gramática/Français/A2/Le Discours Indirect I (Introduction)]] para fines de comodidad y retro-alimentación.
 > Recordar → [[02 - Páginas de Gramática/Gramática General/La Concordancia Temporal en Oraciones Subordinadas\|La Concordancia Temporal en Oraciones Subordinadas]]
 
 El [[02 - Páginas de Gramática/Gramática General/El Discurso Indirecto\|discurso indirecto]] es una estructura que nos permite reportar información que otro actor ha mencionado antes. Esta estructura requiere realizarse con unas condiciones específicas y evita que se expresen las palabras exactas del emisor original.
@@ -48,7 +48,7 @@ En la sección original logramos comprender como usar esta estructura usando ún
 | Dans quelques jours             | Quelques jours plus tard              | En unos días → Unos días después   |
 | (Matin, Soir, Après-midi, Nuit) | Ce (Matin, Soir, Après-midi, Nuit)-là | En la tarde → Esa tarde            |
 ### Cambios de Tiempo Para Las Oraciones
-> Antes de introducir la oración reportada, es normal utilizar las oraciones de introducción en un tiempo pasado o una Conjugación Compuesta como → [[02 - Páginas de Gramática/Français/A2/Le Passé Composé (El Perfecto Compuesto)\|Le Passé Composé (El Perfecto Compuesto)]]
+> Antes de introducir la oración reportada, es normal utilizar las oraciones de introducción en un tiempo pasado o una Conjugación Compuesta como → [[02 - Páginas de Gramática/Français/B1/L’Infinitif Passé\|L’Infinitif Passé]]
 
 | Tiempo de la oración original | Tiempo de la oración reportada | Traducción             |
 | ----------------------------- | ------------------------------ | ---------------------- |

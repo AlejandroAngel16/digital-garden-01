@@ -5,7 +5,7 @@
 # Le Présent Continu (En Train de)
 #Français #A2
 ___
-Main Index: [[02 - Páginas de Gramática/Français/A2/Nivel A2・FR\|Nivel A2・FR]]
+Main Index: [[02 - Páginas de Gramática/Français/A2/Nivel A2・FR\|02 - Páginas de Gramática/Français/A2/Nivel A2・FR]]
 ___
 El **presente continuo** es la forma que se utiliza en francés para expresar acciones que están ocurriendo en el momento preciso del habla. Esta forma no se puede confundir con el [[02 - Páginas de Gramática/Français/B1/Le Gérondif - Conditionnel\|gerundio]] del francés aunque su dinámica sea muy similar.
 ## Locución del Continuo

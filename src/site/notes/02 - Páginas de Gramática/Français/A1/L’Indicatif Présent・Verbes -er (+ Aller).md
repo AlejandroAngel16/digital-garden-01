@@ -5,7 +5,7 @@
 # L’Indicatif Présent・Verbes -er (+ Aller)
 #Français #A1
 ___
-Main Index: [[02 - Páginas de Gramática/Français/A1/Nivel A1・FR\|Nivel A1・FR]]
+Main Index: [[02 - Páginas de Gramática/Français/A1/Nivel A1・FR\|02 - Páginas de Gramática/Français/A1/Nivel A1・FR]]
 ___
 ## Conjugación Verbal
 El idioma francés tiene diferentes tipos de verbos o como se les dice: grupos. 
@@ -32,7 +32,7 @@ La raíz en este caso se compondría del verbo hasta la terminación “Habit + 
 > Je + habiter → J’habite → Yo resido
 > Tu + habiter → Tu habites → Tú resides
 
-Recordemos que aquellas palabras con ‘h’ muda, deberán ser apostrofadas debido a la falta del sonido, según la [[02 - Páginas de Gramática/Français/A1/Fonética Fundamental・FR\|Fonética Fundamental・FR]].
+Recordemos que aquellas palabras con ‘h’ muda, deberán ser apostrofadas debido a la falta del sonido, según la [[02 - Páginas de Gramática/Français/A1/Fonética Fundamental・FR\|02 - Páginas de Gramática/Français/A1/Fonética Fundamental・FR]].
 
 Es normal que existan verbos que requieran ligeros cambios en su conjugación para mantener un tipo de integridad fonética. Tal es el caso con el verbo “manger”.
 

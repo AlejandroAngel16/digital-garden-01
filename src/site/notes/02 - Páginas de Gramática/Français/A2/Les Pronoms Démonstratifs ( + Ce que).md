@@ -5,9 +5,9 @@
 # Les Pronoms Démonstratifs ( + Ce que)
 #Français #A2
 ___
-Main Index: [[02 - Páginas de Gramática/Français/A2/Nivel A2・FR\|Nivel A2・FR]]
+Main Index: [[02 - Páginas de Gramática/Français/A2/Nivel A2・FR\|02 - Páginas de Gramática/Français/A2/Nivel A2・FR]]
 ___
-Para poder referirnos a algo dentro de nuestro espacio físico o metafórico, utilizamos estos pronombres para reemplazar un concepto o para señalarlo. Junto a estos pronombres, se pueden encontrar [[02 - Páginas de Gramática/Gramática General/Los Pronombres Relativos\|pronombres relativos]] como descrito en [[02 - Páginas de Gramática/Français/A2/Les Pronoms Relatif I (Que & Qui)\|Les Pronoms Relatif I (Que & Qui)]]
+Para poder referirnos a algo dentro de nuestro espacio físico o metafórico, utilizamos estos pronombres para reemplazar un concepto o para señalarlo. Junto a estos pronombres, se pueden encontrar [[02 - Páginas de Gramática/Gramática General/Los Pronombres Relativos\|pronombres relativos]] como descrito en [[02 - Páginas de Gramática/Français/A2/Les Pronoms Relatif I (Que & Qui)\|02 - Páginas de Gramática/Français/A2/Les Pronoms Relatif I (Que & Qui)]]
 
 ## Pronombres Demostrativos Específicos
 Este es considerado un concepto de [[02 - Páginas de Gramática/Français/A1/Nivel A1・FR\|Nivel A1]]. Sin embargo, debe aprenderse junto a sus contra-partes más complejas para comprender las diferencias y las dinámicas del concepto en conjunto.

@@ -5,9 +5,9 @@
 # Les Conjonctions IV (Estructuras Sintácticas)
 #Français #C2
 ___
-Main Index: [[02 - Páginas de Gramática/Français/C2/Nivel C2・FR\|Nivel C2・FR]]
+Main Index: [[02 - Páginas de Gramática/Français/C2/Nivel C2・FR\|02 - Páginas de Gramática/Français/C2/Nivel C2・FR]]
 ___
-Justo como la secciones → [[02 - Páginas de Gramática/Français/A1/Les Conjonctions I\|Les Conjonctions I]], [[02 - Páginas de Gramática/Français/B1/Les Conjonctions II\|Les Conjonctions II]] y [[02 - Páginas de Gramática/Français/B2/Les Conjonctions III\|Les Conjonctions III]], existen varias palabras que nos permiten conectar oraciones, hablar de razones y tiempo. Esta sección es ligeramente más avanzada y su enfoque está en el vocabulario y la producción escrita.
+Justo como la secciones → [[02 - Páginas de Gramática/Français/A1/Les Conjonctions I\|02 - Páginas de Gramática/Français/A1/Les Conjonctions I]], [[02 - Páginas de Gramática/Français/B1/Les Conjonctions II\|02 - Páginas de Gramática/Français/B1/Les Conjonctions II]] y [[02 - Páginas de Gramática/Français/B2/Les Conjonctions III\|02 - Páginas de Gramática/Français/B2/Les Conjonctions III]], existen varias palabras que nos permiten conectar oraciones, hablar de razones y tiempo. Esta sección es ligeramente más avanzada y su enfoque está en el vocabulario y la producción escrita.
 
 | Français         | Español           |
 | ---------------- | ----------------- |

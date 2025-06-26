@@ -3,20 +3,22 @@
 ---
 
 
-# Nivel C1
+# Nivel C1・FR
+#C1  #Français
 ___
 Main Index: [[01 - Índices/Páginas de Idiomas/Français\|Français]]
 ___
-## Volumen I
-### [[02 - Páginas de Gramática/Français/C1/L’Indicatif Passé Simple\|L’Indicatif Passé Simple]]
-### [[02 - Páginas de Gramática/Français/C1/La Voix Passive II\|La Voix Passive II]]
-### [[02 - Páginas de Gramática/Français/C1/Le Subjonctif Imparfait (Literario)\|Le Subjonctif Imparfait (Literario)]]
-## Volumen II
-### [[02 - Páginas de Gramática/Français/C1/Le Subjonctif Plus-Que-Parfait et Conditionnel Passé II (Literario)\|Le Subjonctif Plus-Que-Parfait et Conditionnel Passé II (Literario)]]
-### [[02 - Páginas de Gramática/Français/C1/Le Conditionnel III - 2 (Literario)\|Le Conditionnel III - 2 (Literario)]]
+> [!success] ###### Volumen I
+ [[02 - Páginas de Gramática/Français/C1/L’Indicatif Passé Simple\|02 - Páginas de Gramática/Français/C1/L’Indicatif Passé Simple]]
+ [[02 - Páginas de Gramática/Français/C1/La Voix Passive II\|02 - Páginas de Gramática/Français/C1/La Voix Passive II]]
+ [[02 - Páginas de Gramática/Français/C1/Le Subjonctif Imparfait (Literario)\|02 - Páginas de Gramática/Français/C1/Le Subjonctif Imparfait (Literario)]]
 
-> ## Desafío
-> Trabajo en progreso…
+
+
+> [!success] ###### Volumen II
+ [[02 - Páginas de Gramática/Français/C1/Le Subjonctif Plus-Que-Parfait et Conditionnel Passé II (Literario)\|02 - Páginas de Gramática/Français/C1/Le Subjonctif Plus-Que-Parfait et Conditionnel Passé II (Literario)]]
+ [[02 - Páginas de Gramática/Français/C1/Le Conditionnel III - 2 (Literario)\|02 - Páginas de Gramática/Français/C1/Le Conditionnel III - 2 (Literario)]]
+
 
 
 

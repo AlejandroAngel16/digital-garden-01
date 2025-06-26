@@ -5,7 +5,7 @@
 # L’Expression “N’importe”
 #Français #B1
 ___
-Main Index: [[02 - Páginas de Gramática/Français/B1/Nivel B1・FR\|Nivel B1・FR]]
+Main Index: [[02 - Páginas de Gramática/Français/B1/Nivel B1・FR\|02 - Páginas de Gramática/Français/B1/Nivel B1・FR]]
 ___
 Esta expresión que se puede interpretar literal como → **‘No importa’** o también **‘sin importar’** se utiliza junto a diferentes pronombres para representar inclusión o indiferencia frente a algo específico. ¿Qué significa esto? Revisemos las traducciones más cercanas del español.
 

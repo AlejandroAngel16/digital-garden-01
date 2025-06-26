@@ -5,7 +5,7 @@
 # Le Subjonctif Présent
 #Français #B2
 ___
-Main Index: [[02 - Páginas de Gramática/Français/B2/Nivel B2・FR\|Nivel B2・FR]]
+Main Index: [[02 - Páginas de Gramática/Français/B2/Nivel B2・FR\|02 - Páginas de Gramática/Français/B2/Nivel B2・FR]]
 ___
 > Esta conjugación es indispensable para hablar de opiniones y probabilidades, se debería revisar en niveles previos debido a su utilidad pero para evitar cargar con mucha información, se revisa en este nivel B2.
 
@@ -37,7 +37,7 @@ Podemos ver las terminaciones regulares para los verbos en este tiempo de manera
 | Vous         | -iez            | -issiez         | -iez            |
 | Ils/elles    | -ent            | -issent         | -ent            |
 
-En la siguiente tabla se recopilan los verbos  irregulares y más importantes junto a los [[02 - Páginas de Gramática/Français/A1/Les Verbes Modaux ・Verbes -oir\|verbos modales]] para hablar usando [[02 - Páginas de Gramática/Français/B2/Le Subjonctif Présent\|Le Subjonctif Présent]].
+En la siguiente tabla se recopilan los verbos  irregulares y más importantes junto a los [[02 - Páginas de Gramática/Français/A1/Les Verbes Modaux ・Verbes -oir\|verbos modales]] para hablar usando [[02 - Páginas de Gramática/Français/B2/Le Subjonctif Présent\|02 - Páginas de Gramática/Français/B2/Le Subjonctif Présent]].
 
 ### Verbos Irregulares
 
@@ -64,7 +64,7 @@ En la siguiente tabla se recopilan los verbos  irregulares y más importantes ju
 ## Expresiones del Subjuntivo
 El [[02 - Páginas de Gramática/Gramática General/El Subjuntivo\|subjuntivo]] tiene una cantidad bastante amplia de expresiones introductorias, aprenderlas todas puede ser un proceso largo y tedioso. Por ello, resulta más sencillo aprender las expresiones que NO introducen al **subjuntivo**, sino que utilizan el [[02 - Páginas de Gramática/Français/A1/L’Indicatif Présent (Résumé)\|indicativo presente]] o el [[02 - Páginas de Gramática/Français/A2/L’Indicatif Futur\|indicativo futuro]], ya que estas expresiones son menores en cantidad.
 
-> En efecto, existen expresiones que utilizan [[02 - Páginas de Gramática/Français/A2/L’Indicatif Futur\|L’Indicatif Futur]]. En español eso es impensable pero afortunadamente no son muchas.
+> En efecto, existen expresiones que utilizan [[02 - Páginas de Gramática/Français/A2/L’Indicatif Futur\|02 - Páginas de Gramática/Français/A2/L’Indicatif Futur]]. En español eso es impensable pero afortunadamente no son muchas.
 
 ### Expresiones del Subjuntivo Regulares
 

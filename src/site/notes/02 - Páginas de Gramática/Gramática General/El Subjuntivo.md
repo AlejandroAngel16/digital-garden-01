@@ -11,43 +11,58 @@ El subjuntivo presente es un tiempo verbal que se usa principalmente para expres
 
 En español, el subjuntivo se utiliza en oraciones subordinadas que dependen de una oración principal que expresa deseos, dudas, emociones, necesidades, etc.
 
->**Expresar deseos**:
+Expresar deseos:
 
-- Ejemplo: _Ojalá que **vayas** al evento._ (deseo)
+>Ojalá que **vayas** al evento. (deseo)
 
->**Expresar duda o incertidumbre**:
+Expresar duda o incertidumbre:
 
-- Ejemplo: _No creo que él **llegue** a tiempo._ (duda)
+>No creo que él **llegue** a tiempo. (duda)
 
->**Expresar emociones o reacciones subjetivas**:
+Expresar emociones o reacciones subjetivas:
 
-- Ejemplo: _Me alegra que tú **estudies** tanto._ (emoción)
+>Me alegra que tú **estudies** tanto. (emoción)
 
->**Expresar hipótesis o situaciones no reales**:
+Expresar hipótesis o situaciones no reales:
 
-- Ejemplo: _Aunque él **trabaje** mucho, no logrará terminar._ (hipótesis)
+>Aunque él **trabaje** mucho, no logrará terminar. (hipótesis)
 
->**En oraciones subordinadas de ciertos verbos, expresiones y conjunciones**:
+En oraciones subordinadas de ciertos verbos, expresiones y conjunciones:
 
-- Ejemplo: _Es importante que tú **hagas** la tarea._ (verbo "es importante")
+>Es importante que tú **hagas** la tarea. (verbo "es importante")
 
-## Formación del subjuntivo presente en español:
+### Conjugación de verbos regulares:
 
->**Verbos -ar**:
+| **Verbos en -AR** (_hablar_)                                                                                              | **Verbos en -ER** (_comer_)                                                                                          | **Verbos en -IR** (_vivir_)                                                                                             |
+| ------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------- |
+| Yo hable<br>Tú hables<br>Él/Ella/Usted hable<br>Nosotros/as hablemos<br>Vosotros/as habléis<br>Ellos/Ellas/Ustedes hablen | Yo coma<br>Tú comas<br>Él/Ella/Usted coma<br>Nosotros/as comamos <br>Vosotros/as comáis<br>Ellos/Ellas/Ustedes coman | Yo viva<br>Tú vivas<br>Él/Ella/Usted viva  <br>Nosotros/as vivamos  <br>Vosotros/as viváis<br>Ellos/Ellas/Ustedes vivan |
 
-El subjuntivo se forma cambiando la terminación **-ar** por **-e, -es, -e, -emos, -éis, -en**.
+### Expresiones del Subjuntivo
 
-- Ejemplo: _hablar_ → **hable, hables, hable, hablemos, habléis, hablen**
+| Expresión                   | Tipo de expresión |
+| --------------------------- | ----------------- |
+| Esperar que                 | Deseo & Voluntad  |
+| Querer que                  | Deseo & Voluntad  |
+| Preferir que                | Deseo & Voluntad  |
+| Ojalá que                   | Deseo & Voluntad  |
+| Alegrarse que               | Emoción           |
+| Es triste que               | Emoción           |
+| Molestarse que              | Emoción           |
+| Temer que                   | Emoción           |
+| Dudar que                   | Duda & Negación   |
+| **No** creer que            | Duda & Negación   |
+| Es imposible que            | Duda & Negación   |
+| **No** saber si             | Duda & Negación   |
+| **No** es cierto/verdad que | Duda & Negación   |
+| **Es importante que**       | Recomendación     |
+| Es necesario que            | Recomendación     |
+| Recomendar que              | Recomendación     |
+| Sugerir que                 | Recomendación     |
+| Para que                    | Conjunción        |
+| A menos que                 | Conjunción        |
+| Antes de que                | Conjunción        |
+| Sin que                     | Conjunción        |
+| No parece que               | Incertidumbre     |
 
->**Verbos -er**:
 
-El subjuntivo se forma cambiando la terminación **-er** por **-a, -as, -a, -amos, -áis, -an**.
-
-- Ejemplo: _comer_ → **coma, comas, coma, comamos, comáis, coman**
-
->**Verbos -ir**:
-
-El subjuntivo se forma de la misma manera que los verbos -er, cambiando la terminación **-ir** por **-a, -as, -a, -amos, -áis, -an**.
-
-- Ejemplo: _vivir_ → **viva, vivas, viva, vivamos, viváis, vivan**
 ___

@@ -5,7 +5,7 @@
 # Le Comparative et Le Superlative
 #Français #A2
 ___
-Main Index: [[02 - Páginas de Gramática/Français/A2/Nivel A2・FR\|Nivel A2・FR]]
+Main Index: [[02 - Páginas de Gramática/Français/A2/Nivel A2・FR\|02 - Páginas de Gramática/Français/A2/Nivel A2・FR]]
 ___
 Para realizar comparaciones debemos tener en cuenta ciertas condiciones, sea que vayamos a comparar dos objetos precisos o vayamos a realizar un superlativo. Además de esto, hay cuatro categorías de comparación, cada una con sus reglas.
 

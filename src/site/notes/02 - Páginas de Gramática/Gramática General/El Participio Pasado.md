@@ -9,8 +9,8 @@ Main Index: [[01 - Índices/Páginas Generales/Fundamentación Gramatical\|Funda
 ___
 El **participio pasado** es una forma verbal que se utiliza principalmente para formar los **tiempos compuestos** (como el perfecto) y las **oraciones pasivas**. Además, puede funcionar como [[02 - Páginas de Gramática/Gramática General/Los Adjetivos\|adjetivo]].
 
->- _He comido_ (compuesto, con el verbo auxiliar **"haber"**).
->- _La casa destruida_ (adjetivo, el participio califica al sustantivo **"casa"**).
+> _He comido_ (compuesto, con el verbo auxiliar **"haber"**).
+> _La casa destruida_ (adjetivo, el participio califica al sustantivo **"casa"**).
 
 ## Características
 | Características del Participio Pasado | Descripción                                                                                                                      | Ejemplo                               |

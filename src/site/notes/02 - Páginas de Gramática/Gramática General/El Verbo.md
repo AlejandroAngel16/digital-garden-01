@@ -3,20 +3,22 @@
 ---
 
 # El Verbo
-#Grammar #Fundaments
+#Grammar  #Fundaments 
 ___
 Main Index: [[01 - Índices/Páginas Generales/Fundamentación Gramatical\|Fundamentación Gramatical]]
 ___
 El verbo es una palabra que expresa una acción, estado o proceso relacionado con el sujeto de la oración. Es el núcleo del predicado y puede indicar tiempo (presente, pasado, futuro), modo (indicativo, subjuntivo, imperativo) y persona (primera, segunda, tercera).
 
-- Acción: _Caminar, correr, bailar._ (_Ella camina por el parque._)
-- Estado: _Ser, estar, parecer._ (_Él está cansado._)
-- Proceso: _Crecer, nacer, morir._ (_Las flores crecen en primavera._)
+| Tipo    | Ejemplo                    | Oración                           |
+| ------- | -------------------------- | --------------------------------- |
+| Acción  | _Caminar, correr, bailar._ | _Ella camina por el parque._      |
+| Estado  | _Ser, estar, parecer._     | _Él está cansado._                |
+| Proceso | _Crecer, nacer, morir._    | _Las flores crecen en primavera._ |
 
 ## Características del Verbo
 **Conjugación:** Los verbos cambian su forma para concordar con el sujeto, el tiempo, el modo y el número.
 
-- Ejemplo: _Yo corro, tú corres, él corre._
+>Ejemplo: _Yo corro, tú corres, él corre._
 
 **Raíz y terminación:**
 
@@ -26,11 +28,11 @@ El verbo es una palabra que expresa una acción, estado o proceso relacionado co
 **Según su significado:**
 
 - **Transitivos:** Requieren un complemento directo.
-    - Ejemplo: _Ana compra flores._
+    > Ejemplo: _Ana compra flores._
 - **Intransitivos:** No necesitan complemento directo.
-    - Ejemplo: _Pedro duerme._
+    > Ejemplo: _Pedro duerme._
 - **Copulativos:** Expresan estado y se acompañan de un atributo (_ser, estar, parecer_).
-    - Ejemplo: _El cielo es azul._
+    >Ejemplo: _El cielo es azul._
 
 **Según su conjugación:**
 
@@ -40,58 +42,31 @@ El verbo es una palabra que expresa una acción, estado o proceso relacionado co
     - Ejemplo: _tener (yo tengo), ir (yo voy)._
 
 **Auxiliares:** Ayudan a formar tiempos compuestos o pasivos (_haber, ser, estar_).
-
-- Ejemplo: _He comido._
+>Ejemplo: _He comido._
 
 ## Verbos Regulares
 on aquellos que siguen el patrón de conjugación establecido para su terminación (-ar, -er, -ir). No tienen cambios irregulares en su raíz y sus terminaciones son predecibles.
 
-- **Hablar** (verbo regular de la conjugación -ar)
-    - Yo hablo
-    - Tú hablas
-    - Él/Ella habla
-    - Nosotros/as hablamos
-    - Vosotros/as habláis
-    - Ellos/as hablan
-- **Comer** (verbo regular de la conjugación -er)
-    - Yo como
-    - Tú comes
-    - Él/Ella come
-    - Nosotros/as comemos
-    - Vosotros/as coméis
-    - Ellos/as comen
-- **Vivir** (verbo regular de la conjugación -ir)
-    - Yo vivo
-    - Tú vives
-    - Él/Ella vive
-    - Nosotros/as vivimos
-    - Vosotros/as vivís
-    - Ellos/as viven
+| Pronombre Sujeto    | Hablar   | Comer   | Vivir   |
+| ------------------- | -------- | ------- | ------- |
+| Yo                  | hablo    | como    | vivo    |
+| Tú                  | hablas   | comes   | vives   |
+| Él/Ella             | habla    | come    | vive    |
+| Nosotros            | hablamos | comemos | vivimos |
+| Vosotros            | habláis  | coméis  | vivís   |
+| Ustedes/Ellos/Ellas | hablan   | comen   | viven   |
 
 ## Verbos Irregulares
 Son aquellos cuyo patrón de conjugación no sigue las reglas normales. Pueden cambiar la raíz del verbo o sus terminaciones en algunos tiempos verbales.
 
-- **Ser** (verbo irregular)
-    - Yo soy
-    - Tú eres
-    - Él/Ella es
-    - Nosotros/as somos
-    - Vosotros/as sois
-    - Ellos/as son
-- **Ir** (verbo irregular)
-    - Yo voy
-    - Tú vas
-    - Él/Ella va
-    - Nosotros/as vamos
-    - Vosotros/as vais
-    - Ellos/as van
-- **Tener** (verbo irregular)
-    - Yo tengo
-    - Tú tienes
-    - Él/Ella tiene
-    - Nosotros/as tenemos
-    - Vosotros/as tenéis
-    - Ellos/as tienen
+| Pronombre Sujeto    | Ser   | Ir    | Tener   |
+| ------------------- | ----- | ----- | ------- |
+| Yo                  | soy   | voy   | tengo   |
+| Tú                  | eres  | vas   | tienes  |
+| Él/Ella             | es    | va    | tiene   |
+| Nosotros            | somos | vamos | tenemos |
+| Vosotros            | sois  | vais  | tenéis  |
+| Ustedes/Ellos/Ellas | son   | van   | tienen  |
 
 ## Diferencias clave:
 

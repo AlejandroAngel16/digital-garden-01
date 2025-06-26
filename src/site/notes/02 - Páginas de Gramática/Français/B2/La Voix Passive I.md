@@ -5,7 +5,7 @@
 # La Voix Passive I
 #Français #B2
 ___
-Main Index: [[02 - Páginas de Gramática/Français/B2/Nivel B2・FR\|Nivel B2・FR]]
+Main Index: [[02 - Páginas de Gramática/Français/B2/Nivel B2・FR\|02 - Páginas de Gramática/Français/B2/Nivel B2・FR]]
 ___
 La [[02 - Páginas de Gramática/Gramática General/Las Estructuras Pasivas\|voz pasiva]] en francés se utiliza para enfatizar la acción o el objeto de una oración en lugar del sujeto que realiza la acción. O sea que en vez de utilizar el Sujeto para ser el pivote de la oración, utilizaremos el [[02 - Páginas de Gramática/Gramática General/El Complemento Directo\|complemento directo]].
 
@@ -24,7 +24,7 @@ Como es de esperar, dependiendo del tiempo de la Oración Directa original, el v
 - La fleur est vue → La flor es vista.
 
 ## Cambios de Tiempo Verbal
-Dependiendo del tiempo de la oración original, debemos ajustar el cambio para que cobre sentido. Este proceso es similar a aquel de [[02 - Páginas de Gramática/Français/B1/Le Discours Indirect II (Simple)\|Le Discours Indirect II (Simple)]].
+Dependiendo del tiempo de la oración original, debemos ajustar el cambio para que cobre sentido. Este proceso es similar a aquel de [[02 - Páginas de Gramática/Français/B1/Le Discours Indirect II (Simple)\|02 - Páginas de Gramática/Français/B1/Le Discours Indirect II (Simple)]].
 
 | Tiempo de la oración directa | Estructura de la oración en voz pasiva                    |
 | ---------------------------- | --------------------------------------------------------- |

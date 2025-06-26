@@ -5,9 +5,9 @@
 # Les Commandes
 #Français #A1
 ___
-Main Index: [[02 - Páginas de Gramática/Français/A1/Nivel A1・FR\|Nivel A1・FR]]
+Main Index: [[02 - Páginas de Gramática/Français/A1/Nivel A1・FR\|02 - Páginas de Gramática/Français/A1/Nivel A1・FR]]
 ___
-Esta sección reúne elementos de todo el nivel para proponer un contexto de encomendar algo o realizar pedidos de manera común o formal utilizando [[02 - Páginas de Gramática/Français/A1/Les Verbes Modaux ・Verbes -oir\|Les Verbes Modaux ・Verbes -oir]] y una conjugación de nivel más avanzado para crear formalidad.
+Esta sección reúne elementos de todo el nivel para proponer un contexto de encomendar algo o realizar pedidos de manera común o formal utilizando [[02 - Páginas de Gramática/Français/A1/Les Verbes Modaux ・Verbes -oir\|02 - Páginas de Gramática/Français/A1/Les Verbes Modaux ・Verbes -oir]] y una conjugación de nivel más avanzado para crear formalidad.
 
 Si deseamos pedir algo en el contexto de una cafetería, tienda, etc… Utilizamos las siguientes expresiones o las escuchamos por parte del empleado en el lugar.
 
@@ -36,9 +36,9 @@ Por otra parte, existen expresiones que se utilizan para poder expresar el deseo
 ## Pedidos Formales
 En el caso de querer hacer peticiones formales, podemos utilizar ciertos verbos para exigir algo (poder, querer, gustar, tener). Sin embargo, estos verbos deben utilizarse en Condicional Presente. ¿Qué significa eso? Que utilizaremos esta conjugación avanzada del francés para añadir un nivel de formalidad.
 
-Esta conjugación → [[02 - Páginas de Gramática/Français/B1/Le Conditionnel Présent\|Le Conditionnel Présent]] hace parte de un nivel avanzado, por esta razón solo se aprenderá ligeramente en lo que resta de la sección actual.
+Esta conjugación → [[02 - Páginas de Gramática/Français/B1/Le Conditionnel Présent\|02 - Páginas de Gramática/Français/B1/Le Conditionnel Présent]] hace parte de un nivel avanzado, por esta razón solo se aprenderá ligeramente en lo que resta de la sección actual.
 
-En la siguiente tabla se recopilarán estos verbos en [[02 - Páginas de Gramática/Français/B1/Le Conditionnel Présent\|Le Conditionnel Présent]] junto a ejemplos de su uso
+En la siguiente tabla se recopilarán estos verbos en [[02 - Páginas de Gramática/Français/B1/Le Conditionnel Présent\|02 - Páginas de Gramática/Français/B1/Le Conditionnel Présent]] junto a ejemplos de su uso
 
 | Pronombre Suj. | Aimer      | Avoir    | Vouloir    | Pouvoir    |
 | -------------- | ---------- | -------- | ---------- | ---------- |

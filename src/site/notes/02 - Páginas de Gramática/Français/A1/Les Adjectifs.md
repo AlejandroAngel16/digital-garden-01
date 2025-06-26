@@ -5,7 +5,7 @@
 # Les Adjectifs
 #Français #A1
 ___
-Main Index: [[02 - Páginas de Gramática/Français/A1/Nivel A1・FR\|Nivel A1・FR]]
+Main Index: [[02 - Páginas de Gramática/Français/A1/Nivel A1・FR\|02 - Páginas de Gramática/Français/A1/Nivel A1・FR]]
 ___
 Debido a que la lengua francesa es un idioma con dos géneros (M.&F.), existen adjetivos que deben de modificarse en una [[02 - Páginas de Gramática/Gramática General/La Inflexión\|inflexión]] que esté de acuerdo con este género y también la cantidad.
 Justo como en el español, algunos adjetivos son neutros y su forma básica se usará tanto con sujetos masculinos y femeninos (ej. Inteligente); sin embargo, eso no significa que los adjetivos neutros del español sean neutros en francés, usualmente es el caso opuesto.

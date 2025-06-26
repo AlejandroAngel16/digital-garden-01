@@ -5,7 +5,7 @@
 # Les Verbes Modaux ・Verbes -oir
 #Français #A1
 ___
-Main Index: [[02 - Páginas de Gramática/Français/A1/Nivel A1・FR\|Nivel A1・FR]]
+Main Index: [[02 - Páginas de Gramática/Français/A1/Nivel A1・FR\|02 - Páginas de Gramática/Français/A1/Nivel A1・FR]]
 ___
 El siguiente grupo de verbos es bastante especial ya que no tiene patrones fijos y contiene particularmente a los verbos modales del idioma.
 Este grupo también se puede considerar simplemente un sub-grupo de los [[02 - Páginas de Gramática/Français/A1/L’Indicatif Présent・Verbes -ir\|verbos -ir]] en vez de estar en su propia categoría.

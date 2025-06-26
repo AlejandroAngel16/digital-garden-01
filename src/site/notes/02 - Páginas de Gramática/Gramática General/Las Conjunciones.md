@@ -18,6 +18,11 @@ La conjunción es una palabra invariable que se utiliza para unir palabras, grup
 2. **Relacionales:** Sirven para enlazar elementos, indicando su relación lógica (suma, oposición, causa, etc.).
 3. **Clasificación por función:** Pueden ser **coordinantes** o **subordinantes**, dependiendo de cómo conectan las ideas.
 
->- Coordinante: _Quiero café **o** té._ (**"o"** une dos opciones).
->- Subordinante: _No salí **porque** estaba lloviendo._ (**"porque"** introduce la causa).
+> Coordinante: _Quiero café **o** té._ (**"o"** une dos opciones).
+> Subordinante: _No salí **porque** estaba lloviendo._ (**"porque"** introduce la causa).
+
+
+
+
+
 ___

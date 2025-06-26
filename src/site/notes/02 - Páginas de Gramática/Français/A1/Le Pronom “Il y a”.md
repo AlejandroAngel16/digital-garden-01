@@ -5,7 +5,7 @@
 # Le Pronom “Il y a”
 #Français #A1
 ___
-Main Index: [[02 - Páginas de Gramática/Français/A1/Nivel A1・FR\|Nivel A1・FR]]
+Main Index: [[02 - Páginas de Gramática/Français/A1/Nivel A1・FR\|02 - Páginas de Gramática/Français/A1/Nivel A1・FR]]
 ___
 Esta [[02 - Páginas de Gramática/Gramática General/La Perífrasis Verbal y Locución Verbal\|locución verbal]] tiene un uso muy directo, el de denotar la existencia de algo. Su locución análoga en español es ‘hay’, y esta expresión no toma en cuenta el género o cantidad de los elementos; simplemente es universal.
 

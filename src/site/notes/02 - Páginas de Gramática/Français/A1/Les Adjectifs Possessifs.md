@@ -5,7 +5,7 @@
 # Les Adjectifs Possessifs
 #Français #A1
 ___
-Main Index: [[02 - Páginas de Gramática/Français/A1/Nivel A1・FR\|Nivel A1・FR]]
+Main Index: [[02 - Páginas de Gramática/Français/A1/Nivel A1・FR\|02 - Páginas de Gramática/Français/A1/Nivel A1・FR]]
 ___
 No confundir con los [[02 - Páginas de Gramática/Français/A2/Les Pronoms Possessifs\|pronombres posesivos]], estos adjetivos se posicionan justo antes del sustantivo y denotan la posesión de un sustantivo. Independientemente de su posición en la oración, solo cambiarán de acuerdo al género y cantidad.
 

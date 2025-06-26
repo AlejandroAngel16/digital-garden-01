@@ -11,21 +11,13 @@ Los **pronombres relativos** son palabras que conectan una oración principal co
 
 ### Principales Pronombres Relativos:
 
-1. **Que**
-    - Se refiere a personas, cosas o animales.
-    - **Ejemplo:** El libro **que** compré es interesante.
-2. **Quien/quienes**
-    - Se refiere solo a personas y suele usarse tras una preposición o coma.
-    - **Ejemplo:** Mi amiga, **quien** vive en París, llegará mañana.
-3. **Cual/cuales**
-    - Se usa para cosas o personas, a menudo con una preposición.
-    - **Ejemplo:** La casa en la **cual** crecí está en el campo.
-4. **Cuyo/cuya/cuyos/cuyas**
-    - Expresa posesión y concuerda en género y número con lo poseído.
-    - **Ejemplo:** La niña, **cuyo** perro está perdido, está llorando.
-5. **Donde**
-    - Indica lugar.
-    - **Ejemplo:** La ciudad **donde** nací es muy bonita.
+| Pronombre Relativo    | Uso                                                                    | Ejemplo                                              |
+| --------------------- | ---------------------------------------------------------------------- | ---------------------------------------------------- |
+| Que                   | Se refiere a personas, cosas o animales.                               | El libro **que** compré es interesante.              |
+| Quien/quienes         | Se refiere solo a personas y suele usarse tras una preposición o coma. | Mi amiga, **quien** vive en París, llegará mañana.   |
+| Cual/cuales           | Se usa para cosas o personas, a menudo con una preposición.            | La casa en la **cual** crecí está en el campo.       |
+| Cuyo/cuya/cuyos/cuyas | Expresa posesión y concuerda en género y número con lo poseído.        | La niña, **cuyo** perro está perdido, está llorando. |
+| Donde                 | Indica lugar.                                                          | La ciudad **donde** nací es muy bonita.              |
 
 
 ___

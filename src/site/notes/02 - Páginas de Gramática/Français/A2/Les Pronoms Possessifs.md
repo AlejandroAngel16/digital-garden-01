@@ -5,9 +5,9 @@
 # Les Pronoms Possessifs
 #Français #A2
 ___
-Main Index: [[02 - Páginas de Gramática/Français/A2/Nivel A2・FR\|Nivel A2・FR]]
+Main Index: [[02 - Páginas de Gramática/Français/A2/Nivel A2・FR\|02 - Páginas de Gramática/Français/A2/Nivel A2・FR]]
 ___
-No confundir con [[02 - Páginas de Gramática/Français/A1/Les Adjectifs Possessifs\|Les Adjectifs Possessifs]]. Estos Pronombres se utilizan para reafirmar la posesión de un sustantivo según el [[02 - Páginas de Gramática/Français/A1/Les Pronoms Sujet\|pronombre sujeto]] y para remplazar el sustantivo del que se habla dentro de la oración.
+No confundir con [[02 - Páginas de Gramática/Français/A1/Les Adjectifs Possessifs\|02 - Páginas de Gramática/Français/A1/Les Adjectifs Possessifs]]. Estos Pronombres se utilizan para reafirmar la posesión de un sustantivo según el [[02 - Páginas de Gramática/Français/A1/Les Pronoms Sujet\|pronombre sujeto]] y para remplazar el sustantivo del que se habla dentro de la oración.
 
 | Pronombre Sujeto | →Masculin  <br>Singulier | →Masculin  <br>Pluriel | →Féminin  <br>Singulier | →Féminin  <br>Pluriel |
 | ---------------- | ------------------------ | ---------------------- | ----------------------- | --------------------- |

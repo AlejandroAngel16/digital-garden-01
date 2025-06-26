@@ -5,7 +5,7 @@
 # Les Questions (+ Pronoms Interrogatifs)
 #Français #A1
 ___
-Main Index: [[02 - Páginas de Gramática/Français/A1/Nivel A1・FR\|Nivel A1・FR]]
+Main Index: [[02 - Páginas de Gramática/Français/A1/Nivel A1・FR\|02 - Páginas de Gramática/Français/A1/Nivel A1・FR]]
 ___
 ## Preguntas Negativas & Positivas
 Realizar preguntas en francés requiere entender el registro de formalidad ya que de acuerdo a este, la formación de cada pregunta variará. Iniciemos por las preguntas cuya respuesta siempre es directamente positiva o negativa. Se les escucha mucho como preguntas sí/no.

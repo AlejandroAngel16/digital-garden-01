@@ -5,22 +5,22 @@
 # Le Conditionnel III (Irréel)
 #Français #B2
 ___
-Main Index: [[02 - Páginas de Gramática/Français/B2/Nivel B2・FR\|Nivel B2・FR]]
+Main Index: [[02 - Páginas de Gramática/Français/B2/Nivel B2・FR\|02 - Páginas de Gramática/Français/B2/Nivel B2・FR]]
 ___
 El Condicional 3 o Condicional Irreal del francés , justo como en español, se utiliza para expresar situaciones que tenían la posibilidad de ocurrir en el pasado pero que dada una situación particular, estos eventos nunca ocurrieron. Siempre que tengamos dudas o remordimientos sobre el pasado, podemos utilizar esta estructura.
 
 Hay que comprender el concepto de → [[02 - Páginas de Gramática/Gramática General/Las Oraciones & Clausulas\|Clausula]] para entender como se divide una oración.
 
-Las estructuras de → [[02 - Páginas de Gramática/Français/B1/Le Plus-que-parfait (El Pluscuamperfecto)\|Le Plus-que-parfait (El Pluscuamperfecto)]] y [[02 - Páginas de Gramática/Français/B2/Le Conditionnel Passé I (El Condicional Perfecto)\|Le Conditionnel Passé I (El Condicional Perfecto)]] se utilizan en conjunto, así que ambos conceptos deben ser comprendidos perfectamente antes de evaluar esta estructura.
+Las estructuras de → [[02 - Páginas de Gramática/Français/B1/Le Plus-que-parfait (El Pluscuamperfecto)\|02 - Páginas de Gramática/Français/B1/Le Plus-que-parfait (El Pluscuamperfecto)]] y [[02 - Páginas de Gramática/Français/B2/Le Conditionnel Passé I (El Condicional Perfecto)\|02 - Páginas de Gramática/Français/B2/Le Conditionnel Passé I (El Condicional Perfecto)]] se utilizan en conjunto, así que ambos conceptos deben ser comprendidos perfectamente antes de evaluar esta estructura.
 
 > [!info] 
 > - La mayor diferencia en comparación al español es el uso del [[02 - Páginas de Gramática/Français/B1/Le Plus-que-parfait (El Pluscuamperfecto)\|pluscuamperfecto]] en vez de un [[02 - Páginas de Gramática/Gramática General/El Subjuntivo\|subjuntivo pluscuamperfecto]] del español. ¿Qué significa esto?
-> - Básicamente al utilizar la conjunción si, debemos interpretar el verbo que esté conjugado en [[02 - Páginas de Gramática/Français/A2/L’Indicatif Imparfait\|L’Indicatif Imparfait]] dentro de [[02 - Páginas de Gramática/Français/B1/Le Plus-que-parfait (El Pluscuamperfecto)\|Le Plus-que-parfait (El Pluscuamperfecto)]] de una manera diferente al español.
+> - Básicamente al utilizar la conjunción si, debemos interpretar el verbo que esté conjugado en [[02 - Páginas de Gramática/Français/A2/L’Indicatif Imparfait\|02 - Páginas de Gramática/Français/A2/L’Indicatif Imparfait]] dentro de [[02 - Páginas de Gramática/Français/B1/Le Plus-que-parfait (El Pluscuamperfecto)\|02 - Páginas de Gramática/Français/B1/Le Plus-que-parfait (El Pluscuamperfecto)]] de una manera diferente al español.
 >   ___
 > - Faire(Hacer) ⇒ J’avais fait → Yo había hecho
 > - Si + Faire(Hacer) ⇒ Si j’avais fait → Si yo hubiera/hubiese hecho
 
-La [[02 - Páginas de Gramática/Gramática General/Las Oraciones & Clausulas\|Clausula]] # 1 representará una condición hipotética usando el [[02 - Páginas de Gramática/Français/B1/Le Plus-que-parfait (El Pluscuamperfecto)\|Le Plus-que-parfait (El Pluscuamperfecto)]] y la [[02 - Páginas de Gramática/Gramática General/Las Oraciones & Clausulas\|Clausula]] # 2 representa una reacción posible que nunca ocurrió usando el [[02 - Páginas de Gramática/Français/B2/Le Conditionnel Passé I (El Condicional Perfecto)\|Le Conditionnel Passé I (El Condicional Perfecto)]]
+La [[02 - Páginas de Gramática/Gramática General/Las Oraciones & Clausulas\|Clausula]] # 1 representará una condición hipotética usando el [[02 - Páginas de Gramática/Français/B1/Le Plus-que-parfait (El Pluscuamperfecto)\|02 - Páginas de Gramática/Français/B1/Le Plus-que-parfait (El Pluscuamperfecto)]] y la [[02 - Páginas de Gramática/Gramática General/Las Oraciones & Clausulas\|Clausula]] # 2 representa una reacción posible que nunca ocurrió usando el [[02 - Páginas de Gramática/Français/B2/Le Conditionnel Passé I (El Condicional Perfecto)\|02 - Páginas de Gramática/Français/B2/Le Conditionnel Passé I (El Condicional Perfecto)]]
 
 
 > [!NOTE] 

@@ -5,7 +5,7 @@
 # Les Pronoms Complément I (COD-COI)
 #Français #A2
 ___
-Main Index: [[02 - Páginas de Gramática/Français/A2/Nivel A2・FR\|Nivel A2・FR]]
+Main Index: [[02 - Páginas de Gramática/Français/A2/Nivel A2・FR\|02 - Páginas de Gramática/Français/A2/Nivel A2・FR]]
 ___
 ## Estructura de Una Oración
 Ya sabemos que una oración puede componerse de un [[02 - Páginas de Gramática/Gramática General/El Complemento Directo\|complemento Directo]] o [[02 - Páginas de Gramática/Gramática General/El Complemento Indirecto\|complemento Indirecto]]. O sea, un elemento al que le recae la oración y otro elemento que es afectado indirectamente.
@@ -63,10 +63,10 @@ La oración reemplazada sería:
 > - Pron.(Suj)+ (ne) + Pron.(COD) + V.Aux. + (pas) + V.Participe(concordancia) + Comp.
 
 > [!example]
-> - Tu ne l'as pas prise. → Ella no la ha tomado.
+> - Tu ne l'as pas prise. → Tú no la has tomado.
 
 ## Pronombres COI
-Los pronombres del [[02 - Páginas de Gramática/Gramática General/El Complemento Indirecto\|complemento indirecto]] entonces serán usados para la otra parte de la oración y siempre serán obvios porque van acompañados por la preposición à antes. Eso quiere decir que es necesario conocer la sección [[02 - Páginas de Gramática/Français/A2/Les Verbes à Regime Prépositionnel\|Les Verbes à Regime Prépositionnel]] y volver a esta una vez la información se haya comprendido.
+Los pronombres del [[02 - Páginas de Gramática/Gramática General/El Complemento Indirecto\|complemento indirecto]] entonces serán usados para la otra parte de la oración y siempre serán obvios porque van acompañados por la preposición à antes. Eso quiere decir que es necesario conocer la sección [[02 - Páginas de Gramática/Français/A2/Les Verbes à Regime Prépositionnel\|02 - Páginas de Gramática/Français/A2/Les Verbes à Regime Prépositionnel]] y volver a esta una vez la información se haya comprendido.
 
 | Pronombre Sujeto | Pronombre COI |
 | ---------------- | ------------- |
@@ -120,6 +120,6 @@ La oración reemplazada sería:
 > 
 > - Je lui ai parlé hier soir. → Yo le he hablado ayer en la tarde.
 
-Saber utilizar ambos pronombres en una sola oración es bastante más complicado y se puede revisar en la sección de [[02 - Páginas de Gramática/Français/B1/Les Pronoms Complément Directs & Indirects II (Ensemble)\|Les Pronoms Complément Directs & Indirects II (Ensemble)]].
+Saber utilizar ambos pronombres en una sola oración es bastante más complicado y se puede revisar en la sección de [[02 - Páginas de Gramática/Français/B1/Les Pronoms Complément Directs & Indirects II (Ensemble)\|02 - Páginas de Gramática/Français/B1/Les Pronoms Complément Directs & Indirects II (Ensemble)]].
 
 ___
