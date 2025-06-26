@@ -36,26 +36,28 @@ Aquí encontrarás herramientas digitales, aplicaciones y plataformas que facili
 
 ## Fundamentos Lingüísticos
 
->[!note] #### [[01 - Índices/Páginas Generales/Fundamentación Gramatical\|Fundamentación Gramatical]]
+>[!note] [[01 - Índices/Páginas Generales/Fundamentación Gramatical\|Fundamentación Gramatical]]
 >Explora reglas, estructuras y principios esenciales de cada idioma. Esta sección te brinda explicaciones claras para comprender y aplicar la gramática de manera efectiva, todo desde el español.
-
 
 
 ## Idiomas
 
-> [!note] #### [[01 - Índices/Páginas de Idiomas/Français\|Français]] 🥐
+> [!note]  [[01 - Índices/Páginas de Idiomas/Français\|Français]] 🥐
 > Recursos, gramática y consejos para mejorar tu comprensión y expresión en francés, desde lo básico hasta niveles avanzados.
+
+
+___
+
+
+> [!note]  [[01 - Índices/Páginas de Idiomas/Deutsch\|Deutsch]] 🍻 [WIP]
+Domina la gramática, el vocabulario y la pronunciación del alemán con materiales diseñados para un aprendizaje estructurado y eficaz.
+
 
 ___
 
 >### [[01 - Índices/Páginas de Idiomas/Italiano\|Italiano]] 🍕 [WIP]
 
 Aprende y perfecciona tu italiano con explicaciones claras, ejercicios y estrategias de estudio adaptadas a estudiantes autónomos.
-___
-
-> [!note] #### [[01 - Índices/Páginas de Idiomas/Deutsch\|Deutsch]] 🍻 [WIP]
-Domina la gramática, el vocabulario y la pronunciación del alemán con materiales diseñados para un aprendizaje estructurado y eficaz.
-
 
 ___
 
