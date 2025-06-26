@@ -42,7 +42,7 @@ Aquí encontrarás herramientas digitales, aplicaciones y plataformas que facili
 
 ## Idiomas
 
-> [!note]  [[01 - Índices/Páginas de Idiomas/Français\|Français]] 🥐
+> [!note]  > #### [[01 - Índices/Páginas de Idiomas/Français\|Français]] 🥐
 > Recursos, gramática y consejos para mejorar tu comprensión y expresión en francés, desde lo básico hasta niveles avanzados.
 
 
