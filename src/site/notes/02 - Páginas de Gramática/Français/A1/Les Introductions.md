@@ -138,6 +138,7 @@ Sin embargo si deseamos hablar de nuestro país de origen, algunas cosas cambiar
 | Qu’est-ce que vous parlez?              | ¿Qué habla usted?            |
 | Quelles langues est-ce que tu parles?   | ¿Cuáles idiomas hablas tú?   |
 | Quelles langues est-ce que vous parlez? | ¿Cuáles idiomas habla usted? |
+
 Antes de mencionar qué idioma hablamos, es necesario poner un Artículo antes:
 >- Je parle le français. → Yo hablo (el) francés.
 
