@@ -5,7 +5,7 @@
 # Les Introductions
 #Français #A1
 ___
-Main Index: [[02 - Páginas de Gramática/Français/A1/Nivel A1・FR\|02 - Páginas de Gramática/Français/A1/Nivel A1・FR]]
+Main Index: [[02 - Páginas de Gramática/Français/A1/Nivel A1・FR\|Nivel A1・FR]]
 ___
 ## Saludos Introductorios
 Cuando nos introducimos ante una persona nueva, lo primero que tenemos en cuenta es el tiempo del día. ¿Es de mañana, tarde, noche? Es importante conocer que la forma en como se interpreta el tiempo dentro del lenguaje francés es muy seguramente distinta si tú no vives en el país objetivo.
@@ -104,7 +104,6 @@ Aquí hay muchas maneras de introducirnos. Nuestro nombre usando el verbo [[02 -
 | Le nom    | El apellido |
 | Le prénom | El nombre   |
 
-> [!info] 
 > Tengamos en cuenta esta curiosidad en la traducción para no cometer errores.
 
 ## Registro
@@ -123,6 +122,7 @@ ___
 | D’où est-ce que vous venez? | ¿De dónde viene usted? |
 | Où est-ce que tu habites?   | ¿Dónde vives tú?       |
 | Où est-ce que vous habitez? | ¿Dónde vive usted?     |
+
 
 Podemos usar estas expresiones para hablar específicamente de nuestra ciudad:
 >- Je viens de → Yo vengo de
