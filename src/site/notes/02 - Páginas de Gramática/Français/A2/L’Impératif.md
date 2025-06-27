@@ -9,12 +9,14 @@ Main Index: [[02 - Páginas de Gramática/Français/A2/Nivel A2・FR\|02 - Pági
 ___
 Esta no es una conjugación común y corriente ya que precisamente para poder usarla debemos ignorar los pronombres sujeto. Ya sabemos que un [[02 - Páginas de Gramática/Gramática General/El Imperativo\|imperativo]] es una forma verbal que existe para dar ordenes a otras personas.
 ## Pronombres Objetivo
+
 Cuando vayamos a dar ordenes, debemos tener en cuenta la lógica de como funciona esto en un contexto real. No podemos darle ordenes a un grupo de personas que no interactúa con nosotros directamente.
 
 Revisemos el siguiente diagrama: [image]
 
 Considerando entonces que el **emisor** de una orden solo puede interactuar con tres elementos; tú(toi), ustedes o usted(vous) y hacia un grupo de personas donde hace parte(nous), al conjugar un verbo en imperativo solo se conjugará en tres maneras y no en cuatro como lo dice el español.
 ## Conjugaciones por Grupo
+
 os verbos regulares sacan su forma imperativa del [[02 - Páginas de Gramática/Français/A1/L’Indicatif Présent (Résumé)\|indicativo presente]], o sea que en este punto, las conjugaciones en este tiempo deben estar completamente claras.
 
 Cuando vayamos a utilizar un imperativo, revisemos la siguientes reglas:
@@ -24,6 +26,7 @@ Cuando vayamos a utilizar un imperativo, revisemos la siguientes reglas:
 | Toi          | 3er persona sing. | 2da persona sing. | 2da persona sing. |
 | Nous         | 1er persona plur. | 1er persona plur. | 1er persona plur. |
 | Vous         | 2da persona plur. | 2da persona plur. | 2da persona plur. |
+
 El imperativo para los [[02 - Páginas de Gramática/Français/A1/L’Indicatif Présent・Verbes -er (+ Aller)\|verbos -er]] utiliza la conjugación para la tercera persona singular (il/elle/on), por otro lado, los grupos verbales [[02 - Páginas de Gramática/Français/A1/L’Indicatif Présent・Verbes -re\|-re]] & [[02 - Páginas de Gramática/Français/A1/L’Indicatif Présent・Verbes -ir\|-ir]] usan la segunda (tu). Esa es la mayor diferencia y una razón para confundirse.
 
 Ahora revisemos una tabla utilizando verbos de cada grupo para comprender su uso práctico:
@@ -33,6 +36,7 @@ Ahora revisemos una tabla utilizando verbos de cada grupo para comprender su uso
 | Toi          | Parle   | Viens  | Prends  |
 | Nous         | Parlons | Venons | Prenons |
 | Vous         | Parlez  | Venez  | Prenez  |
+
 Ahora bien, reiteremos. Al usar un imperativo, lo primero que hacemos es ignorar el pronombre sujeto de la conjugación original y dejamos únicamente el verbo más el resto de la oración. En el caso de negar el imperativo, solo debemos rodear el verbo → Ne + V + Pas
 
 > [!example] 

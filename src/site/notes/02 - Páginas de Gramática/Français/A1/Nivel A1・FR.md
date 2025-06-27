@@ -53,3 +53,7 @@ ___
  [[02 - Páginas de Gramática/Français/A1/Les Commandes\|02 - Páginas de Gramática/Français/A1/Les Commandes]]
 
 ___
+
+Siguiente sección → [[02 - Páginas de Gramática/Français/A2/Nivel A2・FR\|Nivel A2・FR]]
+
+___

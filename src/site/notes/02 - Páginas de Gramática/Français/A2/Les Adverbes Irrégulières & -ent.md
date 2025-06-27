@@ -16,6 +16,7 @@ Usualmente cuando queremos utilizar adjetivos y volverlos adverbios para definir
 | Mauvais  | Mal      | Mal        |
 | Petit    | Peu      | Poco       |
 | Rapide   | Vite     | Rápido     |
+
 Estos adverbios se utilizarán eventualmente para hacer comparaciones.
 
 
@@ -32,6 +33,7 @@ Por lo general podemos utilizar casi cualquier [[02 - Páginas de Gramática/Gra
 | Regular   | Régulier          | Régulièrement |
 | Verdadero | Vrai              | Vraiment      |
 | Elegante  | Élégant           | Élégamment    |
+
 Para usar los adverbios de **manera**, usamos la siguiente estructura:
 
 

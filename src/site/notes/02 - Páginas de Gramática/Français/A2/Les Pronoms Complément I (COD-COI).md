@@ -76,7 +76,9 @@ Los pronombres del [[02 - Páginas de Gramática/Gramática General/El Complemen
 | Nous             | Nous          |
 | Vous             | Vous          |
 | Ils/elles        | Leur          |
+
 Solamente dos pronombres cambian entre un complemento y el otro, lo cual hace la distinción más fácil para estos dos.
+
 #### ¿COI en una oración?
 - Nous allons envoyer **à nos amis une invitation** pour la fête que nous organisons ce week-end.
     - COD: Une invitation → ¿Qué?

@@ -8,16 +8,17 @@ ___
 Main Index: [[02 - Páginas de Gramática/Français/A2/Nivel A2・FR\|02 - Páginas de Gramática/Français/A2/Nivel A2・FR]]
 ___
 Los verbos de esta sección son elementos básicos pero bastante útiles. Podemos considerar esta sección como información de vocabulario, pero mientras se conozca esta información, es más fácil explorar libros con enfoque en el idioma.
+
 Los verbos están conjugados en [[02 - Páginas de Gramática/Gramática General/El Indicativo Presente\|indicativo presente]]:
 
-| Pronoms Sujet | Parler  | Écouter  | Lire   | Écrire   | Dire   |
-| ------------- | ------- | -------- | ------ | -------- | ------ |
-| Je            | Parle   | Écoute   | Lis    | Écris    | Dis    |
-| Tu            | Parles  | Écoutes  | Lis    | Écris    | Dis    |
-| On/il/elle    | Parle   | Écoute   | Lit    | Écrit    | Dit    |
-| Nous          | Parlons | Écoutons | Lisons | Écrivons | Disons |
-| Vous          | Parlez  | Écoutez  | Lisez  | Écrivez  | Dites  |
-| Ils/elles     | Parlent | Écoutent | Lisent | Écrivent | Disent |
+| Pronoms Sujet | Parler  | Écouter  | Lire   | Écrire   | Dire   | Entendre  |
+| ------------- | ------- | -------- | ------ | -------- | ------ | --------- |
+| Je            | Parle   | Écoute   | Lis    | Écris    | Dis    | Entends   |
+| Tu            | Parles  | Écoutes  | Lis    | Écris    | Dis    | Entends   |
+| On/il/elle    | Parle   | Écoute   | Lit    | Écrit    | Dit    | Entend    |
+| Nous          | Parlons | Écoutons | Lisons | Écrivons | Disons | Entendons |
+| Vous          | Parlez  | Écoutez  | Lisez  | Écrivez  | Dites  | Entendez  |
+| Ils/elles     | Parlent | Écoutent | Lisent | Écrivent | Disent | Entendent |
 
 > [!example] 
 > - Je parle avec mes amis tous les jours. → Hablo con mis amigos todos los días.

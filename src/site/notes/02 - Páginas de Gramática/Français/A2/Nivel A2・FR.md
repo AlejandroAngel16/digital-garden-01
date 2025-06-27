@@ -7,6 +7,7 @@
 ___
 Main Index: [[01 - Índices/Páginas de Idiomas/Français\|Français]]
 ___
+
 > [!success] ###### Volumen I
  [[02 - Páginas de Gramática/Français/A2/Les Verbes d’Interaction + (Faire)\|02 - Páginas de Gramática/Français/A2/Les Verbes d’Interaction + (Faire)]]
  [[02 - Páginas de Gramática/Français/A2/Les Nombres Ordinaux & -aine\|02 - Páginas de Gramática/Français/A2/Les Nombres Ordinaux & -aine]]
@@ -35,5 +36,9 @@ ___
  [[02 - Páginas de Gramática/Français/A2/L’Indicatif Futur\|02 - Páginas de Gramática/Français/A2/L’Indicatif Futur]]
  [[02 - Páginas de Gramática/Français/A2/Le Discours Indirect I (Introduction)\|02 - Páginas de Gramática/Français/A2/Le Discours Indirect I (Introduction)]]
 
+
+___
+
+Siguiente sección → [[02 - Páginas de Gramática/Français/B1/Nivel B1・FR\|Nivel B1・FR]]
 
 ___

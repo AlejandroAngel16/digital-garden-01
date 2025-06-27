@@ -18,6 +18,7 @@ El [[02 - Páginas de Gramática/Gramática General/Los Sufijos\|sufijo]] para v
 | Primero/a | Premier/Première |
 | Segundo   | Deuxième         |
 | Tercero   | Troisième        |
+
 Para poder volver un número cardinal en su versión ordinal, solo hace falta remover la última vocal y poner el sufijo -ième.
 
 ## Sufijo ‘-aine’
