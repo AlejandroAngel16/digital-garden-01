@@ -31,7 +31,9 @@ Los [[02 - Páginas de Gramática/Gramática General/Los Verbos Modales\|verbos 
 | Nous         | Voulons          | Pouvons         | Devons         | Savons |
 | Vous         | Voulez           | Pouvez          | Devez          | Savez  |
 | Ils/elles    | Veulent          | Peuvent         | Doivent        | Savent |
+
 Estos cuatro verbos no son los únicos que se pueden utilizar de **manera modal** junto a otro verbos. Sin embargo son los más comunes cuando se trata de armar estructuras así. Otros verbos que se usen para este fin pueden ser: **Aimer, Laisser, Détester, Avoir besoin de.**
+
 ## Estructura Modal (2 Verbos)
 La [[02 - Páginas de Gramática/Gramática General/Los Verbos Modales\|Estructura Modal]] usará entonces un verbo de carácter modal, que será interpretado como el verbo principal ya que estará conjugado y el verbo complementario que estará en infinitivo.
 En el caso de que el verbo complementario (Modal) sea pronominal, debemos poner el pronombre pronominal correspondiente justo antes del infinitivo:
@@ -48,14 +50,14 @@ En el caso de que el verbo complementario (Modal) sea pronominal, debemos poner 
 ## Verbos De Opinión
 Como se mencionó antes, existen algunos verbos importantes que se pueden usar de manera modal aunque no sean parte del grupo modal en sí.
 
-| Pronom Sujet | Aimer - Amar/Gustar | Se plaire à- Gustarse/Placerse de |
-| ------------ | ------------------- | --------------------------------- |
-| Je           | Aime                | Il me plaît                       |
-| Tu           | Aimes               | Il te plaît                       |
-| On/il/elle   | Aime                | Il lui plaît                      |
-| Nous         | Aimons              | Il nous plaît                     |
-| Vous         | Aimez               | Il vous plaît                     |
-| Ils/elles    | Aiment              | Il leur plaît                     |
+| Pronom Sujet | Aimer - Amar/Gustar | Se plaire à - Gustarse/Placerse de |
+| ------------ | ------------------- | ---------------------------------- |
+| Je           | Aime                | Il me plaît                        |
+| Tu           | Aimes               | Il te plaît                        |
+| On/il/elle   | Aime                | Il lui plaît                       |
+| Nous         | Aimons              | Il nous plaît                      |
+| Vous         | Aimez               | Il vous plaît                      |
+| Ils/elles    | Aiment              | Il leur plaît                      |
 
 > [!info] 
 > - El verbo amar del francés (aimer) reemplaza completamente el verbo (gustar) del español.

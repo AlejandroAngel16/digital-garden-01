@@ -19,7 +19,7 @@ Hace falta decir que cuando vayamos a conjugar un verbo, hay que tener en cuenta
 
 | Pronom        | Conjugación | Español                           |
 | ------------- | ----------- | --------------------------------- |
-| Être          |             | Ser/estar                         |
+| Être          | -/-         | Ser/estar                         |
 | Je            | Suis        | Soy/estoy                         |
 | Tu            | Es          | Eres/estás                        |
 | Il/elle/on/ça | Est         | Es/está                           |
@@ -36,8 +36,8 @@ Hace falta decir que cuando vayamos a conjugar un verbo, hay que tener en cuenta
 > - Ils sont là. →Ellos **están** allá.
 
 Sin olvidar el pronombre Ça, este será usado para hablar de manera general con su propia expresión. Es siempre usado cuando no nos referimos a algo específico:
-- Ça + est → C’est
-- C’est incroyable. → Es increíble.
+>- Ça + est → C’est
+>- C’est incroyable. → Es increíble.
 
 ### Conjugación de ‘Avoir’ en Indicativo Presente
 El verbo ‘Avoir’ significa literalmente ‘Tener’ o ‘Haber’. Considerando que en español existen dos traducciones para este verbo, hay que entender el uso de cada uno e interpretar por contexto como se usa. Por ahora podemos interpretar este verbo francés como un ‘tener’ de manera casi exclusiva.
@@ -51,8 +51,11 @@ El verbo ‘Avoir’ significa literalmente ‘Tener’ o ‘Haber’. Considera
 | Nous          | Avons       | Tenemos                         |
 | Vous          | Avez        | Tienen  <br>_==Tiene (Usted)==_ |
 | Ils/elles     | Ont         | Tienen                          |
+
+
 El pronombre ‘Je’ junto a la conjugación de avoir → ‘ai’ se tendrá que apostrofar dado que en francés, de acuerdo a ciertas excepciones, palabras como verbos, artículos y pronombres deben de apostrofarse si una termina en vocal y la siguiente inicia en vocal. O sea que:
-- “Je ai” es incorrecto, la forma correcta siempre será “J’ai”.
+
+>- “Je ai” es incorrecto, la forma correcta siempre será “J’ai”.
 
 Sin embargo, ‘**je**’ es el único pronombre sujeto que se apostrofa. “Tu as” no se apostrofará a menos que se escriba en un contexto considerablemente casual o familiar.
 > Si estamos escribiéndole a un amigo, es normal utilizar la contracción “t’as”.

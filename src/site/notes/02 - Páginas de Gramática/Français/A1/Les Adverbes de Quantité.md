@@ -44,12 +44,16 @@ Existen otras palabras usadas para expresar la cantidad de un sustantivo. Estas 
 | Certain       | Cierto         |
 | Plusieurs     | Varios         |
 | Nombreux      | Numerosos      |
-| -/-           | -/-            |
-| **Pronom**        | **Pronombre**      |
+
+
+
+| Pronom    | Pronombre  |
+| ------------- | -------------- |
 | Quelque-chose | Algo           |
 | Quelqu’un     | Alguien/Alguno |
 | Personne      | Nadie          |
 | Aucun(e)      | Algún(a)       |
+
 
 > [!example] 
 > - Tout le monde est invité à la fête. → Todo el mundo está invitado a la fiesta.

@@ -11,17 +11,20 @@ Debido a que la lengua francesa es un idioma con dos géneros (M.&F.), existen a
 Justo como en el español, algunos adjetivos son neutros y su forma básica se usará tanto con sujetos masculinos y femeninos (ej. Inteligente); sin embargo, eso no significa que los adjetivos neutros del español sean neutros en francés, usualmente es el caso opuesto.
 ## Sufijos de Adjetivos
 
-| Masculin Pluriel | Masculin Pluriel | Féminin Singulier | Féminin Pluriel | Exemple     |
-| ---------------- | ---------------- | ----------------- | --------------- | ----------- |
-| -Cons            | -s               | -e                | -es             | Intelligent |
-| -e               | -es              | -e                | -es             | Calme       |
-| -l               | -ls              | -lle              | -lles           | Gentil      |
-| -au(x)           | -aux             | -lle              | -lles           | Beau        |
-| -s               | -s               | -sse              | -sses           | Gros        |
+| Masculin Singulier | Masculin Pluriel | Féminin Singulier | Féminin Pluriel | Exemple     |
+| ------------------ | ---------------- | ----------------- | --------------- | ----------- |
+| -Cons              | -s               | -e                | -es             | Intelligent |
+| -e                 | -es              | -e                | -es             | Calme       |
+| -l                 | -ls              | -lle              | -lles           | Gentil      |
+| -au(x)             | -aux             | -lle              | -lles           | Beau        |
+| -s                 | -s               | -sse              | -sses           | Gros        |
+| -eux               | -eux             | -euse             | -euses          | Heureux     |
+
 > Por ahora solo comprendamos que un participio es un adjetivo cuyos usos son muy variados:
 
-| -é/i | -és/is | -ée/ie | -ées/ies | Fatigué |
-| ---- | ------ | ------ | -------- | ------- |
+| Masculin Singulier | Masculin Pluriel | Féminin Singulier | Féminin Pluriel | Exemple |
+| ------------------ | ---------------- | ----------------- | --------------- | ------- |
+| -é/i               | -és/is           | -ée/ie            | -ées/ies        | Fatigué |
 
 > [!info] 
 > - Los adjetivos en masculino singular siempre van a ser el estándar universal para ver sus inflexiones.

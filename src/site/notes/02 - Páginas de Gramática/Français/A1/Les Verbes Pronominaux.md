@@ -28,7 +28,8 @@ Los [[02 - Páginas de Gramática/Gramática General/Los Pronombres Pronominales
 
 >Ahora sí podremos entender como funcionan los verbos usando estos pronombres y como vamos a diferenciarlos.
 
-## Verbos Pronominales e Intransitivos
+## Verbos Pronominales y Transitivos
+
 Los [[02 - Páginas de Gramática/Gramática General/Los Verbos Pronominales\|verbos reflexivos y pronominales]] son básicamente la contra-parte de Verbos Transitivos que permite usar estos verbos para que su efecto sea reflexivo.
 Técnicamente hablando, cualquier verbo tiene su propia forma reflexiva en [[02 - Páginas de Gramática/Gramática General/Los Verbos en Infinitivo\|infinitivo]] cuando añadimos el pronombre **Se** justo antes del verbo original. En español el proceso es el mismo pero la posición cambia:
 

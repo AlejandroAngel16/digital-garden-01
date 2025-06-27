@@ -7,10 +7,10 @@
 ___
 Main Index: [[02 - Páginas de Gramática/Français/A1/Nivel A1・FR\|02 - Páginas de Gramática/Français/A1/Nivel A1・FR]]
 ___
-El siguiente grupo de verbos son aquellos con esta terminación, usualmente confusos debido a que estos verbos tienen dos formas de conjugación. Algunos verbos usarán la forma #1 y otros la forma #2, posiblemente debido a su fonética o por reglas arbitrarias.
+El siguiente grupo de verbos son aquellos con esta terminación, usualmente confusos debido a que estos verbos tienen dos formas de conjugación. Algunos verbos usarán la forma 1 y otros la forma 2, posiblemente debido a su fonética o por reglas arbitrarias.
 
-Para saber si un verbo utiliza la forma #1 o #2 será mayormente por memoria.
-## Conjugación -ir, forma #1
+Para saber si un verbo utiliza la forma 1 o 2 será mayormente por memoria.
+## Conjugación -ir, forma 1
 
 | Pronombre Suj. | Terminación |
 | -------------- | ----------- |
@@ -22,7 +22,7 @@ Para saber si un verbo utiliza la forma #1 o #2 será mayormente por memoria.
 | Ils/elles      | -issent     |
 
 > [!info] 
-> - La conjugación #1 utiliza la raíz del verbo hasta la ‘i’, a menos que el verbo sea irregular.
+> - La conjugación 1 utiliza la raíz del verbo hasta la ‘i’, a menos que el verbo sea irregular.
 > - Teniendo en cuenta que en las conjugaciones verbales, el ‘-ent’ de la 3ra persona del plural no tiene sonido fonético, la ‘s’ sonara bastante fuerte.
 
 > [!example] 
@@ -30,7 +30,7 @@ Para saber si un verbo utiliza la forma #1 o #2 será mayormente por memoria.
 > - Ils réussissent souvent à leurs examens grâce à leur travail. → Ellos tiene éxito a menudo en sus exámenes gracias a su trabajo.
 > - Elle remplit les verres avant de servir le dîner. → Ella llena los vasos antes de servir la cena.
 
-## Conjugación -ir, forma #2
+## Conjugación -ir, forma 2
 
 | Pronombre Suj. | Terminación |
 | -------------- | ----------- |
@@ -42,7 +42,7 @@ Para saber si un verbo utiliza la forma #1 o #2 será mayormente por memoria.
 | Ils/elles      | -ent        |
 
 > [!info] 
-> La conjugación #2 puede ser un poco confusa pero usualmente se da cuando un verbo termina específicamente en ‘-tir’.
+> La conjugación 2 puede ser un poco confusa pero usualmente se da cuando un verbo termina específicamente en ‘-tir’.
 
 > [!example] 
 > - Ils partent tôt demain pour éviter les embouteillages. → Ellos parten temprano mañana para evitar los embotellamientos.

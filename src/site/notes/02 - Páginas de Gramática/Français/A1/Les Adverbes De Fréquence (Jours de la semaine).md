@@ -35,6 +35,7 @@ Primero revisemos los adverbios que sean más precisos y adjetivos que acompañe
 | Hier           | Ayer              |
 | Après-demain   | Después de mañana |
 | Anteayer       | Avant-hier        |
+
 Para utilizar los días de la semana como un indicador de tiempo, es necesario saber que su dinámica es ligeramente distinta al español, consideremos lo siguiente:
 
 
@@ -51,8 +52,8 @@ Además podemos añadir un tiempo del día (mañana, tarde, noche) justo despué
 Para la **estructura:**
 
 > [!NOTE] 
-> - _(le) +[Jour de la semaine] + [Temps du jour] + Pron + V.Conj + Comp._
-> - _Pron + V.Conj + Comp. + (le) + [Jour de la semaine] + [Temps du jour]_
+> - (le) +[Jour de la semaine] + [Temps du jour] + Pron + V.Conj + Comp.
+> - Pron + V.Conj + Comp. + (le) + [Jour de la semaine] + [Temps du jour]
 
 Ambas formas son correctas, depende de como desees formar la oración. Mencionar el tiempo del día al inicio o al final.
 
@@ -81,6 +82,7 @@ Estos adverbios serán usados en sentido de expresar qué tan común o repetitiv
 | Rarement            | Raramente        |
 | Presque jamais      | Casi nunca       |
 | Jamais              | Nunca            |
+
 ___
 
 | Expression          | Expresión        |
@@ -94,8 +96,8 @@ ___
 Para la estructura de este elemento en las oraciones:
 
 > [!NOTE] 
-> - _Pron.(Suj) + (ne) + V.Conj. + Adv.(Freq) + (pas) + Comp._
-> - _Adv.(Freq) + Pron.(Suj) + (ne) + V.Conj. + (pas) + Comp._
+> - Pron.(Suj) + (ne) + V.Conj. + Adv.(Freq) + (pas) + Comp.
+> - Adv.(Freq) + Pron.(Suj) + (ne) + V.Conj. + (pas) + Comp.
 
 > [!example] 
 > - Il est toujours à l'heure pour ses rendez-vous. → Él está siempre a tiempo para sus reuniones.

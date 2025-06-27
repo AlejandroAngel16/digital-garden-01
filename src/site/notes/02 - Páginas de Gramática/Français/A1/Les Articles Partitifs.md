@@ -17,6 +17,7 @@ Estos artículos, como es usual, son usados justo antes de un sustantivo. Sin em
 | Femenino Singular                | De la          |
 | Masc./Fem. Singular  <br>+ vocal | De l’          |
 | Masc./Fem. Plural                | Des            |
+
 Además debemos utilizar la locución ‘il y a’ junto al partitivo.
 
 
@@ -37,7 +38,7 @@ Además debemos utilizar la locución ‘il y a’ junto al partitivo.
 | -------------------------- | -------------- |
 | Masculino Singular         | De             |
 | Femenino Singular          | De             |
-| Masc./Fem. Singular+ vocal | De             |
+| Masc./Fem. Singular+ vocal | D’             |
 | Masc./Fem. Plural          | De             |
 
 > [!example] 

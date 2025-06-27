@@ -18,6 +18,7 @@ Este artículo nos permite hablar de un elemento **específico** que se usara co
 | Masc./Fem. Singular + Inicia por vocal | L’                       | El/La                |
 | Masc./Fem. Plural                      | Les                      | Los/Las              |
 
+
 > [!info] 
 > - El artículo **L’** es usado siempre que un sustantivo singular inicie por vocal. ¿Cómo sabremos entonces el genero de la palabra? → Por contexto.
 > - El artículo plural **les** sirve tanto para sustantivos masculinos como femeninos. Se podría interpretar como un elemento neutro.
@@ -34,6 +35,7 @@ Este artículo nos permite hablar de un elemento **no específico** que también
 | Masculino Singular | Un                         | Un                   |
 | Femenino Singular  | Une                        | Una                  |
 | Masc./Fem. Plural  | Des                        | Unos/Unas            |
+
 
 > [!info] 
 > - No existe un [[02 - Páginas de Gramática/Gramática General/Los Artículos\|artículo indefinido]] que se apostrofe, por ende no hace falta prestar atención si un sustantivo inicia por vocal, solamente al género.

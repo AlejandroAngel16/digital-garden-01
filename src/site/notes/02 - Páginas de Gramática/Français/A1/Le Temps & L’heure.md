@@ -46,7 +46,9 @@ Este formato es más aceptado entre los hispano-hablantes y su estructura no cam
 | Du matin        | De la mañana          |
 | De l'après-midi | De la tarde (13h-18h) |
 | Du soir         | De la tarde (18h-00h) |
+
 También nos podemos referir a las 12h usando estas pequeñas expresiones:
+
 >Il est midi →Mediodía
 >Il est minuit→Medianoche
 

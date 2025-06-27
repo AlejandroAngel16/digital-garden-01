@@ -73,7 +73,7 @@ Cuando queremos respuestas directas y detalladas sobre el modo, localización o 
 > - Los pronombres interrogativos también se pueden utilizar para hacer oraciones con Cláusulas Relativas.
 > - El pronombre **combien de** se utiliza independientemente del género y la cantidad de cosas ya que utiliza [[02 - Páginas de Gramática/Français/A1/Les Articles Partitifs\|artículos partitivos]].
 > - Por otra parte, el pronombre **quel** tiene concordancia con género y cantidad aunque no haya cambio en la pronunciación.
-> - En el caso de utilizar **pourquoi,** es necesario justificar con la conjunción **parce que.**
+> - En el caso de utilizar **pourquoi,** es necesario justificar con la conjunción **parce que** u otra conjunción para justificar
 ### Preguntas Estándar 
 Para usar Pronombres Interrogativos de manera estándar, también es necesario utilizar el elemento: “Est-ce que” para dar a entender que se está realizando una pregunta.
 
@@ -83,7 +83,7 @@ Para usar Pronombres Interrogativos de manera estándar, también es necesario u
 > [!example] 
 > - Qu’est-ce que tu fais dans la vie? → ¿A qué te dedicas en la vida?
 > - Pourquoi est-ce qu’il est là? → ¿Por qué está él acá?
-> - Parce qu’il est libre. → Porque él es libre.
+> 	- Parce qu’il est libre. → Porque él es libre.
 > - Où est-ce que vous habitez? → ¿Dónde reside usted?
 > - Depuis combien de temps est-ce qu’ils sont en France? → ¿Desde hace cuanto tiempo están ellos en Francia?
 ### Preguntas Formales

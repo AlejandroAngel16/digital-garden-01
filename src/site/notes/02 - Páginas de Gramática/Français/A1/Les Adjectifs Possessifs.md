@@ -17,7 +17,9 @@ No confundir con los [[02 - Páginas de Gramática/Français/A2/Les Pronoms Poss
 | Nous             | Notre                    | Nos                    | Notre                   | Nos                   |
 | Vous             | Votre                    | Vos                    | Votre                   | Vos                   |
 | Ils/elles        | Leur                     | Leurs                  | Leur                    | Leurs                 |
+
 Como se puede ver en la tabla, algunos de estos adjetivos no tienen cambio por género, o sea que es complicado saber el género del sustantivo que sigue justo después.
+
 ___
 
 | Example             | Condition             |

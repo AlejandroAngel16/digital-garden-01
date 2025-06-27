@@ -25,6 +25,7 @@ Los dígitos en francés tienen unas reglas ligeramente distintas en comparació
 | 10  | Dix      | 20  | Vingt    |
 
 ___
+
 Ahora para las decenas, hay algunos cambios importantes. Por ello será necesario revisar en cada caso, el cambio junto a las unidades.
 
 | #   | Français    |
@@ -46,6 +47,7 @@ Ahora para las decenas, hay algunos cambios importantes. Por ello será necesari
 | 70     | Soixante-dix     | Septante        |
 | 80     | Quatre-vingt     | Huitante        |
 | 90     | Quatre-vingt-dix | Nonante         |
+
 >El patrón para estas decenas francesas (verdes) requiere hacer ciertas sumas extras:
 
 | #   | Français            |
@@ -74,19 +76,21 @@ Las centenas, miles y millones son más sencillos en el sentido de que siguen el
 | 1000000  | Un million    |
 | 2000000  | Deux millions |
 | 10000000 | Dix millions  |
+
 ___
 ## Símbolos
 Para realizar ciertos cálculos matemáticos o describir figuras, se necesitan símbolos. Aquí hay algunos símbolos útiles.
 
-| Símbolo | Français            | Símbolo |               |
-| ------- | ------------------- | ------- | ------------- |
-| +       | Plus                | _       | Tiret bas     |
-| -       | Moins/Trait d’union | @       | arobase       |
-| :       | Divisé              | /       | Barre oblique |
-| =       | Égal                | :       | Deux points   |
-| .       | Point               | ;       | Point-virgule |
-| ,       | Virgule             |         |               |
-| ‘       | Apostrophe          |         |               |
+| Símbolo | Français            | -/- | Símbolo | Français      |
+| ------- | ------------------- | --- | ------- | ------------- |
+| +       | Plus                | -/- | _       | Tiret bas     |
+| -       | Moins/Trait d’union | -/- | @       | arobase       |
+| :       | Divisé              | -/- | /       | Barre oblique |
+| =       | Égal                | -/- | :       | Deux points   |
+| .       | Point               | -/- | ;       | Point-virgule |
+| ,       | Virgule             | -/- |         |               |
+| ‘       | Apostrophe          | -/- |         |               |
+
 >Los símbolos pueden ser usados para courriels (E-mail) o para @ en redes sociales.
 
 
