@@ -24,6 +24,7 @@ Los comparativos nos permite evaluar las características de un elemento para te
 | Plus que   | Más que    |
 | Autant que | Tanto como |
 | Moins que  | Menos que  |
+
 - Cuando comparamos verbos, realizamos una comparación del grado de frecuencia de estas acciones.
 
 > [!note] 
@@ -39,6 +40,7 @@ Los comparativos nos permite evaluar las características de un elemento para te
 | Plus de - que   | Más que    |
 | Autant de - que | Tanto como |
 | Moins de - que  | Menos que  |
+
 - Cuando comparamos sustantivos, la comparación se realiza sobre la cantidad de estos en un contexto dado.
 - Una expresión de cantidad se debe usar; algo que refleje la existencia de algo → ‘[[02 - Páginas de Gramática/Français/A1/Le Pronom “Il y a”\|il y a’]] o ‘[[02 - Páginas de Gramática/Français/A1/Les Verbes - Être et Avoir\|avoir]]’
 - Se utiliza el artículo partitivo **de** precisamente porque hablamos de cantidades para un sustantivo.
@@ -88,6 +90,7 @@ Los comparativos nos permite evaluar las características de un elemento para te
 > - Ça va plus heureusement dans un chalet que à la ville. → Se la pasa uno más felizmente en un chalet que en la ciudad.
 
 ## Superlativos
+
 Los superlativos en cambio permiten expresar que la característica de un elemento tiene el mayor o menor grado de complejidad en un grupo definido/indefinido de cosas.
 
 ### Verbos
@@ -96,6 +99,7 @@ Los superlativos en cambio permiten expresar que la característica de un elemen
 | ---------- | ---------- |
 | Le plus    | Más        |
 | Le moins   | Menos      |
+
 - En español utilizamos un énfasis al hablar en superlativo → ‘ser la/el/lo que’ & ‘de todos’. Pero en francés, este detalle resulta redundante y lo ignoramos.
 
 > [!note]
@@ -112,6 +116,7 @@ Los superlativos en cambio permiten expresar que la característica de un elemen
 | ----------- | ---------- |
 | le plus de  | Más        |
 | le moins de | Menos      |
+
 - En francés, al utilizar el superlativo con sustantivos, también ocurre un proceso similar con ‘ser la/el/lo que’ & ‘de todos’. Estas [[02 - Páginas de Gramática/Gramática General/La Perífrasis Verbal y Locución Verbal\|locuciones]] son ignoradas completamente.
 
 > [!note]
@@ -128,6 +133,7 @@ Los superlativos en cambio permiten expresar que la característica de un elemen
 | ----------- | ---------- |
 | le/la plus  | Lo más     |
 | le/la moins | Lo menos   |
+
 - En francés, al utilizar el superlativo con adjetivos, usamos el [[02 - Páginas de Gramática/Français/A1/Les Articles Définis et Indéfinis\|artículo definido]] dos veces cuando ya se menciona el sujeto aunque parezca redundante.
 
 > [!note]
@@ -144,6 +150,7 @@ Los superlativos en cambio permiten expresar que la característica de un elemen
 | ---------- | ---------- |
 | Le plus    | Más        |
 | Le moins   | Menos      |
+
 - En el caso de los adverbios seguimos utilizando artículos definidos para enfatizar el uso del superlativo e ignoramos las locuciones ‘ser la/el/lo que’ & ‘de todos’.
 
 > [!note]

@@ -26,13 +26,14 @@ Recordemos los [[02 - Páginas de Gramática/Français/A2/Les Pronoms Complémen
 | Nous             | Nous          | Nous          |
 | Vous             | Vous          | Vous          |
 | Ils/elles        | Les           | Leur          |
-Hay que recordar que dentro de esta categoría también se encuentran los pronombres y & en y se comportan de manera similar a un pronombre [[02 - Páginas de Gramática/Gramática General/El Complemento Directo\|complemento directo]]. Entonces por esta sección entera: Y/en = Pron(COD).
+
+Hay que recordar que dentro de esta categoría también se encuentran los pronombres **y** & **en** y se comportan de manera similar a un pronombre [[02 - Páginas de Gramática/Gramática General/El Complemento Directo\|complemento directo]]. Entonces por esta sección entera: Y/en = Pron(COD).
 
 > Un detalle bastante confuso es que dependiendo del Pronombre Complemento Indirecto, la posición de este y el Pronombre Complemento Directo cambiarán lugares.
 
 ## Estructura sencilla
 
-**Utilizando el Pron(COI) → Me,Te,Nous,Vous**
+**Utilizando el Pron(COI) → Me, Te, Nous, Vous**
 
 > [!NOTE] 
 > - Suj. + (ne) + Pron.(COI) + Pron.(COD) + V.Conj. + (pas) + Comp.
@@ -40,7 +41,7 @@ Hay que recordar que dentro de esta categoría también se encuentran los pronom
 > [!example] 
 > - Je ne te la passe pas. → No te la paso.
 
-**Utilizando el Pron(COI) → Lui, Leur**
+**Utilizando el Pron(COI) → Solo para: Lui, Leur**
 
 > [!NOTE]
 > 
@@ -52,7 +53,7 @@ Hay que recordar que dentro de esta categoría también se encuentran los pronom
 
 ## Estructura Estructura Modal (2 verbos)
 
-**Utilizando el Pron(COI) → Me,Te,Nous,Vous**
+**Utilizando el Pron(COI) → Me, Te, Nous, Vous**
 
 > [!NOTE]
 > 
@@ -62,7 +63,7 @@ Hay que recordar que dentro de esta categoría también se encuentran los pronom
 > 
 > - Je ne vais pas vous la passer. → No se la voy a pasar. (a ustedes)
 
-**Utilizando el Pron(COI) → Lui, Leur**
+**Utilizando el Pron(COI) → Solo para: Lui, Leur**
 
 > [!NOTE]
 > 
@@ -74,7 +75,7 @@ Hay que recordar que dentro de esta categoría también se encuentran los pronom
 ## Estructura Compuesta (+ participio)
 > Debido a que estamos utilizando una conjugación compuesta junto a un pronombre complemento directo, el verbo en [[02 - Páginas de Gramática/Gramática General/El Participio Pasado\|participio pasado]] debe de estar concordado.
 
-**Utilizando el Pron(COI) → Me,Te,Nous,Vous**
+**Utilizando el Pron(COI) → Me, Te, Nous, Vous**
 
 > [!NOTE]
 > 
@@ -84,7 +85,7 @@ Hay que recordar que dentro de esta categoría también se encuentran los pronom
 > 
 > - Je ne vous l'ai pas passée. → No se la he pasado. (a ustedes)
 
-**Utilizando el Pron(COI) → Lui, Leur**
+**Utilizando el Pron(COI) → Solo para: Lui, Leur**
 
 > [!NOTE]
 > 

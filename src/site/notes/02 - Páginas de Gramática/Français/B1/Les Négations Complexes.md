@@ -9,16 +9,19 @@ Main Index: [[02 - Páginas de Gramática/Français/B1/Nivel B1・FR\|02 - Pági
 ___
 Reconocemos que [[02 - Páginas de Gramática/Français/A1/La Négation\|02 - Páginas de Gramática/Français/A1/La Négation]] en la lengua francesa requiere utilizar ne-pas alrededor de un verbo conjugado. Sin embargo, hay varias formas de hacer una negación y las elementos que se usen, debido a su naturaleza de negación, van a reemplazar a pas dentro de la oración.
 ## Negaciones Simples
+
 Podemos ver estas negaciones simples en la siguiente tabla:
 
-| Négation | Traducción   |
-| -------- | ------------ |
-| Rien     | Nada         |
-| Jamais   | Nunca        |
-| Plus     | No más/Ya no |
-| Personne | Nadie        |
-| Aucun/e  | Ningún/a     |
-| Guère    | Apenas       |
+| Négation | Traducción        |
+| -------- | ----------------- |
+| Rien     | Nada              |
+| Jamais   | Nunca             |
+| Plus     | No más/Ya no      |
+| Personne | Nadie             |
+| Aucun/e  | Ningún/a          |
+| À peine  | Apenas            |
+| Guère    | Apenas/Casi nunca |
+
 - Recordemos que el uso de estas negaciones es sencilla, solo se requiere reemplazar la negación → **pas**.
 
 > [!example] 
@@ -27,6 +30,7 @@ Podemos ver estas negaciones simples en la siguiente tabla:
 > - Il annonce qu’il ne lit guère les journaux. → Él anuncia que él apenas (no) lee los periódicos.
 
 ## Negaciones Compuestas
+
 Podemos ver estas negaciones compuestas de más de una palabra en la siguiente tabla:
 
 | Négation                       | Traducción    |

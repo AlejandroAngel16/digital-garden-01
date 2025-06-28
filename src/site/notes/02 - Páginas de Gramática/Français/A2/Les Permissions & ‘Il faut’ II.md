@@ -15,6 +15,7 @@ Existen algunas expresiones fijas en francés que nos permiten describir si una 
 | Il est interdit de    | Está prohibido             |
 | Il est obligatoire de | Es obligatorio             |
 | Il est permis de      | Está permitido             |
+
 Justo después de estas expresiones simplemente debemos añadir un verbo en [[02 - Páginas de Gramática/Gramática General/Los Verbos en Infinitivo\|infinitivo]].
 
 

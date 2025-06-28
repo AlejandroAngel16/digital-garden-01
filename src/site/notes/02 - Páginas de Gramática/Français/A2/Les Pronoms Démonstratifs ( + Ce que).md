@@ -90,9 +90,10 @@ Al usar los Demostrativos Compuestos, es posible hacer una comparación entre un
 > [!example] 
 > - Celui-ci est mon préféré, mais celui-là est plus pratique. → Este de aquí/Aquel es mi preferido, pero ese de allá es más práctico.
 > - Je préfère celle-là, elle a une couleur plus vive. → Prefiero esa de allá/Aquella, tiene un color más vivo.
-> - Ceux-ci sont mes amis d’enfance, on se connaît depuis longtemps. → Estos son mis amigo de la infancia, nos conocemos desde hace mucho tiempo.
+> - Ceux-ci sont mes amis d’enfance, on se connaît depuis longtemps. → Estos son mis amigos de la infancia, nos conocemos desde hace mucho tiempo.
 
 ## Locuciones Verbales Comunes
+
 Existen algunas Locuciones sencillas que permiten demostrar elementos de manera más general e incluso más expresiva.
 
 Por ejemplo, utilizamos las siguiente expresiones para llamar la atención de alguien hacia un elemento específico:

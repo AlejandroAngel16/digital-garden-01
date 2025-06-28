@@ -17,7 +17,7 @@ Un ejemplo muy común es el verbo ‘**aller**’ (ir) que no utiliza à cuando 
 Usualmente el uso de estas preposiciones es necesario para poder introducir un [[02 - Páginas de Gramática/Gramática General/El Complemento Indirecto\|complemento indirecto]] a la oración o continuarla con otro verbo secundario. Justo cuando el verbo no funcione de manera [[02 - Páginas de Gramática/Gramática General/Los Verbos Transitivos e Intransitivos\|transitiva]] , es cuando usamos estas preposiciones.
 
 ## Preposiciones à & de
-Las preposiciones más comunes son à & de cuando se trata de verbos. Sin embargo existen unas cuantas más que funcionan a partir de la lógica y son arbitrarias.
+Las preposiciones más comunes son **à** & **de** cuando se trata de verbos. Sin embargo existen unas cuantas más que funcionan a partir de la lógica y son arbitrarias.
 
 | **Français**   | **Español**    |
 | -------------- | -------------- |

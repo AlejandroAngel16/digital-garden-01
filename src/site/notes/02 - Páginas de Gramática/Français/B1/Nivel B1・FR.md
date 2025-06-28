@@ -28,3 +28,7 @@ ___
  [[02 - Páginas de Gramática/Français/B1/Les Pronoms Relatifs III (Dont + lequel)\|02 - Páginas de Gramática/Français/B1/Les Pronoms Relatifs III (Dont + lequel)]]
 
 ___
+
+Siguiente sección → [[02 - Páginas de Gramática/Français/B2/Nivel B2・FR\|Nivel B2・FR]]
+
+___

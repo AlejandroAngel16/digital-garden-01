@@ -23,11 +23,11 @@ Podemos comprender este pronombre de esta manera:
 
 > [!tip] 
 > **Consideremos el siguiente ejercicio:**
-> - Nous allons à Paris cette année pour fêter.
-> - **Y**: à Paris → ¿Dónde?
+> - Nous allons à Paris cette année pour fêter. → Vamos a París este año para festejar.
+> - **Y** = à Paris → ¿Dónde?
 >   
 >**La oración reemplazada sería:**
->- Nous y allons cette année pour fêter.
+>- Nous y allons cette année pour fêter. → Vamos ahí este año para festejar.
 
 ## Pronombre “En”
 El pronombre complemento En representa una cantidad que va después de un verbo transitivo con preposición de o un lugar de proveniencia,
@@ -38,12 +38,12 @@ Podemos comprender este pronombre de esta manera:
 > [!tip]  
 > **Consideremos el siguiente ejercicio:**
 > 
-> - Elle aime manger de la glace chaque soir
+> - Elle aime manger de la glace chaque soir. → Ella ama comer helado cada tarde.
 > - **En**: De la glace→ ¿De qué?
 > 
 > **La oración reemplazada sería:**
 > 
-> - Elle aime en manger chaque soir.
+> - Elle aime en manger chaque soir. → Ella ama comer de eso cada tarde.
 
 ## Estructuras
 Debido a que estos elementos son [[02 - Páginas de Gramática/Français/A2/Les Pronoms Complément I (COD-COI)\|pronombres complemento]] de una oración, las estructuras son exactamente las mismas comparándose con los pronombres [[02 - Páginas de Gramática/Gramática General/El Complemento Directo\|complemento directo]] & [[02 - Páginas de Gramática/Gramática General/El Complemento Indirecto\|complemento indirecto]].

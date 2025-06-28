@@ -17,6 +17,7 @@ No confundir con [[02 - Páginas de Gramática/Français/A1/Les Adjectifs Posses
 | Nous             | Nôtre                    | Nôtres                 | Nôtre                   | Nôtre                 |
 | Vous             | Vôtre                    | Vôtres                 | Vôtre                   | Vôtre                 |
 | Ils/elles        | Leur                     | Leurs                  | Leur                    | Leurs                 |
+
 Estas herramientas son más precisas para definir el género del objeto dentro de la oración. La única condición al utilizar estos pronombres es añadir el [[02 - Páginas de Gramática/Français/A1/Les Articles Définis et Indéfinis\|artículo definido]] adecuado.
 
 > [!example] 
