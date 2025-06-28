@@ -20,12 +20,13 @@ Las estructuras de → [[02 - Páginas de Gramática/Français/B1/Le Plus-que-pa
 > - Faire(Hacer) ⇒ J’avais fait → Yo había hecho
 > - Si + Faire(Hacer) ⇒ Si j’avais fait → Si yo hubiera/hubiese hecho
 
+
 La [[02 - Páginas de Gramática/Gramática General/Las Oraciones & Clausulas\|Clausula]] # 1 representará una condición hipotética usando el [[02 - Páginas de Gramática/Français/B1/Le Plus-que-parfait (El Pluscuamperfecto)\|02 - Páginas de Gramática/Français/B1/Le Plus-que-parfait (El Pluscuamperfecto)]] y la [[02 - Páginas de Gramática/Gramática General/Las Oraciones & Clausulas\|Clausula]] # 2 representa una reacción posible que nunca ocurrió usando el [[02 - Páginas de Gramática/Français/B2/Le Conditionnel Passé I (El Condicional Perfecto)\|02 - Páginas de Gramática/Français/B2/Le Conditionnel Passé I (El Condicional Perfecto)]]
 
 
 > [!NOTE] 
-> - _[Si + Suj. + V.Aux.(Imparfait) + V.Participe + Comp.] + , + [Suj2. + V.Aux.(Conditionnel) + V.Participe+ Comp.]_
-> - _[Suj2. + V.Aux.(Conditionnel) + V.Participe+ Comp.] + [Si + Suj. + V.Aux.(Imparfait) + V.Participe + Comp.]_
+> - [Si + Suj. + V.Aux.(Imparfait) + V.Participe + Comp.] + , + [Suj2. + V.Aux.(Conditionnel) + V.Participe+ Comp.]
+> - [Suj2. + V.Aux.(Conditionnel) + V.Participe+ Comp.] + [Si + Suj. + V.Aux.(Imparfait) + V.Participe + Comp.]
 
 > [!example] 
 > - Si j’avais étudié plus sérieusement, j’aurais réussi l’examen. → Si yo hubiera estudiado más seriamente, habría tenido éxito en el examen.

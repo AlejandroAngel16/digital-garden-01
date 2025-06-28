@@ -36,9 +36,9 @@ Para formar una oración utilizando esta estructura del perfecto, debemos (como 
 
 > [!note]
 > 
-> > **Oración (Verbo de movimiento)**
-> > 
-> > - Pron.(Suj) + (ne) + V.Aux(être) + (pas) + V.Participe.[concordado] + Comp.
+>  **Oración (Verbo de movimiento)**
+> 
+>  - Pron.(Suj) + (ne) + V.Aux(être) + (pas) + V.Participe.[concordado] + Comp.
 
 > [!example]
 > 
@@ -50,9 +50,9 @@ ___
 
 > [!Note]
 > 
-> > **Oración pronominal**
-> > 
-> > - _Pron.(Suj) + (ne) + Pron.Pronom. + V.Aux(être) + (pas) + V.Participe.[Concordado] + Comp._
+>  **Oración pronominal**
+>  
+>  - Pron.(Suj) + (ne) + Pron.Pronom. + V.Aux(être) + (pas) + V.Participe.[Concordado] + Comp.
 
 > [!example]
 > 
@@ -64,9 +64,9 @@ ___
 
 > [!Note]
 > 
-> > ** Oración transitiva (avoir)**
-> > 
-> > - _Pron.(Suj) + (ne) + V.Aux(avoir) + (pas) + V.Participe. + Comp._
+>  **Oración transitiva (avoir)**
+> 
+>  - Pron.(Suj) + (ne) + V.Aux(avoir) + (pas) + V.Participe. + Comp.
 
 > [!example]
 > 

@@ -38,15 +38,16 @@ Primero recordemos la conjugación de estos dos verbos:
 | Nous          | Serons | Aurons |
 | Vous          | Serez  | Aurez  |
 | Ils/elles     | Seront | Auront |
+
 Para formar una oración utilizando esta estructura del perfecto, debemos (como se ha mencionado antes) echarle ojo a como funciona el [[02 - Páginas de Gramática/Gramática General/La Conjugación Compuesta\|perfecto]] del español ya que el proceso es el mismo. Hay que tener en cuenta que la [[02 - Páginas de Gramática/Français/A1/La Négation\|negación]] siempre encierra a los verbos conjugados directamente y no al [[02 - Páginas de Gramática/Gramática General/El Participio Pasado\|participio pasado]]. O sea que la negación → **pas**, siempre irá antes del participio, siempre.
 
 La segunda condición será utilizar las **palabras clave** que siempre se usan junto a esta estructura, las mismas palabras mencionadas al inicio de esta sección.
 
 > [!note]
 > 
-> > **Oración (Verbo de movimiento)**
-> > 
-> > - Pron.(Suj) + (ne) + V.Aux(être) + (pas) + V.Participe.[concordado] + Comp.
+>  **Oración (Verbo de movimiento)**
+> 
+>  - Pron.(Suj) + (ne) + V.Aux(être) + (pas) + V.Participe.[concordado] + Comp.
 
 > [!example]
 > 
@@ -58,9 +59,9 @@ La segunda condición será utilizar las **palabras clave** que siempre se usan 
 
 > [!Note]
 > 
-> > **Oración pronominal**
-> > 
-> > - _Pron.(Suj) + (ne) + Pron.Pronom. + V.Aux(être) + (pas) + V.Participe.[Concordado] + Comp._
+>  **Oración pronominal**
+>  
+>  - Pron.(Suj) + (ne) + Pron.Pronom. + V.Aux(être) + (pas) + V.Participe.[Concordado] + Comp.
 
 > [!example]
 > 
@@ -72,9 +73,9 @@ La segunda condición será utilizar las **palabras clave** que siempre se usan 
 
 > [!Note]
 > 
-> > ** Oración transitiva (avoir)**
-> > 
-> > - _Pron.(Suj) + (ne) + V.Aux(avoir) + (pas) + V.Participe. + Comp._
+>  **Oración transitiva (avoir)**
+> 
+>  - Pron.(Suj) + (ne) + V.Aux(avoir) + (pas) + V.Participe. + Comp.
 
 > [!example]
 > 

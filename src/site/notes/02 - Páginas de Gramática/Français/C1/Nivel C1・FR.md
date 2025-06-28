@@ -20,6 +20,8 @@ ___
  [[02 - Páginas de Gramática/Français/C1/Le Conditionnel III - 2 (Literario)\|02 - Páginas de Gramática/Français/C1/Le Conditionnel III - 2 (Literario)]]
 
 
+___
 
+Siguiente sección → [[02 - Páginas de Gramática/Français/C2/Nivel C2・FR\|Nivel C2・FR]]
 
 ___
