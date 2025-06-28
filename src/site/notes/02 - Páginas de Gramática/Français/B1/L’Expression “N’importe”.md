@@ -9,7 +9,7 @@ Main Index: [[02 - Páginas de Gramática/Français/B1/Nivel B1・FR\|02 - Pági
 ___
 Esta expresión que se puede interpretar literal como → **‘No importa’** o también **‘sin importar’** se utiliza junto a diferentes pronombres para representar inclusión o indiferencia frente a algo específico. ¿Qué significa esto? Revisemos las traducciones más cercanas del español.
 
-- **N’importe** → Cualquier…, Sin importar…, …que sea…
+- **N’importe** → Cualquier…, Sin importar…, que sea…
 
 Esta expresión se usa junto a las siguientes palabras para formar expresiones útiles:
 
@@ -21,6 +21,7 @@ Esta expresión se usa junto a las siguientes palabras para formar expresiones �
 | N’importe où          | Cualquier lugar/Donde sea      |
 | N’importe comment     | De cualquier forma/Como sea    |
 | N’importe quel…       | Cualquier tipo de…/El… que sea |
+
 Estas expresiones son muy propias del francés cotidiano, usarlas en un contexto formal es bastante raro pero no está directamente prohibido, solo con moderación.
 
 

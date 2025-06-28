@@ -26,5 +26,9 @@ ___
  [[02 - Páginas de Gramática/Français/B2/Le Futur Antérieur (El Futuro Perfecto)\|02 - Páginas de Gramática/Français/B2/Le Futur Antérieur (El Futuro Perfecto)]]
 
 
+___
+
+Siguiente sección → [[02 - Páginas de Gramática/Français/C1/Nivel C1・FR\|Nivel C1・FR]]
 
 ___
+

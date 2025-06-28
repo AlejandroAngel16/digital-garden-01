@@ -9,6 +9,8 @@ Main Index: [[02 - Páginas de Gramática/Français/B1/Nivel B1・FR\|02 - Pági
 ___
 Podemos interpretar esta expresión literalmente como → ‘**No… sino**’, o de forma más sencilla ‘**solamente**’. Esta estructura se utiliza junto a un verbo para expresar que algo se realiza con exclusividad o para limitar el alcance de esta.
 
+> Il ne pense que travailler avec cette entreprise. → Él no piensa sino en trabajar con esta empresa.
+
 Esta estructura es bastante común el el francés cotidiano y es un reemplazo directo del Adverbio → ‘**seulement**’ o ‘**juste**’ y podemos usarla con cualquier tiempo y conjugación. Esta estructura esencialmente solo tiene un uso pragmático.
 
 > [!NOTE] 

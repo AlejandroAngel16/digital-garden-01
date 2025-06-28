@@ -15,7 +15,7 @@ Para poder formar este **gerundio**, utilizamos la raíz del verbo para el prono
 
 >Usualmente no podemos remover la preposición **en** al usar el Gerundio, pero sí bajo ciertas condiciones como señala la siguiente sub-sección de **Participio Presente**.
 
-- - _En + V.(Raíz de nous) + -ant_
+ - En + V.(Raíz de nous) + -ant
     - Jardiner → Jardinons → En jardinant
 
 Unos pocos verbos son irregulares al formarse en gerundio:
@@ -36,7 +36,7 @@ Unos pocos verbos son irregulares al formarse en gerundio:
 ## Le Participe Présent
 El **participio presente** es una Inflexión del [[02 - Páginas de Gramática/Français/B1/Le Gérondif - Conditionnel\|02 - Páginas de Gramática/Français/B1/Le Gérondif - Conditionnel]] que acabamos de nombrar. La única diferencia entre uno y el otro es que este **NO** utiliza la preposición **en** y se utiliza para → añadirse como un [[02 - Páginas de Gramática/Gramática General/Los Adjetivos\|adjetivo]] o una acción continua que está directamente relacionada con el sustantivo.
 
-- La personne faisant du bruit. → La persona que hace ruido.
+- La personne faisant du bruit. → La persona que hace ruido. / La persona haciendo ruido.
 > Entonces este tipo de gerundio se expresa como si fuera un Adjetivo.
 
 > [!example] 

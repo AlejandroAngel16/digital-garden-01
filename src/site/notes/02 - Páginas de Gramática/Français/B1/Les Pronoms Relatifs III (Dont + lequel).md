@@ -47,15 +47,15 @@ Los Pronombres Relativos Compuestos se usan principalmente después de ciertas p
 
 | Prépositions | Pronom Relatif | Contractions | Traducción    |
 | ------------ | -------------- | ------------ | ------------- |
-| À            | Lequel         | Auquel       | Al cual       |
-| À            | Lesquels       | Auxquels     | A los cuales  |
-| À            | Laquelle       | À laquelle   | A la cual     |
-| À            | Lesquelles     | Auxquelles   | A las cuales  |
+| À +          | Lequel         | Auquel       | Al cual       |
+| À +          | Lesquels       | Auxquels     | A los cuales  |
+| À +          | Laquelle       | À laquelle   | A la cual     |
+| À +          | Lesquelles     | Auxquelles   | A las cuales  |
 | -/-          | -/-            | -/-          | -/-           |
-| De           | Lequel         | Duquel       | Del cual      |
-| De           | Lesquels       | Desquels     | De los cuales |
-| De           | Laquelle       | De laquelle  | De la cual    |
-| De           | Lesquelles     | Desquelles   | De las cuales |
+| De +         | Lequel         | Duquel       | Del cual      |
+| De +         | Lesquels       | Desquels     | De los cuales |
+| De +         | Laquelle       | De laquelle  | De la cual    |
+| De +         | Lesquelles     | Desquelles   | De las cuales |
 
 > [!example] 
 > - C’est le livre duquel je t’ai parlé. → Es el libro del cual te he hablado.
@@ -64,6 +64,7 @@ Los Pronombres Relativos Compuestos se usan principalmente después de ciertas p
 > - Voici le livre à lequel je pense constamment. → he aquí el libro en el cual pienso constantemente.
 
 ## Pronombre Relativo - Dont
+
 El pronombre relativo dont es uno de los más versátiles en francés y se utiliza principalmente para expresar posesión o pertenencia. Sin embargo, su interpretación puede ser mucho más flexible. En comparación a los pronombres de **lequel**, este es más informal y mucho más usado para darse a entender.
 
 > A diferencia de otros pronombres relativos, dont es invariable y no cambia según el género o número del sustantivo al que se refiere.
