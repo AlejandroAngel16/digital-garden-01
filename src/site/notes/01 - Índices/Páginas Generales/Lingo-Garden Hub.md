@@ -42,22 +42,21 @@ Aquí encontrarás herramientas digitales, aplicaciones y plataformas que facili
 
 ## Idiomas
 
-> [!note]  [[01 - Índices/Páginas de Idiomas/Français\|Français]] 🥐
+> ## [[01 - Índices/Páginas de Idiomas/Français\|Français]] 🥐
 > Recursos, gramática y consejos para mejorar tu comprensión y expresión en francés, desde lo básico hasta niveles avanzados.
 
 
 ___
 
 
-> [!note]  [[01 - Índices/Páginas de Idiomas/Deutsch\|Deutsch]] 🍻 [WIP]
-Domina la gramática, el vocabulario y la pronunciación del alemán con materiales diseñados para un aprendizaje estructurado y eficaz.
+> ## [[01 - Índices/Páginas de Idiomas/Deutsch\|Deutsch]] 🍻 [WIP]
+> Domina la gramática, el vocabulario y la pronunciación del alemán con materiales diseñados para un aprendizaje estructurado y eficaz.
 
 
 ___
 
 >### [[01 - Índices/Páginas de Idiomas/Italiano\|Italiano]] 🍕 [WIP]
-
-Aprende y perfecciona tu italiano con explicaciones claras, ejercicios y estrategias de estudio adaptadas a estudiantes autónomos.
+>Aprende y perfecciona tu italiano con explicaciones claras, ejercicios y estrategias de estudio adaptadas a estudiantes autónomos.
 
 ___
 
