@@ -20,14 +20,15 @@ Veamos la diferencia de manera práctica:
 | Oración en Conditionnel III          | Oración en Conditionnel III [Littéraire] | Traducción I                                         | Traducción II                                        |
 | ------------------------------------ | ---------------------------------------- | ---------------------------------------------------- | ---------------------------------------------------- |
 | Si tu avais vécu, tu aurais compris. | Si tu eusses vécu, tu eusses compris.    | Si tu hubieras vivido, habrías/hubieras comprendido. | Si tu hubieses vivido, habrías/hubieras comprendido. |
+
 **¿Cuándo debo usar una forma sobre la otra?**
 
-Esta forma del Condicional III Literario solo se usará en contextos muy formales y casi nunca se escuchará de manera hablada. Por lo tanto, siempre será mejor utilizar el [Le Conditionnel III (Irréel)](https://www.notion.so/Le-Conditionnel-III-Irr-el-175c735233c9816d9809e419a8ccea2e?pvs=21) como la forma estándar de habla y escritura moderna.
+Esta forma del **Condicional III Literario** solo se usará en contextos muy formales y casi nunca se escuchará de manera hablada. Por lo tanto, siempre será mejor utilizar el [Le Conditionnel III (Irréel)](https://www.notion.so/Le-Conditionnel-III-Irr-el-175c735233c9816d9809e419a8ccea2e?pvs=21) como la forma estándar de habla y escritura moderna.
 
 > [!NOTE]
 > 
-> - _[Si + Suj. + V.Aux.(Subjonctif(imparfait)) + V.(Participe Passé) + Comp.] + , + [Suj2. + V.Aux.(Subjonctif(imparfait)) + V.(Participe Passé)+ Comp.]_
-> - _[Suj2. + V.Aux.(Subjonctif(imparfait)) + V.(Participe Passé)+ Comp.] + [Si + Suj. + V.Aux.(Subjonctif(imparfait)) + V.(Participe Passé) + Comp.]_
+> - [Si + Suj. + V.Aux.(Subjonctif(imparfait)) + V.(Participe Passé) + Comp.] + , + [Suj2. + V.Aux.(Subjonctif(imparfait)) + V.(Participe Passé)+ Comp.]
+> - [Suj2. + V.Aux.(Subjonctif(imparfait)) + V.(Participe Passé)+ Comp.] + [Si + Suj. + V.Aux.(Subjonctif(imparfait)) + V.(Participe Passé) + Comp.]
 
 > [!example]
 > 

@@ -17,6 +17,7 @@ También es útil en muchos ámbitos profesionales, como la moda, la gastronomí
 [Image]
 
 ## ¿Solamente en Francia?
+
 El francés se habla en muchos lugares más allá de Francia. Es el idioma principal en Quebec, Canadá, y forma parte de la identidad cultural de la región. En África, es muy importante en países como Senegal, Costa de Marfil y Marruecos, donde se usa en la educación y el gobierno. También es común en Bélgica, Suiza y Luxemburgo, y en islas como Haití y Martinica en el Caribe, o Tahití en el Pacífico.
 
 Esto quiere decir que una de las ventajas más grandes de aprender este idioma es la posibilidad de conectarse con una gran parte del mundo. Para alcanzar mayores metas académicas (y personales), este idioma es imprescindible.

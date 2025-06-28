@@ -37,11 +37,12 @@ Para formar una oración utilizando esta estructura del perfecto, debemos (como 
 
 La segunda condición será utilizar las expresiones propias del subjuntivo, las mismas expresiones que utilizan el pronombre **Que** y están descritas a fondo en la sección de → [[02 - Páginas de Gramática/Français/B2/Le Subjonctif Présent\|02 - Páginas de Gramática/Français/B2/Le Subjonctif Présent]]
 
+
 > [!note]
 > 
-> > **Oración (Verbo de movimiento)**
-> > 
-> > - [Expresion] + que + Pron.Suj. + (ne) + V.Aux(être) + (pas) + V.Participe.[concordado] + Comp.
+>  **Oración (Verbo de movimiento)**
+> 
+>  - [Expresion] + que + Pron.Suj. + (ne) + V.Aux(être) + (pas) + V.Participe.[concordado] + Comp.
 
 > [!example]
 > 
@@ -53,9 +54,9 @@ La segunda condición será utilizar las expresiones propias del subjuntivo, las
 
 > [!Note]
 > 
-> > **Oración pronominal**
-> > 
-> > - [Expresion] + que + Pron.Suj. + (ne) + Pron.Pronom. + V.Aux(être) + (pas) + V.Participe.[Concordado] + Comp.
+>  **Oración pronominal**
+>  
+>  - [Expresion] + que + Pron.Suj. + (ne) + Pron.Pronom. + V.Aux(être) + (pas) + V.Participe.[Concordado] + Comp.
 
 > [!example]
 > 
@@ -67,9 +68,9 @@ La segunda condición será utilizar las expresiones propias del subjuntivo, las
 
 > [!Note]
 > 
-> > ** Oración transitiva (avoir)**
-> > 
-> > - [Expresion] + que + Pron.Suj. + (ne) + V.Aux(avoir) + (pas) + V.Participio. + Comp.
+>  **Oración transitiva (avoir)**
+>  
+>  - [Expresion] + que + Pron.Suj. + (ne) + V.Aux(avoir) + (pas) + V.Participio. + Comp.
 
 > [!example]
 > 

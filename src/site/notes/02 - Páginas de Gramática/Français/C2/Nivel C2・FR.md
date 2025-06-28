@@ -14,3 +14,8 @@ ___
  [[02 - Páginas de Gramática/Français/C2/L’Argot II\|02 - Páginas de Gramática/Français/C2/L’Argot II]]
  [[02 - Páginas de Gramática/Français/C2/Les Conjonctions IV (Estructuras Sintácticas)\|02 - Páginas de Gramática/Français/C2/Les Conjonctions IV (Estructuras Sintácticas)]]
 
+___
+
+Final de las secciones de gramática.
+
+___

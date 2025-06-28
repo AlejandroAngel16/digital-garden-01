@@ -33,6 +33,7 @@ Podemos ver las terminaciones regulares para los verbos en este tiempo de manera
 | Nous         | -assions        | -issions        | -issions        |
 | Vous         | -assiez         | -issiez         | -issiez         |
 | Ils/elles    | -assent         | -issent         | -issent         |
+
 En la siguiente tabla se recopilan los verbos  irregulares y más importantes junto a los [[02 - Páginas de Gramática/Français/A1/Les Verbes Modaux ・Verbes -oir\|verbos modales]] para hablar usando [[02 - Páginas de Gramática/Français/C1/Le Subjonctif Imparfait (Literario)\|02 - Páginas de Gramática/Français/C1/Le Subjonctif Imparfait (Literario)]].
 ### Verbos Irregulares
 
