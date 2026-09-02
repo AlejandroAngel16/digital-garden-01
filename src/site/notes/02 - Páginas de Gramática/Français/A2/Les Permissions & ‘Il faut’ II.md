@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/02-paginas-de-gramatica/francais/a2/les-permissions-and-il-faut-ii/"}
+{"dg-publish":true,"permalink":"/02-paginas-de-gramatica/francais/a2/les-permissions-and-il-faut-ii/","dg-note-properties":{}}
 ---
 
 # Les Permissions & ‘Il faut’ II
 #Français #A2
 ___
-Main Index: [[02 - Páginas de Gramática/Français/A2/Nivel A2・FR\|02 - Páginas de Gramática/Français/A2/Nivel A2・FR]]
+Main Index: [[02 - Páginas de Gramática/Français/NIVELES/Nivel A2・FR\|Nivel A2・FR]]
 ___
 Existen algunas expresiones fijas en francés que nos permiten describir si una acción es adecuada según el contexto o simplemente si está prohibida de alguna manera. De nuevo utilizamos la expresión “[[02 - Páginas de Gramática/Français/A1/L’Expression “Il faut”\|Il faut]]” para expresar la necesidad de realizar algo.
 
@@ -16,7 +16,7 @@ Existen algunas expresiones fijas en francés que nos permiten describir si una 
 | Il est obligatoire de | Es obligatorio             |
 | Il est permis de      | Está permitido             |
 
-Justo después de estas expresiones simplemente debemos añadir un verbo en [[02 - Páginas de Gramática/Gramática General/Los Verbos en Infinitivo\|infinitivo]].
+Justo después de estas expresiones simplemente debemos añadir un verbo en [[Los Verbos en Infinitivo\|infinitivo]].
 
 
 > [!info] 
@@ -35,3 +35,8 @@ Justo después de estas expresiones simplemente debemos añadir un verbo en [[02
 
 
 ___
+
+
+
+
+> © 2026 Luis Alejandro Cuevas. All rights reserved.

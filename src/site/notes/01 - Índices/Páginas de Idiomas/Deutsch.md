@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-indices/paginas-de-idiomas/deutsch/"}
+{"dg-publish":true,"permalink":"/01-indices/paginas-de-idiomas/deutsch/","dg-note-properties":{}}
 ---
 
 # Deutsch 🍺
@@ -33,6 +33,9 @@ ___
 >## Contenido Gramatical
 
 
+> [!NOTE] ### Los Casos Gramaticales
+> [[02 - Páginas de Gramática/Deutsch/Extras/Die grammatikalischen Kasus\|Die grammatikalischen Kasus]]
+
 
 > [!note] ### Nivel Básico  
 > [[02 - Páginas de Gramática/Deutsch/Nivel A1・DE\|Nivel A1・DE]]
@@ -53,3 +56,8 @@ ___
 > - Hammer’s…
 
 ___
+
+
+
+
+> © 2026 Luis Alejandro Cuevas. All rights reserved.

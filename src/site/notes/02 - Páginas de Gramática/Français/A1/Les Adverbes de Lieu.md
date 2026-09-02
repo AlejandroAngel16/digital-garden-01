@@ -1,13 +1,14 @@
 ---
-{"dg-publish":true,"permalink":"/02-paginas-de-gramatica/francais/a1/les-adverbes-de-lieu/"}
+{"dg-publish":true,"permalink":"/02-paginas-de-gramatica/francais/a1/les-adverbes-de-lieu/","dg-note-properties":{}}
 ---
 
 # Les Adverbes De Lieu
 #Français #A1
 ___
-Main Index: [[02 - Páginas de Gramática/Français/A1/Nivel A1・FR\|02 - Páginas de Gramática/Français/A1/Nivel A1・FR]]
+Main Index: [[02 - Páginas de Gramática/Français/NIVELES/Nivel A1・FR\|Nivel A1・FR]]
 ___
 ## Adverbios de Lugar Específicos
+
 Estas palabras se usan para describir la posición de algún elemento, justo como en español. La mayor diferencia se encuentra en el uso de la preposición de, ya que algunos de estos no la usan en comparación al español.
 
 | Français      | Español        |
@@ -31,7 +32,7 @@ Estas palabras se usan para describir la posición de algún elemento, justo com
 | Au milieu de  | En medio de    |
 
 > [!info] 
-> - Algunos [[02 - Páginas de Gramática/Gramática General/Los Adverbios\|adverbios]] de lugar no necesitan de la preposición **de,** por ende ponerla justo después si la preposición de lugar no la usa es un error gramatical:
+> - Algunos [[Los Adverbios\|adverbios]] de lugar no necesitan de la preposición **de,** por ende ponerla justo después si la preposición de lugar no la usa es un error gramatical:
 > 	- ❌Devant de l’église. → ✔️Devant l’église.
 > 	- La diferencia en pronunciación entre **dessus** & **dessous** es bastante ligera, respectivamente \su\ & \sy\\.
 
@@ -50,3 +51,9 @@ Otros adverbios fundamentales para la comunicación son:
 > - Un grand nombre d’arbres sont plantés autour de la maison pour la protéger du vent. → Un gran número de árboles están plantados alrededor de la casa para protegerla del viento.
 
 ___
+
+
+
+
+
+> © 2026 Luis Alejandro Cuevas. All rights reserved.

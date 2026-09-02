@@ -1,13 +1,13 @@
 ---
-{"dg-publish":true,"permalink":"/02-paginas-de-gramatica/francais/a1/les-pronoms-toniques/"}
+{"dg-publish":true,"permalink":"/02-paginas-de-gramatica/francais/a1/les-pronoms-toniques/","dg-note-properties":{}}
 ---
 
 # Les Pronoms Toniques
 #Français #A1
 ___
-Main Index: [[02 - Páginas de Gramática/Français/A1/Nivel A1・FR\|02 - Páginas de Gramática/Français/A1/Nivel A1・FR]]
+Main Index: [[02 - Páginas de Gramática/Français/NIVELES/Nivel A1・FR\|Nivel A1・FR]]
 ___
-Los pronombres tónicos son elementos análogos a los pronombres sujeto. Sin embargo, usamos estos pronombres cuando son el [[02 - Páginas de Gramática/Gramática General/El Complemento Directo\|complemento directo]] o [[02 - Páginas de Gramática/Gramática General/El Complemento Indirecto\|complemento indirecto]] de la oración. Algunos pronombres no cambian.
+Los pronombres tónicos son elementos análogos a los pronombres sujeto. Sin embargo, usamos estos pronombres cuando son el [[El Complemento Directo\|complemento directo]] o [[El Complemento Indirecto\|complemento indirecto]] de la oración. Algunos pronombres no cambian.
 
 Podemos decir se usan al final de la oración o al inicio para generar un énfasis.
 
@@ -35,7 +35,7 @@ Podemos decir se usan al final de la oración o al inicio para generar un énfas
 >- Toi, tu peux le faire. → Tú puedes hacerlo. _[Enfático]_
 
 ## Énfasis de Pronombre
-El énfasis no solo usa [[02 - Páginas de Gramática/Gramática General/Los Pronombres Tónicos\|pronombres tónicos]]. Directamente podemos mencionar el sujeto de la oración y justo después el pronombre sujeto que corresponder a su género. Es una construcción bastante común del francés aunque en el español resulte redundante y no se use.
+El énfasis no solo usa [[Los Pronombres Tónicos\|pronombres tónicos]]. Directamente podemos mencionar el sujeto de la oración y justo después el pronombre sujeto que corresponder a su género. Es una construcción bastante común del francés aunque en el español resulte redundante y no se use.
 
 > [!example] 
 > - L’église, elle est grande. → La iglesia (ella) es grande.
@@ -44,3 +44,8 @@ El énfasis no solo usa [[02 - Páginas de Gramática/Gramática General/Los Pro
 > Siempre tengamos en cuenta el género del objeto del cual hablamos en una oración. Este definirá el pronombre sujeto de la oración. Este detalle se omite en español todo el tiempo.
 
 ___
+
+
+
+
+> © 2026 Luis Alejandro Cuevas. All rights reserved.

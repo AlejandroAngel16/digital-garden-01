@@ -1,19 +1,19 @@
 ---
-{"dg-publish":true,"permalink":"/02-paginas-de-gramatica/francais/c1/le-subjonctif-imparfait-literario/"}
+{"dg-publish":true,"permalink":"/02-paginas-de-gramatica/francais/c1/le-subjonctif-imparfait-literario/","dg-note-properties":{}}
 ---
 
 # Le Subjonctif Imparfait (Literario)
 #Français #C1
 ___
-Main Index: [[02 - Páginas de Gramática/Français/C1/Nivel C1・FR\|02 - Páginas de Gramática/Français/C1/Nivel C1・FR]]
+Main Index: [[02 - Páginas de Gramática/Français/NIVELES/Nivel C1・FR\|Nivel C1・FR]]
 ___
-> Esta [[02 - Páginas de Gramática/Gramática General/La Conjugación Simple\|conjugación simple]] no es necesaria aprenderla ya que es exclusivamente literaria, por esta razón solo se utilizará en escritos de orden muy formal.
+> Esta [[La Conjugación Simple\|conjugación simple]] no es necesaria aprenderla ya que es exclusivamente literaria, por esta razón solo se utilizará en escritos de orden muy formal.
 
-Esta [[02 - Páginas de Gramática/Gramática General/La Conjugación Simple\|conjugación simple]] cumple con las mismas condiciones descritas en la sección original del Subjuntivo → [[02 - Páginas de Gramática/Français/B2/Le Subjonctif Présent\|02 - Páginas de Gramática/Français/B2/Le Subjonctif Présent]]. O sea, requiere usarse una expresión seguida de la preposición que para que sea posible usar esta conjugación. Sin embargo, esta forma del [[02 - Páginas de Gramática/Gramática General/El Subjuntivo\|subjuntivo]] es muy rara escucharla en el habla cotidiana, solo se usa de manera literaria.
+Esta [[La Conjugación Simple\|conjugación simple]] cumple con las mismas condiciones descritas en la sección original del Subjuntivo → [[02 - Páginas de Gramática/Français/B2/Le Subjonctif Présent\|02 - Páginas de Gramática/Français/B2/Le Subjonctif Présent]]. O sea, requiere usarse una expresión seguida de la preposición que para que sea posible usar esta conjugación. Sin embargo, esta forma del [[El Subjuntivo\|subjuntivo]] es muy rara escucharla en el habla cotidiana, solo se usa de manera literaria.
 
 De manera similar a [[02 - Páginas de Gramática/Français/B2/Le Subjonctif Présent\|02 - Páginas de Gramática/Français/B2/Le Subjonctif Présent]], esta conjugación se usa para expresar probabilidad, deseo, opinión o una hipótesis. La mayor diferencia es que las **expresiones** que introducen a este subjuntivo preciso, estarán conjugadas en algún tipo de pasado, sea → [[02 - Páginas de Gramática/Français/A2/Le Passé Composé (El Perfecto Compuesto)\|02 - Páginas de Gramática/Français/A2/Le Passé Composé (El Perfecto Compuesto)]], [[02 - Páginas de Gramática/Français/A2/L’Indicatif Imparfait\|02 - Páginas de Gramática/Français/A2/L’Indicatif Imparfait]] o [[02 - Páginas de Gramática/Français/C1/L’Indicatif Passé Simple\|02 - Páginas de Gramática/Français/C1/L’Indicatif Passé Simple]].
 
-Esta conjugación también se puede utilizar en [[02 - Páginas de Gramática/Français/B1/Le Conditionnel II (Hypothétique)\|02 - Páginas de Gramática/Français/B1/Le Conditionnel II (Hypothétique)]] reemplazando la [[02 - Páginas de Gramática/Gramática General/Las Oraciones & Clausulas\|clausula]] que usualmente usa el [[02 - Páginas de Gramática/Français/A2/L’Indicatif Imparfait\|02 - Páginas de Gramática/Français/A2/L’Indicatif Imparfait]] para darle un sentido mucho más poético.
+Esta conjugación también se puede utilizar en [[02 - Páginas de Gramática/Français/B1/Le Conditionnel II (Hypothétique)\|02 - Páginas de Gramática/Français/B1/Le Conditionnel II (Hypothétique)]] reemplazando la [[Las Oraciones & Clausulas\|clausula]] que usualmente usa el [[02 - Páginas de Gramática/Français/A2/L’Indicatif Imparfait\|02 - Páginas de Gramática/Français/A2/L’Indicatif Imparfait]] para darle un sentido mucho más poético.
 
 > La contra-parte del español es el **subjuntivo imperfecto**. Aunque en español tengamos dos tipos de subjuntivo imperfecto, en francés solo existe uno. 
 > - Como ejemplo: Que je fisse. → Que yo hiciera/hiciese.
@@ -59,7 +59,7 @@ En la siguiente tabla se recopilan los verbos  irregulares y más importantes ju
 ## Expresiones del Subjuntivo
 > Esta información se encuentra principalmente en la sección de → [[02 - Páginas de Gramática/Français/B2/Le Subjonctif Présent\|02 - Páginas de Gramática/Français/B2/Le Subjonctif Présent]] y describe a mayor profundidad el contenido.
 
-El [[02 - Páginas de Gramática/Gramática General/El Subjuntivo\|subjuntivo]] tiene una cantidad bastante amplia de expresiones introductorias, aprenderlas todas puede ser un proceso largo y tedioso. Por ello, resulta más sencillo aprender las expresiones que NO introducen al **subjuntivo**, sino que utilizan el [[02 - Páginas de Gramática/Français/A1/L’Indicatif Présent (Résumé)\|indicativo presente]] o el [[02 - Páginas de Gramática/Français/A2/L’Indicatif Futur\|indicativo futuro]], ya que estas expresiones son menores en cantidad.
+El [[El Subjuntivo\|subjuntivo]] tiene una cantidad bastante amplia de expresiones introductorias, aprenderlas todas puede ser un proceso largo y tedioso. Por ello, resulta más sencillo aprender las expresiones que NO introducen al **subjuntivo**, sino que utilizan el [[02 - Páginas de Gramática/Français/A1/L’Indicatif Présent (Résumé)\|indicativo presente]] o el [[02 - Páginas de Gramática/Français/A2/L’Indicatif Futur\|indicativo futuro]], ya que estas expresiones son menores en cantidad.
 
 ### Expresiones del Subjuntivo Regulares
 
@@ -108,3 +108,8 @@ ___
 
 
 ___
+
+
+
+
+> © 2026 Luis Alejandro Cuevas. All rights reserved.

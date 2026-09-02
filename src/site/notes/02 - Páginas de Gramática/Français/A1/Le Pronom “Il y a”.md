@@ -1,13 +1,13 @@
 ---
-{"dg-publish":true,"permalink":"/02-paginas-de-gramatica/francais/a1/le-pronom-il-y-a/"}
+{"dg-publish":true,"permalink":"/02-paginas-de-gramatica/francais/a1/le-pronom-il-y-a/","dg-note-properties":{}}
 ---
 
 # Le Pronom “Il y a”
 #Français #A1
 ___
-Main Index: [[02 - Páginas de Gramática/Français/A1/Nivel A1・FR\|02 - Páginas de Gramática/Français/A1/Nivel A1・FR]]
+Main Index: [[02 - Páginas de Gramática/Français/NIVELES/Nivel A1・FR\|Nivel A1・FR]]
 ___
-Esta [[02 - Páginas de Gramática/Gramática General/La Perífrasis Verbal y Locución Verbal\|locución verbal]] tiene un uso muy directo, el de denotar la existencia de algo. Su locución análoga en español es ‘hay’, y esta expresión no toma en cuenta el género o cantidad de los elementos; simplemente es universal.
+Esta [[La Perífrasis Verbal y Locución Verbal\|locución verbal]] tiene un uso muy directo, el de denotar la existencia de algo. Su locución análoga en español es ‘hay’, y esta expresión no toma en cuenta el género o cantidad de los elementos; simplemente es universal.
 
 Sin embargo, una vez que se requiera negar usando esta Locución, debemos utilizar el [[02 - Páginas de Gramática/Français/A1/Les Articles Partitifs\|artículo partitivo]] negativo → **de** para poder remplazar al artículo.
 
@@ -38,3 +38,8 @@ Todo esto junto traduce literalmente a → “él ahí tiene” o “Eso ahí ti
 - **a** es la conjugación del verbo [[02 - Páginas de Gramática/Français/A1/Les Verbes - Être et Avoir\|avoir]] para el [[02 - Páginas de Gramática/Français/A1/Les Pronoms Sujet\|pronombre sujeto]] que en este caso es **il**.
 
 ___
+
+
+
+
+> © 2026 Luis Alejandro Cuevas. All rights reserved.

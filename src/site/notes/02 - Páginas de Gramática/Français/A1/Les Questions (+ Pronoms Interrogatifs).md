@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/02-paginas-de-gramatica/francais/a1/les-questions-pronoms-interrogatifs/"}
+{"dg-publish":true,"permalink":"/02-paginas-de-gramatica/francais/a1/les-questions-pronoms-interrogatifs/","dg-note-properties":{}}
 ---
 
 # Les Questions (+ Pronoms Interrogatifs)
 #Français #A1
 ___
-Main Index: [[02 - Páginas de Gramática/Français/A1/Nivel A1・FR\|02 - Páginas de Gramática/Français/A1/Nivel A1・FR]]
+Main Index: [[02 - Páginas de Gramática/Français/NIVELES/Nivel A1・FR\|Nivel A1・FR]]
 ___
 ## Preguntas Negativas & Positivas
 Realizar preguntas en francés requiere entender el registro de formalidad ya que de acuerdo a este, la formación de cada pregunta variará. Iniciemos por las preguntas cuya respuesta siempre es directamente positiva o negativa. Se les escucha mucho como preguntas sí/no.
@@ -28,7 +28,7 @@ Si tuviéramos que buscar una traducción, se acercaría más al ‘es que’ o 
 ### Preguntas Formales
 Esta forma de pregunta es considerablemente literaria y demasiado formal. Su uso se centra en libros y solo cuando queramos ser corteses.
 
-“-t-” → Este es un pequeño **elemento fonético** que vamos a utilizar justo para estas preguntas invertidas. Se añade justo cuando un verbo acaba por vocal y el pronombre sujeto inicia por vocal. Esto se hacer afin de evitar [[02 - Páginas de Gramática/Gramática General/Los Choques Fonéticos\|choques fonéticos]]. Y solo se hará en ese caso; de lo contrario solo utilizaremos el siguiente elemento → “-” (un guion que carece de la **t**)
+“-t-” → Este es un pequeño **elemento fonético** que vamos a utilizar justo para estas preguntas invertidas. Se añade justo cuando un verbo acaba por vocal y el pronombre sujeto inicia por vocal. Esto se hacer afin de evitar [[Los Choques Fonéticos\|choques fonéticos]]. Y solo se hará en ese caso; de lo contrario solo utilizaremos el siguiente elemento → “-” (un guion que carece de la **t**)
 
 | Pronom | Estructura fonética |
 | ------ | ------------------- |
@@ -57,7 +57,7 @@ La estructura para este tipo de preguntas es bastante sencilla, solo requiere la
 > - Ils font le ménage? → ¿Ellos hacen la limpieza?
 
 ## Pronombres Interrogativos
-Cuando queremos respuestas directas y detalladas sobre el modo, localización o la razón por la cual algo se realizó, utilizamos ciertos pronombres. → [[02 - Páginas de Gramática/Gramática General/Los Pronombres Interrogativos\|Los Pronombres Interrogativos]]
+Cuando queremos respuestas directas y detalladas sobre el modo, localización o la razón por la cual algo se realizó, utilizamos ciertos pronombres. → [[Los Pronombres Interrogativos\|Los Pronombres Interrogativos]]
 
 | Pronom     | Español        | -/- | Pronom  | Español            |
 | ---------- | -------------- | --- | ------- | ------------------ |
@@ -107,3 +107,9 @@ Este tipo de preguntas pueden sonar groseras, por ende es siempre mejor usarla c
 > - Tu t’appelles comment? → ¿Cómo te llamas?
 
 ___
+
+
+
+
+
+> © 2026 Luis Alejandro Cuevas. All rights reserved.

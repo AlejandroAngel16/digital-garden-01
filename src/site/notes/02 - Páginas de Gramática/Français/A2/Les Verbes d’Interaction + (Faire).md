@@ -1,15 +1,15 @@
 ---
-{"dg-publish":true,"permalink":"/02-paginas-de-gramatica/francais/a2/les-verbes-d-interaction-faire/"}
+{"dg-publish":true,"permalink":"/02-paginas-de-gramatica/francais/a2/les-verbes-d-interaction-faire/","dg-note-properties":{}}
 ---
 
 # Les Verbes d’Interaction + (Faire)
 #Français #A2
 ___
-Main Index: [[02 - Páginas de Gramática/Français/A2/Nivel A2・FR\|02 - Páginas de Gramática/Français/A2/Nivel A2・FR]]
+Main Index: [[02 - Páginas de Gramática/Français/NIVELES/Nivel A2・FR\|Nivel A2・FR]]
 ___
 Los verbos de esta sección son elementos básicos pero bastante útiles. Podemos considerar esta sección como información de vocabulario, pero mientras se conozca esta información, es más fácil explorar libros con enfoque en el idioma.
 
-Los verbos están conjugados en [[02 - Páginas de Gramática/Gramática General/El Indicativo Presente\|indicativo presente]]:
+Los verbos están conjugados en [[El Indicativo Presente\|indicativo presente]]:
 
 | Pronoms Sujet | Parler  | Écouter  | Lire   | Écrire   | Dire   | Entendre  |
 | ------------- | ------- | -------- | ------ | -------- | ------ | --------- |
@@ -45,3 +45,9 @@ El verbo ‘hacer’ o **faire** es bastante importante para expresar acción y 
 
   
 ___
+
+
+
+
+
+> © 2026 Luis Alejandro Cuevas. All rights reserved.

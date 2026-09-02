@@ -1,19 +1,19 @@
 ---
-{"dg-publish":true,"permalink":"/02-paginas-de-gramatica/francais/a2/l-indicatif-imparfait/"}
+{"dg-publish":true,"permalink":"/02-paginas-de-gramatica/francais/a2/l-indicatif-imparfait/","dg-note-properties":{}}
 ---
 
 # L’Indicatif Imparfait
 #Français #A2
 ___
-Main Index: [[02 - Páginas de Gramática/Français/A2/Nivel A2・FR\|02 - Páginas de Gramática/Français/A2/Nivel A2・FR]]
+Main Index: [[02 - Páginas de Gramática/Français/NIVELES/Nivel A2・FR\|Nivel A2・FR]]
 ___
 [image]
 
-Esta es la segunda [[02 - Páginas de Gramática/Gramática General/La Conjugación Simple\|conjugación simple]] que se aprende en el francés, o sea que no requiere ningún [[02 - Páginas de Gramática/Gramática General/Los Verbos Auxiliares\|verbo auxiliar]], solo se conjuga directamente con el [[02 - Páginas de Gramática/Français/A1/Les Pronoms Sujet\|pronombre sujeto]].
+Esta es la segunda [[La Conjugación Simple\|conjugación simple]] que se aprende en el francés, o sea que no requiere ningún [[Los Verbos Auxiliares\|verbo auxiliar]], solo se conjuga directamente con el [[02 - Páginas de Gramática/Français/A1/Les Pronoms Sujet\|pronombre sujeto]].
 
 Se utiliza para hablar en el pasado. Sin embargo, tiene una dinámica diferente en el sentido de que representa una acción en el pasado que ocurría de manera progresiva hasta que dejó de pasar.
 
-Esta conjugación funciona exactamente igual a la contra-parte del español, el [[02 - Páginas de Gramática/Gramática General/El Indicativo Imperfecto\|Indicativo Imperfecto]].
+Esta conjugación funciona exactamente igual a la contra-parte del español, el [[El Indicativo Imperfecto\|Indicativo Imperfecto]].
 
 > - Elle parlait au téléphone presque toujours. → Ella hablaba en el teléfono casi siempre.
 
@@ -48,7 +48,7 @@ El único verbo irregular de esta conjugación es el verbo **être**:
 > Avoir → (Nous) Avons → 
 > La raíz sería: Av-
 
-[[02 - Páginas de Gramática/Français/A2/L’Indicatif Imparfait\|02 - Páginas de Gramática/Français/A2/L’Indicatif Imparfait]] puede utilizarse junto a [[02 - Páginas de Gramática/Français/A2/Le Passé Composé (El Perfecto Compuesto)\|02 - Páginas de Gramática/Français/A2/Le Passé Composé (El Perfecto Compuesto)]] para describir que una acción ocurría antes de ser interrumpida por otra, como se puede interpretar en la gráfica. Al inicio resulta un poco extraño debido a que en español utilizamos el [[02 - Páginas de Gramática/Gramática General/El Indicativo Pasado o Pretérito Simple\|indicativo pasado]] en vez de una [[02 - Páginas de Gramática/Gramática General/La Conjugación Compuesta\|conjugación compuesta]].
+[[02 - Páginas de Gramática/Français/A2/L’Indicatif Imparfait\|02 - Páginas de Gramática/Français/A2/L’Indicatif Imparfait]] puede utilizarse junto a [[02 - Páginas de Gramática/Français/A2/Le Passé Composé (El Perfecto Compuesto)\|02 - Páginas de Gramática/Français/A2/Le Passé Composé (El Perfecto Compuesto)]] para describir que una acción ocurría antes de ser interrumpida por otra, como se puede interpretar en la gráfica. Al inicio resulta un poco extraño debido a que en español utilizamos el [[El Indicativo Pasado o Pretérito Simple\|indicativo pasado]] en vez de una [[La Conjugación Compuesta\|conjugación compuesta]].
 
 
 > [!example] 
@@ -61,3 +61,8 @@ El único verbo irregular de esta conjugación es el verbo **être**:
 
 
 ___
+
+
+
+
+> © 2026 Luis Alejandro Cuevas. All rights reserved.

@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/02-paginas-de-gramatica/francais/a1/fonetica-fundamental-fr/"}
+{"dg-publish":true,"permalink":"/02-paginas-de-gramatica/francais/a1/fonetica-fundamental-fr/","dg-note-properties":{}}
 ---
 
 # Fonética Fundamental
 #Français #A1 
 ___
-Main Index: [[02 - Páginas de Gramática/Français/A1/Nivel A1・FR\|Nivel A1・FR]]
+Main Index: [[02 - Páginas de Gramática/Français/NIVELES/Nivel A1・FR\|Nivel A1・FR]]
 ___
 El francés tiene un sistema fonético complejo pero coherente, con reglas claras que pueden facilitar el aprendizaje de estas mismas. Para poder aprovechar al máximo el estudio fonético del francés, debemos conocer bien como funciona el IPA y hacer constante práctica de estos sonidos, ya que entre el español y el francés existen considerables diferencias.
 
@@ -97,11 +97,6 @@ ___
 > - Quand → /kɑ̃ /
 > - Gens → /ʒɑ̃/
 
-
-
-
-
-
-
-
 ___
+
+> © 2026 Luis Alejandro Cuevas. All rights reserved.

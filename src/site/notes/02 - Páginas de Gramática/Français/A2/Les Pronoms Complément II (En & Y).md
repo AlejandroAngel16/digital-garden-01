@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/02-paginas-de-gramatica/francais/a2/les-pronoms-complement-ii-en-and-y/"}
+{"dg-publish":true,"permalink":"/02-paginas-de-gramatica/francais/a2/les-pronoms-complement-ii-en-and-y/","dg-note-properties":{}}
 ---
 
 # Les Pronoms Complément II (En & Y)
 #Français #A2
 ___
-Main Index: [[02 - Páginas de Gramática/Français/A2/Nivel A2・FR\|02 - Páginas de Gramática/Français/A2/Nivel A2・FR]]
+Main Index: [[02 - Páginas de Gramática/Français/NIVELES/Nivel A2・FR\|Nivel A2・FR]]
 ___
 ## Estructura de Una Oración
 Regresando de [[02 - Páginas de Gramática/Français/A2/Les Pronoms Complément I (COD-COI)\|02 - Páginas de Gramática/Français/A2/Les Pronoms Complément I (COD-COI)]] , se introducen complementos nuevos cuya existencia no está en español. Por esta razón, no tenemos una traducción directa al español. Sin embargo hay conceptos bastante cercanos para comprender su interpretación.
@@ -46,7 +46,7 @@ Podemos comprender este pronombre de esta manera:
 > - Elle aime en manger chaque soir. → Ella ama comer de eso cada tarde.
 
 ## Estructuras
-Debido a que estos elementos son [[02 - Páginas de Gramática/Français/A2/Les Pronoms Complément I (COD-COI)\|pronombres complemento]] de una oración, las estructuras son exactamente las mismas comparándose con los pronombres [[02 - Páginas de Gramática/Gramática General/El Complemento Directo\|complemento directo]] & [[02 - Páginas de Gramática/Gramática General/El Complemento Indirecto\|complemento indirecto]].
+Debido a que estos elementos son [[02 - Páginas de Gramática/Français/A2/Les Pronoms Complément I (COD-COI)\|pronombres complemento]] de una oración, las estructuras son exactamente las mismas comparándose con los pronombres [[El Complemento Directo\|complemento directo]] & [[El Complemento Indirecto\|complemento indirecto]].
 
 ### Estructura Sencilla
 
@@ -79,3 +79,8 @@ Debido a que estos elementos son [[02 - Páginas de Gramática/Français/A2/Les 
 
 
 ___
+
+
+
+
+> © 2026 Luis Alejandro Cuevas. All rights reserved.

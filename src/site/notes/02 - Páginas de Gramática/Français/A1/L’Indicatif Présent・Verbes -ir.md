@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/02-paginas-de-gramatica/francais/a1/l-indicatif-present-verbes-ir/"}
+{"dg-publish":true,"permalink":"/02-paginas-de-gramatica/francais/a1/l-indicatif-present-verbes-ir/","dg-note-properties":{}}
 ---
 
 # L’Indicatif Présent・Verbes -ir
 #Français #A1
 ___
-Main Index: [[02 - Páginas de Gramática/Français/A1/Nivel A1・FR\|02 - Páginas de Gramática/Français/A1/Nivel A1・FR]]
+Main Index: [[02 - Páginas de Gramática/Français/NIVELES/Nivel A1・FR\|Nivel A1・FR]]
 ___
 El siguiente grupo de verbos son aquellos con esta terminación, usualmente confusos debido a que estos verbos tienen dos formas de conjugación. Algunos verbos usarán la forma 1 y otros la forma 2, posiblemente debido a su fonética o por reglas arbitrarias.
 
@@ -50,3 +50,9 @@ Para saber si un verbo utiliza la forma 1 o 2 será mayormente por memoria.
 > - Elle sent le parfum des fleurs dans le jardin. → Ella huele el perfumen de las flores en el jardín.
 
 ___
+
+
+
+
+
+> © 2026 Luis Alejandro Cuevas. All rights reserved.

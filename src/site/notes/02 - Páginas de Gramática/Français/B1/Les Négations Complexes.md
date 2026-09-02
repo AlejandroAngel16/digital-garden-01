@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/02-paginas-de-gramatica/francais/b1/les-negations-complexes/"}
+{"dg-publish":true,"permalink":"/02-paginas-de-gramatica/francais/b1/les-negations-complexes/","dg-note-properties":{}}
 ---
 
 # Les Négations Complexes
 #Français #B1
 ___
-Main Index: [[02 - Páginas de Gramática/Français/B1/Nivel B1・FR\|02 - Páginas de Gramática/Français/B1/Nivel B1・FR]]
+Main Index: [[02 - Páginas de Gramática/Français/NIVELES/Nivel B1・FR\|Nivel B1・FR]]
 ___
 Reconocemos que [[02 - Páginas de Gramática/Français/A1/La Négation\|02 - Páginas de Gramática/Français/A1/La Négation]] en la lengua francesa requiere utilizar ne-pas alrededor de un verbo conjugado. Sin embargo, hay varias formas de hacer una negación y las elementos que se usen, debido a su naturaleza de negación, van a reemplazar a pas dentro de la oración.
 ## Negaciones Simples
@@ -47,3 +47,8 @@ Podemos ver estas negaciones compuestas de más de una palabra en la siguiente t
 > - Je ne veux plus jamais entendre cette chanson. → No quiero nunca más escuchar esta canción.
 
 ___
+
+
+
+
+> © 2026 Luis Alejandro Cuevas. All rights reserved.

@@ -1,15 +1,15 @@
 ---
-{"dg-publish":true,"permalink":"/02-paginas-de-gramatica/francais/a2/le-comparative-et-le-superlative/"}
+{"dg-publish":true,"permalink":"/02-paginas-de-gramatica/francais/a2/le-comparative-et-le-superlative/","dg-note-properties":{}}
 ---
 
 # Le Comparative et Le Superlative
 #Français #A2
 ___
-Main Index: [[02 - Páginas de Gramática/Français/A2/Nivel A2・FR\|02 - Páginas de Gramática/Français/A2/Nivel A2・FR]]
+Main Index: [[02 - Páginas de Gramática/Français/NIVELES/Nivel A2・FR\|Nivel A2・FR]]
 ___
 Para realizar comparaciones debemos tener en cuenta ciertas condiciones, sea que vayamos a comparar dos objetos precisos o vayamos a realizar un superlativo. Además de esto, hay cuatro categorías de comparación, cada una con sus reglas.
 
-Podemos comparar → [[02 - Páginas de Gramática/Gramática General/El Verbo\|Verbos]], Sustantivos, [[02 - Páginas de Gramática/Gramática General/Los Adjetivos\|Adjetivos]] y [[02 - Páginas de Gramática/Gramática General/Los Adverbios\|Adverbios]].
+Podemos comparar → [[El Verbo\|Verbos]], Sustantivos, [[Los Adjetivos\|Adjetivos]] y [[Los Adverbios\|Adverbios]].
 ## Adjetivos Irregulares
 Existen adjetivos cuya naturaleza nos obliga a ignorar el uso de **plus, moins o aussi** para usarse en comparativas. Estos dos adjetivos son:
 
@@ -117,7 +117,7 @@ Los superlativos en cambio permiten expresar que la característica de un elemen
 | le plus de  | Más        |
 | le moins de | Menos      |
 
-- En francés, al utilizar el superlativo con sustantivos, también ocurre un proceso similar con ‘ser la/el/lo que’ & ‘de todos’. Estas [[02 - Páginas de Gramática/Gramática General/La Perífrasis Verbal y Locución Verbal\|locuciones]] son ignoradas completamente.
+- En francés, al utilizar el superlativo con sustantivos, también ocurre un proceso similar con ‘ser la/el/lo que’ & ‘de todos’. Estas [[La Perífrasis Verbal y Locución Verbal\|locuciones]] son ignoradas completamente.
 
 > [!note]
 > 
@@ -160,3 +160,9 @@ Los superlativos en cambio permiten expresar que la característica de un elemen
 > - Nous nous levons le plus tôt. → Nos levantamos más temprano (que todos).
 
 ___
+
+
+
+
+
+> © 2026 Luis Alejandro Cuevas. All rights reserved.

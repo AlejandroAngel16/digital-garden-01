@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/02-paginas-de-gramatica/francais/a1/les-adverbes-de-frequence-jours-de-la-semaine/"}
+{"dg-publish":true,"permalink":"/02-paginas-de-gramatica/francais/a1/les-adverbes-de-frequence-jours-de-la-semaine/","dg-note-properties":{}}
 ---
 
 # Les Adverbes De Fréquence (Jours de la semaine)
 #Français #A1
 ___
-Main Index: [[02 - Páginas de Gramática/Français/A1/Nivel A1・FR\|02 - Páginas de Gramática/Français/A1/Nivel A1・FR]]
+Main Index: [[02 - Páginas de Gramática/Français/NIVELES/Nivel A1・FR\|Nivel A1・FR]]
 ___
 Cuando nos encontramos con estas palabras, es necesario interpretarlas para saber en qué tiempo ocurre la acción. Los adverbios de tiempo dictarán si se utiliza un indicativo en presente, futuro o pasado.
 ## Adverbios Introductorios de Tiempo
@@ -52,7 +52,7 @@ Además podemos añadir un tiempo del día (mañana, tarde, noche) justo despué
 Para la **estructura:**
 
 > [!NOTE] 
-> - (le) +[Jour de la semaine] + [Temps du jour] + Pron + V.Conj + Comp.
+> - (le) + [Jour de la semaine] + [Temps du jour] + Pron + V.Conj + Comp.
 > - Pron + V.Conj + Comp. + (le) + [Jour de la semaine] + [Temps du jour]
 
 Ambas formas son correctas, depende de como desees formar la oración. Mencionar el tiempo del día al inicio o al final.
@@ -104,6 +104,11 @@ Para la estructura de este elemento en las oraciones:
 > - Ils voyagent souvent à l'étranger. → Ellos viajan a menudo en el extranjero.
 > - Nous ne mangeons habituellement pas à 19 heures. → No comemos habitualmente a las 19 horas.
 
-Algunos adverbios son naturalmente negativos, o sea que cuando se usan en una oración, tendrán que reemplazar al elemento negativo pas. Tal es el caso con **Jamais**, pero eso se verá con más profundidad en la sección de [[02 - Páginas de Gramática/Français/B1/Les Négations Complexes\|negaciones complejas]].
+Algunos adverbios son naturalmente negativos, o sea que cuando se usan en una oración, tendrán que reemplazar al elemento negativo **pas**. Tal es el caso con **Jamais**, pero eso se verá con más profundidad en la sección de [[02 - Páginas de Gramática/Français/B1/Les Négations Complexes\|negaciones complejas]].
 
 ___
+
+
+
+
+> © 2026 Luis Alejandro Cuevas. All rights reserved.

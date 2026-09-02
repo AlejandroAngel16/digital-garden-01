@@ -1,13 +1,13 @@
 ---
-{"dg-publish":true,"permalink":"/02-paginas-de-gramatica/francais/a1/les-adjectifs/"}
+{"dg-publish":true,"permalink":"/02-paginas-de-gramatica/francais/a1/les-adjectifs/","dg-note-properties":{}}
 ---
 
 # Les Adjectifs
 #Français #A1
 ___
-Main Index: [[02 - Páginas de Gramática/Français/A1/Nivel A1・FR\|02 - Páginas de Gramática/Français/A1/Nivel A1・FR]]
+Main Index: [[02 - Páginas de Gramática/Français/NIVELES/Nivel A1・FR\|Nivel A1・FR]]
 ___
-Debido a que la lengua francesa es un idioma con dos géneros (M.&F.), existen adjetivos que deben de modificarse en una [[02 - Páginas de Gramática/Gramática General/La Inflexión\|inflexión]] que esté de acuerdo con este género y también la cantidad.
+Debido a que la lengua francesa es un idioma con dos géneros (M.&F.), existen adjetivos que deben de modificarse en una [[La Inflexión\|inflexión]] que esté de acuerdo con este género y también la cantidad.
 Justo como en el español, algunos adjetivos son neutros y su forma básica se usará tanto con sujetos masculinos y femeninos (ej. Inteligente); sin embargo, eso no significa que los adjetivos neutros del español sean neutros en francés, usualmente es el caso opuesto.
 ## Sufijos de Adjetivos
 
@@ -40,15 +40,24 @@ Justo como en el español, algunos adjetivos son neutros y su forma básica se u
 ## Adjetivos Pre-Sustantivo
 Sabemos perfectamente que los sustantivos en cualquier idioma romance van justo después del sustantivo al cual modifican. Sin embargo, existen varios adjetivos que se modifican para ponerse justo antes del sustantivo afin de hacer la oración más poética o para añadir un énfasis.
 
-| Adjectifs  | Adjectifs → antes de una vocal o h(muda) |
-| ---------- | ---------------------------------------- |
-| Beau       | Bel                                      |
-| Nouveau    | Nouvel                                   |
-| Vieux      | Vieil                                    |
-| Mou        | Mol                                      |
+| **Español** | Masculin Singulier | Féminin Singulier | Adjectifs → antes de una vocal o h(muda) |
+| ----------- | ------------------ | ----------------- | ---------------------------------------- |
+| Bello       | Beau               | Belle             | Bel                                      |
+| Nuevo       | Nouveau            | Neuve             | Nouvel                                   |
+| Viejo       | Vieux              | Vieille           | Vieil                                    |
+| Suave       | Mou                |                   | Mol                                      |
+| Doble       | Double             |                   |                                          |
+| Medio       | Demi               |                   |                                          |
+| Largo       | Long               |                   |                                          |
+| Corto       | Court              |                   |                                          |
+| Pequeño     | Petit              |                   |                                          |
+| Bonito      | Joli               |                   |                                          |
+| Bueno/Buen  | Bon                |                   |                                          |
+| Malo/Mal    | Mauvais            |                   |                                          |
+|             |                    |                   |                                          |
 
 > [!info] 
->  - Algunos adjetivos usados en esta posición pre-sustantivo pueden cambiar a fin de evitar [[02 - Páginas de Gramática/Gramática General/Los Choques Fonéticos\|choque vocales]] solo si el sustantivo inicia por vocal o ‘h’ muda y es masculino.
+>  - Algunos adjetivos usados en esta posición pre-sustantivo pueden cambiar a fin de evitar [[Los Choques Fonéticos\|choque vocales]] solo si el sustantivo inicia por vocal o ‘h’ muda y es masculino.
 
 > [!example] 
 > - Je cherche un bel armoire. → Busco un bello armario.
@@ -74,3 +83,9 @@ Podemos utilizar algunas palabras clave justo antes del adjetivo para poder defi
 > - C’est si difficile à croire! → Es tan difícil de creer!
 
 ___
+
+
+
+
+
+> © 2026 Luis Alejandro Cuevas. All rights reserved.

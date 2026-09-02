@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/02-paginas-de-gramatica/francais/a1/l-indicatif-present-resume/"}
+{"dg-publish":true,"permalink":"/02-paginas-de-gramatica/francais/a1/l-indicatif-present-resume/","dg-note-properties":{}}
 ---
 
 # L’Indicatif Présent (Résumé)
 #Français #A1
 ___
-Main Index: [[02 - Páginas de Gramática/Français/A1/Nivel A1・FR\|02 - Páginas de Gramática/Français/A1/Nivel A1・FR]]
+Main Index: [[02 - Páginas de Gramática/Français/NIVELES/Nivel A1・FR\|Nivel A1・FR]]
 ___
 Considerando que cada sección para el Indicativo Presente del francés se ha visto por separado → [[02 - Páginas de Gramática/Français/A1/L’Indicatif Présent・Verbes -er (+ Aller)\|02 - Páginas de Gramática/Français/A1/L’Indicatif Présent・Verbes -er (+ Aller)]], [[02 - Páginas de Gramática/Français/A1/L’Indicatif Présent・Verbes -ir\|02 - Páginas de Gramática/Français/A1/L’Indicatif Présent・Verbes -ir]] y [[02 - Páginas de Gramática/Français/A1/L’Indicatif Présent・Verbes -re\|02 - Páginas de Gramática/Français/A1/L’Indicatif Présent・Verbes -re]], podemos simplificar la información sin ahondar en los mismos detalles de cada lección.
 
@@ -22,7 +22,7 @@ Podemos ver las terminaciones regulares para los verbos en este tiempo de manera
 | Vous           | -ez             | -issez/-ez      | -ez             |
 | Ils/elles      | -ent            | -issent/-ent    | -ent            |
 
-En la siguiente tabla se recopilan los verbos más irregulares e importantes junto a los Verbos Modales para hablar usando el [[02 - Páginas de Gramática/Gramática General/El Indicativo Presente\|indicativo presente]]:
+En la siguiente tabla se recopilan los verbos más irregulares e importantes junto a los Verbos Modales para hablar usando el [[El Indicativo Presente\|indicativo presente]]:
 
 | Pronombre Suj. | Être   | Avoir | Aller  | Faire   | Prendre  | Tenir    |
 | -------------- | ------ | ----- | ------ | ------- | -------- | -------- |
@@ -33,3 +33,8 @@ En la siguiente tabla se recopilan los verbos más irregulares e importantes jun
 | Vous           | Êtes   | Avez  | Allez  | Faites  | Prenez   | Tenez    |
 | Ils/elles      | Sont   | Ont   | Vont   | Font    | Prennent | Tiennent |
 ___
+
+
+
+
+> © 2026 Luis Alejandro Cuevas. All rights reserved.

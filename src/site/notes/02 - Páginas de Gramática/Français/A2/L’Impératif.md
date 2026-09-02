@@ -1,13 +1,13 @@
 ---
-{"dg-publish":true,"permalink":"/02-paginas-de-gramatica/francais/a2/l-imperatif/"}
+{"dg-publish":true,"permalink":"/02-paginas-de-gramatica/francais/a2/l-imperatif/","dg-note-properties":{}}
 ---
 
 # L’Impératif
 #Français #A2
 ___
-Main Index: [[02 - Páginas de Gramática/Français/A2/Nivel A2・FR\|02 - Páginas de Gramática/Français/A2/Nivel A2・FR]]
+Main Index: [[02 - Páginas de Gramática/Français/NIVELES/Nivel A2・FR\|Nivel A2・FR]]
 ___
-Esta no es una conjugación común y corriente ya que precisamente para poder usarla debemos ignorar los pronombres sujeto. Ya sabemos que un [[02 - Páginas de Gramática/Gramática General/El Imperativo\|imperativo]] es una forma verbal que existe para dar ordenes a otras personas.
+Esta no es una conjugación común y corriente ya que precisamente para poder usarla debemos ignorar los pronombres sujeto. Ya sabemos que un [[El Imperativo\|imperativo]] es una forma verbal que existe para dar ordenes a otras personas.
 ## Pronombres Objetivo
 
 Cuando vayamos a dar ordenes, debemos tener en cuenta la lógica de como funciona esto en un contexto real. No podemos darle ordenes a un grupo de personas que no interactúa con nosotros directamente.
@@ -49,7 +49,7 @@ Ahora bien, reiteremos. Al usar un imperativo, lo primero que hacemos es ignorar
 ## Verbos Pronominales
 En el caso de utilizar verbos pronominales, simplemente debemos añadir los [[02 - Páginas de Gramática/Français/A1/Les Pronoms Toniques\|02 - Páginas de Gramática/Français/A1/Les Pronoms Toniques]] justo después del verbo. (Toi, vous, nous).
 
-En el caso de ser negativa la oración, debemos en cambio utilizar los [[02 - Páginas de Gramática/Gramática General/Los Verbos Pronominales\|Pronombres Pronominales]] de [[02 - Páginas de Gramática/Français/A1/Les Verbes Pronominaux\|02 - Páginas de Gramática/Français/A1/Les Verbes Pronominaux]]
+En el caso de ser negativa la oración, debemos en cambio utilizar los [[Los Verbos Pronominales\|Pronombres Pronominales]] de [[02 - Páginas de Gramática/Français/A1/Les Verbes Pronominaux\|02 - Páginas de Gramática/Français/A1/Les Verbes Pronominaux]]
 
 
 > [!NOTE] 
@@ -93,3 +93,8 @@ Cuando deseamos acuñar un Pronombre COD a una oración de orden imperativo, deb
 > - Ne les terminez pas encore. → No las acabes todavía.
 
 ___
+
+
+
+
+> © 2026 Luis Alejandro Cuevas. All rights reserved.

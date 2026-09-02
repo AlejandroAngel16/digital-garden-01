@@ -1,25 +1,25 @@
 ---
-{"dg-publish":true,"permalink":"/02-paginas-de-gramatica/francais/b2/le-subjonctif-present/"}
+{"dg-publish":true,"permalink":"/02-paginas-de-gramatica/francais/b2/le-subjonctif-present/","dg-note-properties":{}}
 ---
 
 # Le Subjonctif Présent
 #Français #B2
 ___
-Main Index: [[02 - Páginas de Gramática/Français/B2/Nivel B2・FR\|02 - Páginas de Gramática/Français/B2/Nivel B2・FR]]
+Main Index: [[02 - Páginas de Gramática/Français/NIVELES/Nivel B2・FR\|Nivel B2・FR]]
 ___
 > Esta conjugación es indispensable para hablar de opiniones y probabilidades, se debería revisar en niveles previos debido a su utilidad pero para evitar cargar con mucha información, se revisa en este nivel B2.
 
 [Image]
 
-El uso de esta conjugación es bastante distinta a todas las demás [[02 - Páginas de Gramática/Gramática General/La Conjugación Simple\|conjugaciones simples]] del francés debido a que dependerá de una **expresión fija** para poder usarse.
+El uso de esta conjugación es bastante distinta a todas las demás [[La Conjugación Simple\|conjugaciones simples]] del francés debido a que dependerá de una **expresión fija** para poder usarse.
 
-Al usar el [[02 - Páginas de Gramática/Gramática General/El Subjuntivo\|subjuntivo]], podemos expresar acciones que representen probabilidad, deseo, opinión o una hipótesis. En español nos acostumbramos a utilizar dos tipos de subjuntivo → **El subjuntivo presente** y **el subjuntivo imperfecto**. Sin embargo, en francés nos acostumbramos a usar únicamente el subjuntivo Presente de manera hablada.
+Al usar el [[El Subjuntivo\|subjuntivo]], podemos expresar acciones que representen probabilidad, deseo, opinión o una hipótesis. En español nos acostumbramos a utilizar dos tipos de subjuntivo → **El subjuntivo presente** y **el subjuntivo imperfecto**. Sin embargo, en francés nos acostumbramos a usar únicamente el subjuntivo Presente de manera hablada.
 
 Como hispano-hablantes, es posible que sea difícil identificar esta conjugación. Por ello, revisemos el siguiente ejemplo:
 
 > - Elle préfère que je travaille le weekend prochain. → Ella prefiere que yo trabaje (~~trabajo~~) el próximo fin de semana.
 
-El [[02 - Páginas de Gramática/Gramática General/El Subjuntivo\|subjuntivo]] siempre irá después de una expresión que termine con la preposición → que y se puede interpretar fácilmente como otra habla del presente o futuro.
+El [[El Subjuntivo\|subjuntivo]] siempre irá después de una expresión que termine con la preposición → que y se puede interpretar fácilmente como otra habla del presente o futuro.
 
 ## Conjugación de Verbos -er/-ir/-re
 Para conjugar en subjuntivo, es necesario saber que cada grupo verbal tiene sus terminaciones y algunos verbos irregulares de por medio
@@ -62,7 +62,7 @@ En la siguiente tabla se recopilan los verbos  irregulares y más importantes ju
 | Ils/elles      | Puissent  | Doivent | Sachent  | Veuillent |
 
 ## Expresiones del Subjuntivo
-El [[02 - Páginas de Gramática/Gramática General/El Subjuntivo\|subjuntivo]] tiene una cantidad bastante amplia de expresiones introductorias, aprenderlas todas puede ser un proceso largo y tedioso. Por ello, resulta más sencillo aprender las expresiones que NO introducen al **subjuntivo**, sino que utilizan el [[02 - Páginas de Gramática/Français/A1/L’Indicatif Présent (Résumé)\|indicativo presente]] o el [[02 - Páginas de Gramática/Français/A2/L’Indicatif Futur\|indicativo futuro]], ya que estas expresiones son menores en cantidad.
+El [[El Subjuntivo\|subjuntivo]] tiene una cantidad bastante amplia de expresiones introductorias, aprenderlas todas puede ser un proceso largo y tedioso. Por ello, resulta más sencillo aprender las expresiones que NO introducen al **subjuntivo**, sino que utilizan el [[02 - Páginas de Gramática/Français/A1/L’Indicatif Présent (Résumé)\|indicativo presente]] o el [[02 - Páginas de Gramática/Français/A2/L’Indicatif Futur\|indicativo futuro]], ya que estas expresiones son menores en cantidad.
 
 > En efecto, existen expresiones que utilizan [[02 - Páginas de Gramática/Français/A2/L’Indicatif Futur\|02 - Páginas de Gramática/Français/A2/L’Indicatif Futur]]. En español eso es impensable pero afortunadamente no son muchas.
 
@@ -164,3 +164,8 @@ Estas expresiones son seguidas por un [[02 - Páginas de Gramática/Français/A2
 
 
 ___
+
+
+
+
+> © 2026 Luis Alejandro Cuevas. All rights reserved.

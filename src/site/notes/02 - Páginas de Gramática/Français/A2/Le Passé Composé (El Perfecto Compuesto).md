@@ -1,21 +1,21 @@
 ---
-{"dg-publish":true,"permalink":"/02-paginas-de-gramatica/francais/a2/le-passe-compose-el-perfecto-compuesto/"}
+{"dg-publish":true,"permalink":"/02-paginas-de-gramatica/francais/a2/le-passe-compose-el-perfecto-compuesto/","dg-note-properties":{}}
 ---
 
 # Le Passé Composé (El Perfecto Compuesto)
 #Français #A2
 ___
-Main Index: [[02 - Páginas de Gramática/Français/A2/Nivel A2・FR\|02 - Páginas de Gramática/Français/A2/Nivel A2・FR]]
+Main Index: [[02 - Páginas de Gramática/Français/NIVELES/Nivel A2・FR\|Nivel A2・FR]]
 ___
 > Esta sección es larga, y se compone de diferentes conceptos nuevos. Sin embargo, existen varios tip para entender como funciona esta estructura sin mucho problema.
 
-Para empezar, esta no es una [[02 - Páginas de Gramática/Gramática General/La Conjugación Simple\|conjugación simple]] como el [[02 - Páginas de Gramática/Gramática General/El Indicativo Presente\|indicativo presente]]. Esta es una Conjugación Compuesta que tiene más de un elemento. O sea que las reglas son distintas.
+Para empezar, esta no es una [[La Conjugación Simple\|conjugación simple]] como el [[El Indicativo Presente\|indicativo presente]]. Esta es una Conjugación Compuesta que tiene más de un elemento. O sea que las reglas son distintas.
 
 Esta conjugación se usa para hablar en el pasado, especialmente sobre una acción que ocurrió solo **una vez**. Sin embargo, también se puede interpretar como una acción que aún repercute en el presente.
 
 [image → timeline]
 
-Para simplificar, esta estructura se parece mucho al [[02 - Páginas de Gramática/Gramática General/La Conjugación Compuesta\|perfecto compuesto]] del español, aunque en términos prácticos se utilice como un Indicativo Pasado del español.
+Para simplificar, esta estructura se parece mucho al [[La Conjugación Compuesta\|perfecto compuesto]] del español, aunque en términos prácticos se utilice como un Indicativo Pasado del español.
 
 - **J’ai parlé de la situation.** | esta oración podría traducirse de dos maneras distintas:
     - Yo he hablado de la situación.
@@ -27,8 +27,8 @@ Aunque por estructura el [[02 - Páginas de Gramática/Français/A2/Le Passé Co
 
 ## Verbos en Participio Pasado
 
-Antes de construir una oración, hay que comprender qué es un [[02 - Páginas de Gramática/Gramática General/El Participio Pasado\|participio pasado]].
-Se puede decir que este es una inflexión de cualquier verbo y su uso puede ser el de un [[02 - Páginas de Gramática/Gramática General/Los Adjetivos\|adjetivo]] como se vio en [[02 - Páginas de Gramática/Français/A1/Les Adjectifs\|02 - Páginas de Gramática/Français/A1/Les Adjectifs]]. Pero este tiene unas reglas específicas para crearse. Su contra-parte en español son todos los adjetivos que terminan en: -ado, -ido, (& muchas excepciones más). Y justo como un [[02 - Páginas de Gramática/Gramática General/Los Adjetivos\|adjetivo]], tiene [[02 - Páginas de Gramática/Gramática General/La Inflexión\|inflexiones]] según el género y la cantidad. ([[02 - Páginas de Gramática/Gramática General/La Concordancia Compuesta\|concordancia]])
+Antes de construir una oración, hay que comprender qué es un [[El Participio Pasado\|participio pasado]].
+Se puede decir que este es una inflexión de cualquier verbo y su uso puede ser el de un [[Los Adjetivos\|adjetivo]] como se vio en [[02 - Páginas de Gramática/Français/A1/Les Adjectifs\|02 - Páginas de Gramática/Français/A1/Les Adjectifs]]. Pero este tiene unas reglas específicas para crearse. Su contra-parte en español son todos los adjetivos que terminan en: -ado, -ido, (& muchas excepciones más). Y justo como un [[Los Adjetivos\|adjetivo]], tiene [[La Inflexión\|inflexiones]] según el género y la cantidad. ([[La Concordancia Compuesta\|concordancia]])
 
 ### Terminaciones del Participio
 
@@ -63,9 +63,9 @@ Como es de esperar del francés, existen muchos verbos que poseen participios ir
 | Découvrir       | Découvert                  | -/- |                       |                            |
 | Recevoir        | Reçu                       | -/- |                       |                            |
 ## Verbos Auxiliares
-Cuando usamos la estructura del [[02 - Páginas de Gramática/Gramática General/La Conjugación Compuesta\|perfecto]] en español, solamente utilizamos un verbo → **haber** como el auxiliar previo al [[02 - Páginas de Gramática/Gramática General/El Participio Pasado\|participio pasado]]. En francés utilizaremos dos (**être et avoir**) y su traducción no será directa cuando hablemos con esta estructura, precisamente eso es lo más confuso. En esta conjugación, ambos verbos se usarán siempre en [[02 - Páginas de Gramática/Français/A1/L’Indicatif Présent (Résumé)\|02 - Páginas de Gramática/Français/A1/L’Indicatif Présent (Résumé)]]
+Cuando usamos la estructura del [[La Conjugación Compuesta\|perfecto]] en español, solamente utilizamos un verbo → **haber** como el auxiliar previo al [[El Participio Pasado\|participio pasado]]. En francés utilizaremos dos (**être et avoir**) y su traducción no será directa cuando hablemos con esta estructura, precisamente eso es lo más confuso. En esta conjugación, ambos verbos se usarán siempre en [[02 - Páginas de Gramática/Français/A1/L’Indicatif Présent (Résumé)\|02 - Páginas de Gramática/Français/A1/L’Indicatif Présent (Résumé)]]
 
-Recordemos la conjugación para ambos verbos auxiliares en [[02 - Páginas de Gramática/Gramática General/El Indicativo Presente\|indicativo presente]]. → [[02 - Páginas de Gramática/Français/A1/Les Verbes - Être et Avoir\|02 - Páginas de Gramática/Français/A1/Les Verbes - Être et Avoir]]
+Recordemos la conjugación para ambos verbos auxiliares en [[El Indicativo Presente\|indicativo presente]]. → [[02 - Páginas de Gramática/Français/A1/Les Verbes - Être et Avoir\|02 - Páginas de Gramática/Français/A1/Les Verbes - Être et Avoir]]
 > Para entender esta estructura de manera más sencilla, imaginémonos que tanto el verbo **avoir** y **être** son en realidad el verbo “haber”, y así tendrá más sentido en nuestra cabeza hispano-hablante.
 
 | Pronom Sujet  | Être   | Avoir |
@@ -79,7 +79,7 @@ Recordemos la conjugación para ambos verbos auxiliares en [[02 - Páginas de Gr
 ## ⭐Verbos de Movimiento - être
 
 **¿Cuándo sabemos si debemos usar être o avoir?**
-En dos ocasiones utilizaremos el verbo **être** como nuestro [[02 - Páginas de Gramática/Gramática General/Los Verbos Auxiliares\|verbo auxiliar]]: cuando utilicemos verbos de manera [[02 - Páginas de Gramática/Français/A1/Les Verbes Pronominaux\|pronominal]] o cuando usemos los verbos de **movimiento** (vulgarmente conocidos como verbos de la casita). Si ninguna de estas dos condiciones se cumple, simplemente usamos **avoir** como auxiliar.
+En dos ocasiones utilizaremos el verbo **être** como nuestro [[Los Verbos Auxiliares\|verbo auxiliar]]: cuando utilicemos verbos de manera [[02 - Páginas de Gramática/Français/A1/Les Verbes Pronominaux\|pronominal]] o cuando usemos los verbos de **movimiento** (vulgarmente conocidos como verbos de la casita). Si ninguna de estas dos condiciones se cumple, simplemente usamos **avoir** como auxiliar.
 
 | Español     | Français    | Participe  |
 | ----------- | ----------- | ---------- |
@@ -99,12 +99,12 @@ En dos ocasiones utilizaremos el verbo **être** como nuestro [[02 - Páginas de
 | Subir       | Monter      | Monté      |
 | Volverse    | Devenir     | Devenu     |
 
-- Si se puede apreciar la naturaleza de estos verbos, cada uno es un [[02 - Páginas de Gramática/Gramática General/Los Verbos Transitivos e Intransitivos\|verbo intransitivo]] y por ello utilizan el [[02 - Páginas de Gramática/Gramática General/Los Verbos Auxiliares\|verbo auxiliar]] **être** en vez de **avoir**.
-- Esta sería la lógica detrás del uso pero realmente es arbitrario ya que otros [[02 - Páginas de Gramática/Gramática General/Los Verbos Transitivos e Intransitivos\|verbos intransitivos]] fuera de esta lista inevitablemente usarán **avoir** como auxiliar.
+- Si se puede apreciar la naturaleza de estos verbos, cada uno es un [[Los Verbos Transitivos e Intransitivos\|verbo intransitivo]] y por ello utilizan el [[Los Verbos Auxiliares\|verbo auxiliar]] **être** en vez de **avoir**.
+- Esta sería la lógica detrás del uso pero realmente es arbitrario ya que otros [[Los Verbos Transitivos e Intransitivos\|verbos intransitivos]] fuera de esta lista inevitablemente usarán **avoir** como auxiliar.
 
 ### Concordancia
 
-El último detalle al lidiar con verbos utilicen el auxiliar **être** es que el participio debe de [[02 - Páginas de Gramática/Gramática General/La Concordancia Compuesta\|concordarse]] según el género y cantidad del [[02 - Páginas de Gramática/Français/A1/Les Pronoms Sujet\|pronombre sujeto]] siempre. Esto no ocurre con los verbos de **avoir** y esta es una de las razones por las cuales se puede cometer un error al conjugar en pasado.
+El último detalle al lidiar con verbos utilicen el auxiliar **être** es que el participio debe de [[La Concordancia Compuesta\|concordarse]] según el género y cantidad del [[02 - Páginas de Gramática/Français/A1/Les Pronoms Sujet\|pronombre sujeto]] siempre. Esto no ocurre con los verbos de **avoir** y esta es una de las razones por las cuales se puede cometer un error al conjugar en pasado.
 > - Ellas han partido hacia Italia. → Elles sont parties pour l’Italie.
 
 El auxiliar es → sont, conjugación de être y parties es el participio de partir(parti) pero adecuado para el pronombre ‘ellas’ que es femenino y plural→-es. | (Partidas)
@@ -112,7 +112,7 @@ El auxiliar es → sont, conjugación de être y parties es el participio de par
 El [[02 - Páginas de Gramática/Français/A1/Les Pronoms Sujet\|pronombre]] **On** también puede usarse con concordancia de género si lo estamos usando para hablar de nosotros en un contexto donde se pueda interpretar así. De lo contrario, no es necesario concordar.
 ## Estructura
 
-Para formar una oración utilizando esta estructura del perfecto, debemos (como se ha mencionado antes) echarle ojo a como funciona el [[02 - Páginas de Gramática/Gramática General/La Conjugación Compuesta\|perfecto]] del español ya que el proceso es el mismo. Hay que tener en cuenta que la [[02 - Páginas de Gramática/Français/A1/La Négation\|negación]] siempre encierra a los verbos conjugados directamente y no al [[02 - Páginas de Gramática/Gramática General/El Participio Pasado\|participio pasado]]. O sea que la negación → **pas**, siempre irá antes del participio, siempre.
+Para formar una oración utilizando esta estructura del perfecto, debemos (como se ha mencionado antes) echarle ojo a como funciona el [[La Conjugación Compuesta\|perfecto]] del español ya que el proceso es el mismo. Hay que tener en cuenta que la [[02 - Páginas de Gramática/Français/A1/La Négation\|negación]] siempre encierra a los verbos conjugados directamente y no al [[El Participio Pasado\|participio pasado]]. O sea que la negación → **pas**, siempre irá antes del participio, siempre.
 
 
 > [!note] 
@@ -143,13 +143,13 @@ Para formar una oración utilizando esta estructura del perfecto, debemos (como 
 > - J'ai dû parler avec ma mère parce-que elle n'a pas compris. → He debido hablar con mi madre porque ella no ha entendido.
 
 ## Verbos de Movimiento en Transitivo
-Entendamos que los **Verbos de Movimiento** son en su naturaleza [[02 - Páginas de Gramática/Gramática General/Los Verbos Transitivos e Intransitivos\|verbos intransitivos]] que afectan al Sujeto de la oración. Sin embargo, es posible que alguno de estos verbos se pueda utilizar para afectar a otro elemento, creando así un [[02 - Páginas de Gramática/Gramática General/El Complemento Directo\|complemento directo]] en la oración.
+Entendamos que los **Verbos de Movimiento** son en su naturaleza [[Los Verbos Transitivos e Intransitivos\|verbos intransitivos]] que afectan al Sujeto de la oración. Sin embargo, es posible que alguno de estos verbos se pueda utilizar para afectar a otro elemento, creando así un [[El Complemento Directo\|complemento directo]] en la oración.
 
 Cuando ocurre algo así, lo que debemos hacer es cambiar el Verbo Auxiliar **Être** por **Avoir:**
 
 > - Je suis passé → J’ai passé la bière
 
-Cada que exista un [[02 - Páginas de Gramática/Gramática General/El Complemento Directo\|complemento directo]] en la oración, el Verbo de Movimiento dejará de ser intransitivo y tendremos que cambiar el auxiliar.
+Cada que exista un [[El Complemento Directo\|complemento directo]] en la oración, el Verbo de Movimiento dejará de ser intransitivo y tendremos que cambiar el auxiliar.
 
 > [!example]
 > **Oraciones Intransitivas**
@@ -166,7 +166,7 @@ Cada que exista un [[02 - Páginas de Gramática/Gramática General/El Complemen
 >  - Mon frère a monté les valises à l’étage. → Mi hermano ha subido las maletas al piso.
 
 ## Adjudicación de Adverbios
-Cuando necesitemos añadir [[02 - Páginas de Gramática/Gramática General/Los Adverbios\|adverbios]] a una oración con esta [[02 - Páginas de Gramática/Gramática General/La Conjugación Compuesta\|conjugación compuesta]], usualmente usamos la siguiente fórmula, ligeramente distinta al español:
+Cuando necesitemos añadir [[Los Adverbios\|adverbios]] a una oración con esta [[La Conjugación Compuesta\|conjugación compuesta]], usualmente usamos la siguiente fórmula, ligeramente distinta al español:
 
 > [!NOTE] 
 > - Pron.(Suj) + (ne) + V.Aux. + (pas) + Adv. + V.Participe. + Comp.
@@ -196,3 +196,8 @@ Cuando hablemos en pasado, existen algunas palabras introductorias que son fijas
 > - Depuis le début de l’hiver, il neige continuellement. → Desde el inicio del invierno, nieva continuamente.
 
 ___
+
+
+
+
+> © 2026 Luis Alejandro Cuevas. All rights reserved.

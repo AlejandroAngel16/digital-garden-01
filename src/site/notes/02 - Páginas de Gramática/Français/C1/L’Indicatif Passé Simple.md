@@ -1,23 +1,23 @@
 ---
-{"dg-publish":true,"permalink":"/02-paginas-de-gramatica/francais/c1/l-indicatif-passe-simple/"}
+{"dg-publish":true,"permalink":"/02-paginas-de-gramatica/francais/c1/l-indicatif-passe-simple/","dg-note-properties":{}}
 ---
 
 # L’Indicatif Passé Simple
 #Français #C1
 ___
-Main Index: [[02 - Páginas de Gramática/Français/C1/Nivel C1・FR\|02 - Páginas de Gramática/Français/C1/Nivel C1・FR]]
+Main Index: [[02 - Páginas de Gramática/Français/NIVELES/Nivel C1・FR\|Nivel C1・FR]]
 ___
 [image]
 
-El [[02 - Páginas de Gramática/Gramática General/El Indicativo Pasado o Pretérito Simple\|indicativo pasado]] o **pretérito** del francés es una [[02 - Páginas de Gramática/Gramática General/La Conjugación Simple\|conjugación simple]], justo como el [[02 - Páginas de Gramática/Français/A2/L’Indicatif Imparfait\|02 - Páginas de Gramática/Français/A2/L’Indicatif Imparfait]] y [[02 - Páginas de Gramática/Français/A2/L’Indicatif Futur\|02 - Páginas de Gramática/Français/A2/L’Indicatif Futur]] , donde cada Grupo Verbal tiene su propias terminaciones. Como se puede inferir por el nombre, esta Conjugación Simple se utiliza para hablar de una acción en el pasado que ha ocurrido una sola vez, extremadamente similar a [[02 - Páginas de Gramática/Français/A2/Le Passé Composé (El Perfecto Compuesto)\|02 - Páginas de Gramática/Français/A2/Le Passé Composé (El Perfecto Compuesto)]].
+El [[El Indicativo Pasado o Pretérito Simple\|indicativo pasado]] o **pretérito** del francés es una [[La Conjugación Simple\|conjugación simple]], justo como el [[02 - Páginas de Gramática/Français/A2/L’Indicatif Imparfait\|02 - Páginas de Gramática/Français/A2/L’Indicatif Imparfait]] y [[02 - Páginas de Gramática/Français/A2/L’Indicatif Futur\|02 - Páginas de Gramática/Français/A2/L’Indicatif Futur]] , donde cada Grupo Verbal tiene su propias terminaciones. Como se puede inferir por el nombre, esta Conjugación Simple se utiliza para hablar de una acción en el pasado que ha ocurrido una sola vez, extremadamente similar a [[02 - Páginas de Gramática/Français/A2/Le Passé Composé (El Perfecto Compuesto)\|02 - Páginas de Gramática/Français/A2/Le Passé Composé (El Perfecto Compuesto)]].
 
-¿Cuál es la diferencia en relación al [[02 - Páginas de Gramática/Français/A2/Le Passé Composé (El Perfecto Compuesto)\|passé composé]]? El [[02 - Páginas de Gramática/Français/C1/L’Indicatif Passé Simple\|02 - Páginas de Gramática/Français/C1/L’Indicatif Passé Simple]] es más cercano al [[02 - Páginas de Gramática/Gramática General/El Indicativo Pasado o Pretérito Simple\|indicativo pasado (O Pretérito Simple)]] del Español y vamos a usarlo para hablar de manera **formal**, en escritos, lecturas y narraciones. O sea que esta forma de habla casi no se escuchará verbalmente.
+¿Cuál es la diferencia en relación al [[02 - Páginas de Gramática/Français/A2/Le Passé Composé (El Perfecto Compuesto)\|passé composé]]? El [[02 - Páginas de Gramática/Français/C1/L’Indicatif Passé Simple\|02 - Páginas de Gramática/Français/C1/L’Indicatif Passé Simple]] es más cercano al [[El Indicativo Pasado o Pretérito Simple\|indicativo pasado (O Pretérito Simple)]] del Español y vamos a usarlo para hablar de manera **formal**, en escritos, lecturas y narraciones. O sea que esta forma de habla casi no se escuchará verbalmente.
 
 Consideremos la siguiente oración y su traducción directa:
 
 >- Elle parla au téléphone tout le soir. → Ella habló en el teléfono toda la tarde.
 
-Aunque esta [[02 - Páginas de Gramática/Gramática General/La Conjugación Simple\|conjugación simple]] sea particularmente literaria, es importante aprenderla para comprender estructuras narrativas y leer libros.
+Aunque esta [[La Conjugación Simple\|conjugación simple]] sea particularmente literaria, es importante aprenderla para comprender estructuras narrativas y leer libros.
 
 ## Conjugación de Verbos -er/-ir/-re
 Para conjugar en [[02 - Páginas de Gramática/Français/C1/L’Indicatif Passé Simple\|02 - Páginas de Gramática/Français/C1/L’Indicatif Passé Simple]] es necesario saber que cada grupo verbal tiene sus terminaciones y algunos verbos irregulares de por medio.
@@ -70,3 +70,8 @@ En la siguiente tabla se recopilan los verbos irregulares más importantes junto
 
 
 ___
+
+
+
+
+> © 2026 Luis Alejandro Cuevas. All rights reserved.

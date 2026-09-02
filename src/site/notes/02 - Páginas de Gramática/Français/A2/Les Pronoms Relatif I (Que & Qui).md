@@ -1,18 +1,18 @@
 ---
-{"dg-publish":true,"permalink":"/02-paginas-de-gramatica/francais/a2/les-pronoms-relatif-i-que-and-qui/"}
+{"dg-publish":true,"permalink":"/02-paginas-de-gramatica/francais/a2/les-pronoms-relatif-i-que-and-qui/","dg-note-properties":{}}
 ---
 
 # Les Pronoms Relatif I (Que & Qui)
 #Français #A2
 ___
-Main Index: [[02 - Páginas de Gramática/Français/A2/Nivel A2・FR\|02 - Páginas de Gramática/Français/A2/Nivel A2・FR]]
+Main Index: [[02 - Páginas de Gramática/Français/NIVELES/Nivel A2・FR\|Nivel A2・FR]]
 ___
-Para conectar oraciones o hacer referencias a otros elementos entre oraciones con más de una [[02 - Páginas de Gramática/Gramática General/Las Oraciones & Clausulas\|clausula]], utilizamos [[02 - Páginas de Gramática/Gramática General/Los Pronombres Relativos\|pronombres relativos]] o como también es descrito, [[02 - Páginas de Gramática/Gramática General/Las Oraciones & Clausulas\|clausulas]] Subordinadas.
+Para conectar oraciones o hacer referencias a otros elementos entre oraciones con más de una [[Las Oraciones & Clausulas\|clausula]], utilizamos [[Los Pronombres Relativos\|pronombres relativos]] o como también es descrito, [[Las Oraciones & Clausulas\|clausulas]] Subordinadas.
 
 En español, utilizamos el pronombre ‘Que’ para formar oraciones subordinadas pero en francés se requiere utilizar dos, para condiciones específicas.
 
 ## Pronombre ‘Que’
-Este pronombre se utiliza para referirse a un [[02 - Páginas de Gramática/Gramática General/El Complemento Directo\|complemento directo]], o sea, un elemento al cual le recae la acción por parte de un actor. Este pronombre se debe apostrofar en caso de haber una vocal en frente.
+Este pronombre se utiliza para referirse a un [[El Complemento Directo\|complemento directo]], o sea, un elemento al cual le recae la acción por parte de un actor. Este pronombre se debe apostrofar en caso de haber una vocal en frente.
 >Es fácil saber cuando usar este pronombre. Simplemente podemos usarlo cuando justo después de este va un pronombre sujeto.
 
 
@@ -41,7 +41,7 @@ Este pronombre se utiliza para referirse a un objeto que realiza una acción par
 > - Elle est qui a invité la dame à la fête. → Ella es quien ha invitado la dama a la fiesta.
 
 ## Concordancia en Estructuras Compuestas
-En adición, al utilizar estos pronombres en una [[02 - Páginas de Gramática/Gramática General/La Conjugación Compuesta\|estructura compuesta]] como [[02 - Páginas de Gramática/Français/A2/Le Passé Composé (El Perfecto Compuesto)\|02 - Páginas de Gramática/Français/A2/Le Passé Composé (El Perfecto Compuesto)]], tendremos que tener en cuenta el [[02 - Páginas de Gramática/Gramática General/El Complemento Directo\|complemento directo]] de la oración para poder concordar el verbo en participio pasado.
+En adición, al utilizar estos pronombres en una [[La Conjugación Compuesta\|estructura compuesta]] como [[02 - Páginas de Gramática/Français/A2/Le Passé Composé (El Perfecto Compuesto)\|02 - Páginas de Gramática/Français/A2/Le Passé Composé (El Perfecto Compuesto)]], tendremos que tener en cuenta el [[El Complemento Directo\|complemento directo]] de la oración para poder concordar el verbo en participio pasado.
 
 Este proceso es obligatorio y se realiza debido a que, justo como lo dicta la lógica de [[02 - Páginas de Gramática/Français/A2/Les Pronoms Complément I (COD-COI)\|02 - Páginas de Gramática/Français/A2/Les Pronoms Complément I (COD-COI)]], es necesario enfatizar el género y la cantidad de los elementos a los cuales nos referimos.
 
@@ -56,3 +56,8 @@ Este proceso es obligatorio y se realiza debido a que, justo como lo dicta la l�
 
 
 ___
+
+
+
+
+> © 2026 Luis Alejandro Cuevas. All rights reserved.

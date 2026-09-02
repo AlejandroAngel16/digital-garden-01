@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/02-paginas-de-gramatica/francais/a1/la-negation/"}
+{"dg-publish":true,"permalink":"/02-paginas-de-gramatica/francais/a1/la-negation/","dg-note-properties":{}}
 ---
 
 # La Négation
 #Français #A1
 ___
-Main Index: [[02 - Páginas de Gramática/Français/A1/Nivel A1・FR\|02 - Páginas de Gramática/Français/A1/Nivel A1・FR]]
+Main Index: [[02 - Páginas de Gramática/Français/NIVELES/Nivel A1・FR\|Nivel A1・FR]]
 ___
 La negación de las oraciones en francés requiere el uso de dos elementos importantes → **ne & pas**. Estos elementos tienen su posición especial y el uso de ‘pas’ es necesario en cualquier nivel de formalidad. Por otro lado el ‘ne’ puede ser saltado para precisamente hablar con más comodidad e informalidad.
 
@@ -13,7 +13,7 @@ La negación de las oraciones en francés requiere el uso de dos elementos impor
 > [!NOTE] 
 > - Pron.(Suj) + (ne) + V.Conj. + pas + Comp.
 
-> - V. Conj. → Se refiere a cualquier verbo en una [[02 - Páginas de Gramática/Gramática General/La Conjugación Simple\|conjugación simple]].
+> - V. Conj. → Se refiere a cualquier verbo en una [[La Conjugación Simple\|conjugación simple]].
 > - Comp. → Se refiere al Complemento, siendo este cualquier tipo de información extra añadida a la oración.
 
 
@@ -23,3 +23,9 @@ La negación de las oraciones en francés requiere el uso de dos elementos impor
 
 > ‘Ne’ es un elemento que se podrá apostrofar considerando que la siguiente palabra inicie por vocal o ‘h’ muda.
 ___
+
+
+
+
+
+> © 2026 Luis Alejandro Cuevas. All rights reserved.

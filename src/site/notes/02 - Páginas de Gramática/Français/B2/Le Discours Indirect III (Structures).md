@@ -1,16 +1,16 @@
 ---
-{"dg-publish":true,"permalink":"/02-paginas-de-gramatica/francais/b2/le-discours-indirect-iii-structures/"}
+{"dg-publish":true,"permalink":"/02-paginas-de-gramatica/francais/b2/le-discours-indirect-iii-structures/","dg-note-properties":{}}
 ---
 
 # Le Discours Indirect III (Structures)
 #Français #B2
 ___
-Main Index: [[02 - Páginas de Gramática/Français/B2/Nivel B2・FR\|02 - Páginas de Gramática/Français/B2/Nivel B2・FR]]
+Main Index: [[02 - Páginas de Gramática/Français/NIVELES/Nivel B2・FR\|Nivel B2・FR]]
 ___
 > La información en esta sección está descrita igual a la original → [[02 - Páginas de Gramática/Français/A2/Le Discours Indirect I (Introduction)\|02 - Páginas de Gramática/Français/A2/Le Discours Indirect I (Introduction)]]
-> Recordar → [[02 - Páginas de Gramática/Gramática General/La Concordancia Temporal en Oraciones Subordinadas\|La Concordancia Temporal en Oraciones Subordinadas]]
+> Recordar → [[La Concordancia Temporal en Oraciones Subordinadas\|La Concordancia Temporal en Oraciones Subordinadas]]
 
-El [[02 - Páginas de Gramática/Gramática General/El Discurso Indirecto\|discurso indirecto]] es una estructura que nos permite reportar información que otro actor ha mencionado antes. Esta estructura requiere realizarse con unas condiciones específicas y evita que se expresen las palabras exactas del emisor original.
+El [[El Discurso Indirecto\|discurso indirecto]] es una estructura que nos permite reportar información que otro actor ha mencionado antes. Esta estructura requiere realizarse con unas condiciones específicas y evita que se expresen las palabras exactas del emisor original.
 
 ## Expresiones de Reportaje
 Se utilizan las siguientes expresiones para poder realizar el reportaje de información:
@@ -26,7 +26,7 @@ En adición, hay que invertir lógica en esta estructura ya que será necesario 
 
 ## Cambios Temporales II
 En la sección original logramos comprender como usar esta estructura usando únicamente el [[02 - Páginas de Gramática/Français/A1/L’Indicatif Présent (Résumé)\|indicativo presente]] para reportar una situación en ese tiempo exclusivamente. Sin embargo, existen diversas formas para reportar un mensaje. Para eso utilizamos cambios de tiempo, tanto verbal y adverbial, y las expresiones anteriormente vistas.
-> En esta sección número 3 revisaremos tiempos nuevos para el discurso indirecto. Sobretodo, [[02 - Páginas de Gramática/Gramática General/La Conjugación Compuesta\|conjugaciones compuestas]] que requieren ser más extensas y tediosas.
+> En esta sección número 3 revisaremos tiempos nuevos para el discurso indirecto. Sobretodo, [[La Conjugación Compuesta\|conjugaciones compuestas]] que requieren ser más extensas y tediosas.
 
 ### Cambios de Tiempo Verbal
 
@@ -102,3 +102,8 @@ Cuando utilizamos el [[02 - Páginas de Gramática/Français/B2/Le Subjonctif Pr
 
 
 ___
+
+
+
+
+> © 2026 Luis Alejandro Cuevas. All rights reserved.

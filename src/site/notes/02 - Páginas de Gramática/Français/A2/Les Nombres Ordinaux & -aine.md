@@ -1,17 +1,17 @@
 ---
-{"dg-publish":true,"permalink":"/02-paginas-de-gramatica/francais/a2/les-nombres-ordinaux-and-aine/"}
+{"dg-publish":true,"permalink":"/02-paginas-de-gramatica/francais/a2/les-nombres-ordinaux-and-aine/","dg-note-properties":{}}
 ---
 
 # Les Nombres Ordinaux & -aine
 #Français #A2
 ___
-Main Index: [[02 - Páginas de Gramática/Français/A2/Nivel A2・FR\|02 - Páginas de Gramática/Français/A2/Nivel A2・FR]]
+Main Index: [[02 - Páginas de Gramática/Français/NIVELES/Nivel A2・FR\|Nivel A2・FR]]
 ___
 > Sección seguida de [[02 - Páginas de Gramática/Français/A1/Les Números\|02 - Páginas de Gramática/Français/A1/Les Números]]
 
-Este tipo de números nos permite organizar el orden de algún concepto y se necesitan formas particulares además de un [[02 - Páginas de Gramática/Gramática General/Los Sufijos\|sufijo]].
+Este tipo de números nos permite organizar el orden de algún concepto y se necesitan formas particulares además de un [[Los Sufijos\|sufijo]].
 
-El [[02 - Páginas de Gramática/Gramática General/Los Sufijos\|sufijo]] para volver cualquier número en ordinal es → -**ième** y este hace que el número se comporte como un adjetivo neutro. El único caso en el que este tiene distinción por género es en el primer número. Para pluralizar es simplemente necesario añadir -s.
+El [[Los Sufijos\|sufijo]] para volver cualquier número en ordinal es → -**ième** y este hace que el número se comporte como un adjetivo neutro. El único caso en el que este tiene distinción por género es en el primer número. Para pluralizar es simplemente necesario añadir -s.
 
 | Número    | Forme Ordinale   |
 | --------- | ---------------- |
@@ -33,3 +33,8 @@ El sufijo en francés es → **-aine** y se añade justo al remover la última s
 | Cuarentena | Quarantaine |
 
 ___
+
+
+
+
+> © 2026 Luis Alejandro Cuevas. All rights reserved.

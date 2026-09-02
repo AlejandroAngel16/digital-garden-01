@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/02-paginas-de-gramatica/francais/a1/les-introductions/"}
+{"dg-publish":true,"permalink":"/02-paginas-de-gramatica/francais/a1/les-introductions/","dg-note-properties":{}}
 ---
 
 # Les Introductions
 #Français #A1
 ___
-Main Index: [[02 - Páginas de Gramática/Français/A1/Nivel A1・FR\|Nivel A1・FR]]
+Main Index: [[02 - Páginas de Gramática/Français/NIVELES/Nivel A1・FR\|Nivel A1・FR]]
 ___
 ## Saludos Introductorios
 Cuando nos introducimos ante una persona nueva, lo primero que tenemos en cuenta es el tiempo del día. ¿Es de mañana, tarde, noche? Es importante conocer que la forma en como se interpreta el tiempo dentro del lenguaje francés es muy seguramente distinta si tú no vives en el país objetivo.
@@ -25,7 +25,7 @@ Cuando nos introducimos ante una persona nueva, lo primero que tenemos en cuenta
 > - **Bonsoir** es usado entre las 5-6 p.m. hasta la medianoche.
 > - **Bonne nuit** es un saludo específico para despedirse en la noche antes de dormir o para la madrugada antes de que salga el sol.
 
-Podemos decir entonces que el uso de estas [[02 - Páginas de Gramática/Gramática General/La Perífrasis Verbal y Locución Verbal\|locuciones verbales]] tienen seguramente un uso cultural distinto, por eso es bastante importante conocer el contexto en el cual se usan estas palabras.
+Podemos decir entonces que el uso de estas [[La Perífrasis Verbal y Locución Verbal\|locuciones verbales]] tienen seguramente un uso cultural distinto, por eso es bastante importante conocer el contexto en el cual se usan estas palabras.
 ## Saludos Breves
 Si deseamos ser más directos o familiares con nuestros saludos, hay muchas formas dependiendo del nivel de familiaridad que tengamos con la otra persona.
 
@@ -66,7 +66,7 @@ No nos podemos olvidar de palabras tan importantes para hacernos expresar como �
 | Oui              | Sí           |
 | Ouais            | Sí           |
 | Non              | No           |
-| Bien sûr         | Claro        |
+| Bien sûr         | Claro que sí |
 | Bien sûr que non | Claro que no |
 
 > [!info] 
@@ -87,7 +87,7 @@ No nos podemos olvidar de palabras tan importantes para hacernos expresar como �
 > Comme ci, comme ça es una expresión común y se asocia comúnmente a la expresión ‘más o menos’ del español. Sin embargo, esta interpretación no es necesariamente correcta. El uso de esta expresión va más desde la indiferencia y la incertidumbre sobre algo.
 
 ## Introducciones Personales
-Aquí hay muchas maneras de introducirnos. Nuestro nombre usando el verbo [[02 - Páginas de Gramática/Français/A1/El Verbo S’appeller\|s’appeller]] (llamarse) y un par de conjugaciones, además de otros elementos con el fin de hablar de nosotros mismos.
+Aquí hay muchas maneras de introducirnos. Nuestro nombre usando el verbo [[00 - Expungables/El Verbo S’appeller\|s’appeller]] (llamarse) y un par de conjugaciones, además de otros elementos con el fin de hablar de nosotros mismos.
 
 | Français       | Español         |
 | -------------- | --------------- |
@@ -97,7 +97,7 @@ Aquí hay muchas maneras de introducirnos. Nuestro nombre usando el verbo [[02 -
 | J’ai # ans     | Yo tengo # años |
 
 > [!example] 
-> Je m’appelle Fabio → Me llamo Fabio
+> Je m’appelle Fabio. → Me llamo Fabio.
 
 | Français  | Español     |
 | --------- | ----------- |
@@ -108,7 +108,7 @@ Aquí hay muchas maneras de introducirnos. Nuestro nombre usando el verbo [[02 -
 
 ## Registro
 
-Otro elemento importante es el [[02 - Páginas de Gramática/Gramática General/El Registro\|registro]] de formalidad e informalidad para referirnos a otras personas al momento de preguntarles algo. Es importante saber que al usar el pronombre ‘Tu’, usamos una forma de habla informal y ‘vous’ sería su contra-parte formal
+Otro elemento importante es el [[El Registro\|registro]] de formalidad e informalidad para referirnos a otras personas al momento de preguntarles algo. Es importante saber que al usar el pronombre ‘Tu’, usamos una forma de habla informal y ‘vous’ sería su contra-parte formal
 > [!example] 
 > - Comment est-ce que tu t’appelles? → Cómo te llamas tú?
 > - Comment est-ce que vous vous appelez? → Cómo se llama usted?
@@ -128,7 +128,7 @@ Podemos usar estas expresiones para hablar específicamente de nuestra ciudad:
 >- Je viens de → Yo vengo de
 >- J’habite à → Yo vivo en
 
-Sin embargo si deseamos hablar de nuestro país de origen, algunas cosas cambiarán por las [[02 - Páginas de Gramática/Gramática General/Las Preposiciones\|preposiciones]] .
+Sin embargo si deseamos hablar de nuestro país de origen, algunas cosas cambiarán por las [[Las Preposiciones\|preposiciones]] .
 
 ---
 
@@ -150,3 +150,9 @@ Reconozcamos también los términos formales para referirse a personas con un t�
 | Monsieur | Señor   |
 | Madame   | Señora  |
 ___
+
+
+
+
+
+> © 2026 Luis Alejandro Cuevas. All rights reserved.

@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/02-paginas-de-gramatica/francais/b1/l-expression-n-importe/"}
+{"dg-publish":true,"permalink":"/02-paginas-de-gramatica/francais/b1/l-expression-n-importe/","dg-note-properties":{}}
 ---
 
 # L’Expression “N’importe”
 #Français #B1
 ___
-Main Index: [[02 - Páginas de Gramática/Français/B1/Nivel B1・FR\|02 - Páginas de Gramática/Français/B1/Nivel B1・FR]]
+Main Index: [[02 - Páginas de Gramática/Français/NIVELES/Nivel B1・FR\|Nivel B1・FR]]
 ___
 Esta expresión que se puede interpretar literal como → **‘No importa’** o también **‘sin importar’** se utiliza junto a diferentes pronombres para representar inclusión o indiferencia frente a algo específico. ¿Qué significa esto? Revisemos las traducciones más cercanas del español.
 
@@ -35,3 +35,8 @@ Estas expresiones son muy propias del francés cotidiano, usarlas en un contexto
 > ‘ailles’ es un verbo conjugado en [[02 - Páginas de Gramática/Français/B2/Le Subjonctif Présent\|subjuntivo presente]], un tema un poco más avanzado.
 
 ___
+
+
+
+
+> © 2026 Luis Alejandro Cuevas. All rights reserved.

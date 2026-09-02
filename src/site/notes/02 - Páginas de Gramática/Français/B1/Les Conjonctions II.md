@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/02-paginas-de-gramatica/francais/b1/les-conjonctions-ii/"}
+{"dg-publish":true,"permalink":"/02-paginas-de-gramatica/francais/b1/les-conjonctions-ii/","dg-note-properties":{}}
 ---
 
 # Les Conjonctions II
 #Français #B1
 ___
-Main Index: [[02 - Páginas de Gramática/Français/B1/Nivel B1・FR\|02 - Páginas de Gramática/Français/B1/Nivel B1・FR]]
+Main Index: [[02 - Páginas de Gramática/Français/NIVELES/Nivel B1・FR\|Nivel B1・FR]]
 ___
 Justo como la sección → [[02 - Páginas de Gramática/Français/A1/Les Conjonctions I\|02 - Páginas de Gramática/Français/A1/Les Conjonctions I]] , existen varias palabras que nos permiten conectar oraciones, hablar de razones y tiempo. Esta sección es ligeramente más avanzada y su enfoque está en el vocabulario y la producción escrita.
 
@@ -26,3 +26,5 @@ Justo como la sección → [[02 - Páginas de Gramática/Français/A1/Les Conjon
 > - Parce qu’il pleuvait intensément, nous avons annulé l’événement. Donc, nous le reportons à la semaine prochaine. → Porque llovía intensamente, hemos anulado el evento, por lo tanto lo reportamos en la próxima semana.
 
 ___
+
+> © 2026 Luis Alejandro Cuevas. All rights reserved.

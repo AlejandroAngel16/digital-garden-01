@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/02-paginas-de-gramatica/francais/a1/les-commandes/"}
+{"dg-publish":true,"permalink":"/02-paginas-de-gramatica/francais/a1/les-commandes/","dg-note-properties":{}}
 ---
 
 # Les Commandes
 #Français #A1
 ___
-Main Index: [[02 - Páginas de Gramática/Français/A1/Nivel A1・FR\|02 - Páginas de Gramática/Français/A1/Nivel A1・FR]]
+Main Index: [[02 - Páginas de Gramática/Français/NIVELES/Nivel A1・FR\|Nivel A1・FR]]
 ___
 Esta sección reúne elementos de todo el nivel para proponer un contexto de encomendar algo o realizar pedidos de manera común o formal utilizando [[02 - Páginas de Gramática/Français/A1/Les Verbes Modaux ・Verbes -oir\|02 - Páginas de Gramática/Français/A1/Les Verbes Modaux ・Verbes -oir]] y una conjugación de nivel más avanzado para crear formalidad.
 
@@ -34,7 +34,7 @@ Por otra parte, existen expresiones que se utilizan para poder expresar el deseo
     - J’envie de manger quelque chose. → Tengo ganas de comer algo.
 
 ## Pedidos Formales
-En el caso de querer hacer peticiones formales, podemos utilizar ciertos verbos para exigir algo (poder, querer, gustar, tener). Sin embargo, estos verbos deben utilizarse en Condicional Presente. ¿Qué significa eso? Que utilizaremos esta conjugación avanzada del francés para añadir un nivel de formalidad.
+En el caso de querer hacer peticiones formales, podemos utilizar ciertos verbos para exigir algo (poder, querer, gustar, tener). Sin embargo, estos verbos deben utilizarse en [[El Condicional\|condicional presente]]. ¿Qué significa eso? Que utilizaremos esta conjugación avanzada del francés para añadir un nivel de formalidad.
 
 Esta conjugación → [[02 - Páginas de Gramática/Français/B1/Le Conditionnel Présent\|02 - Páginas de Gramática/Français/B1/Le Conditionnel Présent]] hace parte de un nivel avanzado, por esta razón solo se aprenderá ligeramente en lo que resta de la sección actual.
 
@@ -58,3 +58,8 @@ En la siguiente tabla se recopilarán estos verbos en [[02 - Páginas de Gramát
 
 
 ___
+
+
+
+
+> © 2026 Luis Alejandro Cuevas. All rights reserved.

@@ -1,16 +1,16 @@
 ---
-{"dg-publish":true,"permalink":"/02-paginas-de-gramatica/francais/a2/les-pronoms-demonstratifs-ce-que/"}
+{"dg-publish":true,"permalink":"/02-paginas-de-gramatica/francais/a2/les-pronoms-demonstratifs-ce-que/","dg-note-properties":{}}
 ---
 
 # Les Pronoms Démonstratifs ( + Ce que)
 #Français #A2
 ___
-Main Index: [[02 - Páginas de Gramática/Français/A2/Nivel A2・FR\|02 - Páginas de Gramática/Français/A2/Nivel A2・FR]]
+Main Index: [[02 - Páginas de Gramática/Français/NIVELES/Nivel A2・FR\|Nivel A2・FR]]
 ___
-Para poder referirnos a algo dentro de nuestro espacio físico o metafórico, utilizamos estos pronombres para reemplazar un concepto o para señalarlo. Junto a estos pronombres, se pueden encontrar [[02 - Páginas de Gramática/Gramática General/Los Pronombres Relativos\|pronombres relativos]] como descrito en [[02 - Páginas de Gramática/Français/A2/Les Pronoms Relatif I (Que & Qui)\|02 - Páginas de Gramática/Français/A2/Les Pronoms Relatif I (Que & Qui)]]
+Para poder referirnos a algo dentro de nuestro espacio físico o metafórico, utilizamos estos pronombres para reemplazar un concepto o para señalarlo. Junto a estos pronombres, se pueden encontrar [[Los Pronombres Relativos\|pronombres relativos]] como descrito en [[02 - Páginas de Gramática/Français/A2/Les Pronoms Relatif I (Que & Qui)\|02 - Páginas de Gramática/Français/A2/Les Pronoms Relatif I (Que & Qui)]]
 
 ## Pronombres Demostrativos Específicos
-Este es considerado un concepto de [[02 - Páginas de Gramática/Français/A1/Nivel A1・FR\|Nivel A1]]. Sin embargo, debe aprenderse junto a sus contra-partes más complejas para comprender las diferencias y las dinámicas del concepto en conjunto.
+Este es considerado un concepto de [[02 - Páginas de Gramática/Français/NIVELES/Nivel A1・FR\|Nivel A1]]. Sin embargo, debe aprenderse junto a sus contra-partes más complejas para comprender las diferencias y las dinámicas del concepto en conjunto.
 
 Para referirnos a un sustantivo es específico, utilizamos los siguientes pronombres:
 
@@ -111,3 +111,8 @@ Y también podemos utilizar expresiones sencillas como un pronombre sujeto de la
 > - Ceci est ce que nous voulons, et cela est ce que nous devons éviter. → Esto es lo que queremos, y eso de allá es lo que debemos evitar.
 
 ___
+
+
+
+
+> © 2026 Luis Alejandro Cuevas. All rights reserved.

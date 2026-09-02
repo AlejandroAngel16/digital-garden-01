@@ -1,13 +1,13 @@
 ---
-{"dg-publish":true,"permalink":"/02-paginas-de-gramatica/francais/b1/le-gerondif-conditionnel/"}
+{"dg-publish":true,"permalink":"/02-paginas-de-gramatica/francais/b1/le-gerondif-conditionnel/","dg-note-properties":{}}
 ---
 
 # Le Gérondif - Conditionnel
 #Français #B1
 ___
-Main Index: [[02 - Páginas de Gramática/Français/B1/Nivel B1・FR\|02 - Páginas de Gramática/Français/B1/Nivel B1・FR]]
+Main Index: [[02 - Páginas de Gramática/Français/NIVELES/Nivel B1・FR\|Nivel B1・FR]]
 ___
-Hemos revisado atentamente como funciona el **presente continuo** de la lengua francesa dentro de esta sección → [[02 - Páginas de Gramática/Français/A2/Le Présent Continu (En Train de)\|02 - Páginas de Gramática/Français/A2/Le Présent Continu (En Train de)]] para hablar de manera continua como si usáramos un [[02 - Páginas de Gramática/Gramática General/El Gerundio Y Su Uso\|gerundio]] del español. Sin embargo, aun resta la duda. ¿Cómo funciona el gerundio del francés si no es para hablar de manera continua?
+Hemos revisado atentamente como funciona el **presente continuo** de la lengua francesa dentro de esta sección → [[02 - Páginas de Gramática/Français/A2/Le Présent Continu (En Train de)\|02 - Páginas de Gramática/Français/A2/Le Présent Continu (En Train de)]] para hablar de manera continua como si usáramos un [[El Gerundio Y Su Uso\|gerundio]] del español. Sin embargo, aun resta la duda. ¿Cómo funciona el gerundio del francés si no es para hablar de manera continua?
 
 El **gerundio** del francés se utiliza principalmente para hablar de acciones **simultáneas**, **condiciones** y **causas**. Cada que tengamos que expresar la simultaneidad de dos o más acciones, podemos utilizar el **gerundio**.
 
@@ -34,7 +34,7 @@ Unos pocos verbos son irregulares al formarse en gerundio:
 > - Il a appris le français en regardant des films. → Él ha aprendido francés viendo películas.
 
 ## Le Participe Présent
-El **participio presente** es una Inflexión del [[02 - Páginas de Gramática/Français/B1/Le Gérondif - Conditionnel\|02 - Páginas de Gramática/Français/B1/Le Gérondif - Conditionnel]] que acabamos de nombrar. La única diferencia entre uno y el otro es que este **NO** utiliza la preposición **en** y se utiliza para → añadirse como un [[02 - Páginas de Gramática/Gramática General/Los Adjetivos\|adjetivo]] o una acción continua que está directamente relacionada con el sustantivo.
+El **participio presente** es una Inflexión del [[02 - Páginas de Gramática/Français/B1/Le Gérondif - Conditionnel\|02 - Páginas de Gramática/Français/B1/Le Gérondif - Conditionnel]] que acabamos de nombrar. La única diferencia entre uno y el otro es que este **NO** utiliza la preposición **en** y se utiliza para → añadirse como un [[Los Adjetivos\|adjetivo]] o una acción continua que está directamente relacionada con el sustantivo.
 
 - La personne faisant du bruit. → La persona que hace ruido. / La persona haciendo ruido.
 > Entonces este tipo de gerundio se expresa como si fuera un Adjetivo.
@@ -46,3 +46,8 @@ El **participio presente** es una Inflexión del [[02 - Páginas de Gramática/F
 > - Elle a écrit une lettre expliquant ses intentions. → Ella ha escrito una carta explicando (que explica) sus intenciones.
 
 ___
+
+
+
+
+> © 2026 Luis Alejandro Cuevas. All rights reserved.

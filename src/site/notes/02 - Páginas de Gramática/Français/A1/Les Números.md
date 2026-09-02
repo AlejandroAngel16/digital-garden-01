@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/02-paginas-de-gramatica/francais/a1/les-numeros/"}
+{"dg-publish":true,"permalink":"/02-paginas-de-gramatica/francais/a1/les-numeros/","dg-note-properties":{}}
 ---
 
 # Les Números
 #Français #A1
 ___
-Main Index: [[02 - Páginas de Gramática/Français/A1/Nivel A1・FR\|02 - Páginas de Gramática/Français/A1/Nivel A1・FR]]
+Main Index: [[02 - Páginas de Gramática/Français/NIVELES/Nivel A1・FR\|Nivel A1・FR]]
 ___
 ## Los Números Cardinales
 Los dígitos en francés tienen unas reglas ligeramente distintas en comparación al español aunque realmente el orden sea el mismo. 
@@ -96,3 +96,9 @@ Para realizar ciertos cálculos matemáticos o describir figuras, se necesitan s
 
 
 ___
+
+
+
+
+
+> © 2026 Luis Alejandro Cuevas. All rights reserved.

@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/02-paginas-de-gramatica/francais/a1/l-expression-il-faut/"}
+{"dg-publish":true,"permalink":"/02-paginas-de-gramatica/francais/a1/l-expression-il-faut/","dg-note-properties":{}}
 ---
 
 # L’Expression “Il faut”
 #Français #A1
 ___
-Main Index: [[02 - Páginas de Gramática/Français/A1/Nivel A1・FR\|02 - Páginas de Gramática/Français/A1/Nivel A1・FR]]
+Main Index: [[02 - Páginas de Gramática/Français/NIVELES/Nivel A1・FR\|Nivel A1・FR]]
 ___
 Esta Expresión Impersonal es bastante importante debido a que tiene varias interpretaciones e implicaciones dependiendo del contexto. Como tal, no existe en el español y por ello tenemos algunas expresiones análogas, en vez de una sola.
 
@@ -20,3 +20,6 @@ Teniendo en cuenta el contexto, sabremos como interpretar qué es lo que querrá
 > - Pour réussir ton projet, il faut être organisé. → Para tener éxito en tu proyecto, hay que ser organizado.
 
 ___
+
+
+> © 2026 Luis Alejandro Cuevas. All rights reserved.

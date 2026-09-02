@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/02-paginas-de-gramatica/francais/a1/l-indicatif-present-verbes-re/"}
+{"dg-publish":true,"permalink":"/02-paginas-de-gramatica/francais/a1/l-indicatif-present-verbes-re/","dg-note-properties":{}}
 ---
 
 # L’Indicatif Présent・Verbes -re
 #Français #A1
 ___
-Main Index: [[02 - Páginas de Gramática/Français/A1/Nivel A1・FR\|02 - Páginas de Gramática/Français/A1/Nivel A1・FR]]
+Main Index: [[02 - Páginas de Gramática/Français/NIVELES/Nivel A1・FR\|Nivel A1・FR]]
 ___
 Los verbos de este grupo son algunas veces irregulares y por dado, hay ocasiones en las que su conjugación debe aprenderse por memoria.
 >En francés hay una cantidad considerable de verbos irregulares. Por ello es mejor aprenderlos en la marcha y haciendo ejercicios de escritura.
@@ -32,3 +32,9 @@ Los verbos de este grupo son algunas veces irregulares y por dado, hay ocasiones
 Es sugerido saltar a la sección [[02 - Páginas de Gramática/Français/A2/Les Verbes d’Interaction + (Faire)\|02 - Páginas de Gramática/Français/A2/Les Verbes d’Interaction + (Faire)]] directamente al acabar esta sección de conjugaciones y luego regresar a ver el resto de contenido A1.
 
 ___
+
+
+
+
+
+> © 2026 Luis Alejandro Cuevas. All rights reserved.

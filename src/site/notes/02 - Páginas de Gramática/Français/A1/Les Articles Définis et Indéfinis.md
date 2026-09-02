@@ -1,14 +1,18 @@
 ---
-{"dg-publish":true,"permalink":"/02-paginas-de-gramatica/francais/a1/les-articles-definis-et-indefinis/"}
+{"dg-publish":true,"permalink":"/02-paginas-de-gramatica/francais/a1/les-articles-definis-et-indefinis/","dg-note-properties":{}}
 ---
 
 # Les Articles Définis et Indéfinis
 #Français #A1
 ___
-Main Index: [[02 - Páginas de Gramática/Français/A1/Nivel A1・FR\|02 - Páginas de Gramática/Français/A1/Nivel A1・FR]]
+Main Index: [[02 - Páginas de Gramática/Français/NIVELES/Nivel A1・FR\|Nivel A1・FR]]
 ___
 ## Artículos Definidos
-La lengua francesa, justo como el español, tiene dos géneros → **masculino y femenino** para cada sustantivo. Hay ligeras reglas para poder identificar el género de una palabra. Sin embargo, existen varias excepciones y por esta razón, tiene más sentido aprender el genero de cada palabra directamente por memoria.
+
+La lengua francesa, justo como el español, tiene dos géneros → **masculino y femenino** para cada sustantivo. 
+
+Hay ligeras reglas para poder identificar el género de una palabra. Sin embargo, existen varias excepciones y por esta razón, tiene más sentido aprender el genero de cada palabra directamente por memoria (Solo en el caso de estas excepciones).
+
 Este artículo nos permite hablar de un elemento **específico** que se usara como el sujeto de la oración o seguramente un elemento dentro de ella.
 
 | Género                                 | Art. Definido - Français | Traducción - Español |
@@ -28,6 +32,7 @@ Este artículo nos permite hablar de un elemento **específico** que se usara co
 > - La fleur fleurit chaque jour. → La flor florece cada día.
 
 ## Artículos Indefinidos
+
 Este artículo nos permite hablar de un elemento **no específico** que también se comporte como el sujeto de una oración. Este artículo es una contra parte del artículo definido aunque se comporte ligeramente distinto.
 
 | Género             | Art. Indefinido - Français | Traducción - Español |
@@ -38,11 +43,31 @@ Este artículo nos permite hablar de un elemento **no específico** que también
 
 
 > [!info] 
-> - No existe un [[02 - Páginas de Gramática/Gramática General/Los Artículos\|artículo indefinido]] que se apostrofe, por ende no hace falta prestar atención si un sustantivo inicia por vocal, solamente al género.
+> - No existe un [[Los Artículos\|artículo indefinido]] que se apostrofe, por ende no hace falta prestar atención si un sustantivo inicia por vocal, solamente al género.
 > - **Des** es otra palabra complicada debido a que tiene otro uso más alla de ser un Artículo Indefinido. En la sección de [[02 - Páginas de Gramática/Français/A1/Les Articles Partitifs\|02 - Páginas de Gramática/Français/A1/Les Articles Partitifs]]  se revisará precisamente la importancia de estos elementos.
 
 > [!example] 
 > - J’ai une orange. → Tengo una naranja.
 > - J’ai des soucis. → Tengo unas preocupaciones.
 
+
+## La Pluralización de los Sustantivos
+
+Es normal para los idiomas europeos, el pluralizar los sustantivos. De esta manera se puede aclarar si estamos hablando de un solo objeto o más de dos. Para este proceso, simplemente debemos añadir ciertos [[Los Sufijos\|sufijos]] al sustantivo según su terminación básica.
+
+| Terminación en Singular | Terminación en Plural | Ejemplo          |
+| ----------------------- | --------------------- | ---------------- |
+| Letras generales        | -s                    | Chat → Chats     |
+| -s, -x, -z              | Sin cambio            | Nez → Nez        |
+| -au, -eu, -eau          | -x                    | Bateau → Bateaux |
+| -al                     | -aux                  | Cheval → Chevaux |
+| -ou (en ciertos casos)  | -oux                  | Bijou → Bijoux   |
+
+
+
 ___
+
+
+
+
+> © 2026 Luis Alejandro Cuevas. All rights reserved.

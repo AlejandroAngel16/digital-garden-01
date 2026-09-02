@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/02-paginas-de-gramatica/francais/a1/les-adjectifs-possessifs/"}
+{"dg-publish":true,"permalink":"/02-paginas-de-gramatica/francais/a1/les-adjectifs-possessifs/","dg-note-properties":{}}
 ---
 
 # Les Adjectifs Possessifs
 #Français #A1
 ___
-Main Index: [[02 - Páginas de Gramática/Français/A1/Nivel A1・FR\|02 - Páginas de Gramática/Français/A1/Nivel A1・FR]]
+Main Index: [[02 - Páginas de Gramática/Français/NIVELES/Nivel A1・FR\|Nivel A1・FR]]
 ___
 No confundir con los [[02 - Páginas de Gramática/Français/A2/Les Pronoms Possessifs\|pronombres posesivos]], estos adjetivos se posicionan justo antes del sustantivo y denotan la posesión de un sustantivo. Independientemente de su posición en la oración, solo cambiarán de acuerdo al género y cantidad.
 
@@ -28,7 +28,7 @@ ___
 | J’aime mon amie.    | Continuación fonética |
 
 > [!info] 
-> - Los sustantivos femeninos que inicien por vocal siempre utilizarán el adjetivo posesivo masculino por fonética, ya que si existen dos vocales seguidas una de otra, ([[02 - Páginas de Gramática/Gramática General/Los Choques Fonéticos\|choques vocales]]).
+> - Los sustantivos femeninos que inicien por vocal siempre utilizarán el adjetivo posesivo masculino por fonética, ya que si existen dos vocales seguidas una de otra, ([[Los Choques Fonéticos\|choques vocales]]).
 
 > [!example] 
 >-  il est comment **ton** manteau? → ¿Cómo es tu abrigo?
@@ -37,3 +37,9 @@ ___
 >- **Vos** projets pour cet été semblent vraiment intéressants. → (Ustedes) sus proyectos para este verano parecen verdaderamente interesantes.
 
 ___
+
+
+
+
+
+> © 2026 Luis Alejandro Cuevas. All rights reserved.

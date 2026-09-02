@@ -1,13 +1,16 @@
 ---
-{"dg-publish":true,"permalink":"/02-paginas-de-gramatica/francais/a1/les-verbes-pronominaux/"}
+{"dg-publish":true,"permalink":"/02-paginas-de-gramatica/francais/a1/les-verbes-pronominaux/","dg-note-properties":{}}
 ---
 
 # Les Verbes Pronominaux
 #Français #A1
 ___
-Main Index: [[02 - Páginas de Gramática/Français/A1/Nivel A1・FR\|02 - Páginas de Gramática/Français/A1/Nivel A1・FR]]
+Main Index: [[02 - Páginas de Gramática/Français/NIVELES/Nivel A1・FR\|Nivel A1・FR]]
 ___
-Los [[02 - Páginas de Gramática/Gramática General/Los Pronombres Pronominales\|pronombres pronominales ]]son elementos que se añaden junto a un [[02 - Páginas de Gramática/Gramática General/Los Pronombres Sujeto\|pronombre sujeto]] para poder dar a entender que el siguiente verbo va a tener un acto de reflexión. ¿Qué significa esto? Básicamente, el verbo que realice un Sujeto recaerá en el mismo sujeto. Primero aprendamos cuales pronombres corresponden a cada uno.
+
+## Pronombres Pronominales
+
+Los [[Los Pronombres Pronominales\|pronombres pronominales ]]son elementos que se añaden junto a un [[Los Pronombres Sujeto\|pronombre sujeto]] para poder dar a entender que el siguiente verbo va a tener un acto de reflexión. ¿Qué significa esto? Básicamente, el verbo que realice un Sujeto recaerá en el mismo sujeto. Primero aprendamos cuales pronombres corresponden a cada uno.
 
 | Pronombre Sujeto | Pronombre Pronominal |
 | ---------------- | -------------------- |
@@ -19,8 +22,8 @@ Los [[02 - Páginas de Gramática/Gramática General/Los Pronombres Pronominales
 | Ils/elles        | Se/S’                |
 
 > [!info] 
-> - Algunos [[02 - Páginas de Gramática/Gramática General/Los Pronombres Pronominales\|pronombres pronominales]] se pueden apostrofar antes de una vocal. Exceptuando **nous** y **vous.**
-> - Uno de los primeros verbos pronominales que se aprenden es el verbo [[02 - Páginas de Gramática/Français/A1/El Verbo S’appeller\|S’appeler]].
+> - Algunos [[Los Pronombres Pronominales\|pronombres pronominales]] se pueden apostrofar antes de una vocal. Exceptuando **nous** y **vous.**
+> - Uno de los primeros verbos pronominales que se aprenden es el verbo [[00 - Expungables/El Verbo S’appeller\|S’appeler]].
 
 > [!example] 
 >-  Tu t’appelles comment? → ¿Cómo te llamas?
@@ -30,8 +33,8 @@ Los [[02 - Páginas de Gramática/Gramática General/Los Pronombres Pronominales
 
 ## Verbos Pronominales y Transitivos
 
-Los [[02 - Páginas de Gramática/Gramática General/Los Verbos Pronominales\|verbos reflexivos y pronominales]] son básicamente la contra-parte de Verbos Transitivos que permite usar estos verbos para que su efecto sea reflexivo.
-Técnicamente hablando, cualquier verbo tiene su propia forma reflexiva en [[02 - Páginas de Gramática/Gramática General/Los Verbos en Infinitivo\|infinitivo]] cuando añadimos el pronombre **Se** justo antes del verbo original. En español el proceso es el mismo pero la posición cambia:
+Los [[Los Verbos Pronominales\|verbos reflexivos y pronominales]] son básicamente la contra-parte de Verbos Transitivos que permite usar estos verbos para que su efecto sea reflexivo.
+Técnicamente hablando, cualquier verbo tiene su propia forma reflexiva en [[Los Verbos en Infinitivo\|infinitivo]] cuando añadimos el pronombre **Se** justo antes del verbo original. En español el proceso es el mismo pero la posición cambia:
 
 >**Español:** Hablar → Forma pronominal → Hablarse (Hablar + se)
 **Français:** Parler → Forma pronominal → Se parler (Se + parler)
@@ -60,7 +63,12 @@ Realmente no existen muchos cambios al conjugar verbos de manera simple. Sencill
 
 Los verbos típicos que se aprenden para usar bien esta herramienta son aquellos de la rutina diaria. → Levantarse, bañarse, vestirse, prepararse…
 
->¿Qué son los verbos transitivos o intransitivos? → [[02 - Páginas de Gramática/Gramática General/Los Verbos Transitivos e Intransitivos\|Los Verbos Transitivos e Intransitivos]]
+>¿Qué son los verbos transitivos o intransitivos? → [[Los Verbos Transitivos e Intransitivos\|Los Verbos Transitivos e Intransitivos]]
 >Esta sección es importante para comprender los matices de los verbos.
 
 ___
+
+
+
+
+> © 2026 Luis Alejandro Cuevas. All rights reserved.

@@ -1,13 +1,13 @@
 ---
-{"dg-publish":true,"permalink":"/02-paginas-de-gramatica/francais/b1/les-pronoms-relatifs-iii-dont-lequel/"}
+{"dg-publish":true,"permalink":"/02-paginas-de-gramatica/francais/b1/les-pronoms-relatifs-iii-dont-lequel/","dg-note-properties":{}}
 ---
 
 # Les Pronoms Relatifs III (Dont + lequel)
 #Français #B1
 ___
-Main Index: [[02 - Páginas de Gramática/Français/B1/Nivel B1・FR\|02 - Páginas de Gramática/Français/B1/Nivel B1・FR]]
+Main Index: [[02 - Páginas de Gramática/Français/NIVELES/Nivel B1・FR\|Nivel B1・FR]]
 ___
-Para conectar oraciones o hacer referencias a otros elementos entre oraciones con más de una [[02 - Páginas de Gramática/Gramática General/Las Oraciones & Clausulas\|clausula]], utilizamos pronombres relativos o como también es descrito, [[02 - Páginas de Gramática/Gramática General/Las Oraciones & Clausulas\|clausulas subordinadas]].
+Para conectar oraciones o hacer referencias a otros elementos entre oraciones con más de una [[Las Oraciones & Clausulas\|clausula]], utilizamos pronombres relativos o como también es descrito, [[Las Oraciones & Clausulas\|clausulas subordinadas]].
 
 Ya hemos hecho revisión de los pronombres **Que/Qui** para hablar de acciones que son hechas por una actor o recaen en ese actor y también la expresión **Ce Que** para hablar de un concepto o elemento general
 
@@ -87,3 +87,8 @@ Podemos interpretar su traducción solo a partir del contexto de la oración.
 
 
 ___
+
+
+
+
+> © 2026 Luis Alejandro Cuevas. All rights reserved.

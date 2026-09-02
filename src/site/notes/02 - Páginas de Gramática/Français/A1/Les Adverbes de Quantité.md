@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/02-paginas-de-gramatica/francais/a1/les-adverbes-de-quantite/"}
+{"dg-publish":true,"permalink":"/02-paginas-de-gramatica/francais/a1/les-adverbes-de-quantite/","dg-note-properties":{}}
 ---
 
 # Les Adverbes de Quantité
 #Français #A1
 ___
-Main Index: [[02 - Páginas de Gramática/Français/A1/Nivel A1・FR\|02 - Páginas de Gramática/Français/A1/Nivel A1・FR]]
+Main Index: [[02 - Páginas de Gramática/Français/NIVELES/Nivel A1・FR\|Nivel A1・FR]]
 ___
 Sabemos que [[02 - Páginas de Gramática/Français/A1/Les Articles Partitifs\|02 - Páginas de Gramática/Français/A1/Les Articles Partitifs]] usan para describir cantidades indefinidas. Sin embargo, cuando definimos cantidades de algo, utilizamos una gran cantidad de **Adverbios** y palabras claves junto a la preposición de, similar al español.
 
@@ -46,7 +46,6 @@ Existen otras palabras usadas para expresar la cantidad de un sustantivo. Estas 
 | Nombreux      | Numerosos      |
 
 
-
 | Pronom    | Pronombre  |
 | ------------- | -------------- |
 | Quelque-chose | Algo           |
@@ -78,3 +77,8 @@ El siguiente adjetivo se traduce a ‘otro’ y justo como en el español, se us
 
 
 ___
+
+
+
+
+> © 2026 Luis Alejandro Cuevas. All rights reserved.

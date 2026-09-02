@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-indices/paginas-generales/recursos-tecnologicos/"}
+{"dg-publish":true,"permalink":"/01-indices/paginas-generales/recursos-tecnologicos/","dg-note-properties":{}}
 ---
 
 # Recursos Tecnológicos
@@ -51,11 +51,11 @@ Esta herramienta se puede utilizar principalmente para investigar la pronunciaci
 ___
 ## Aplicaciones de Aprendizaje
 Esta sección promueve el uso de ciertas aplicaciones para uso individual, en un navegador o en un dispositivo móvil para complementar sustancialmente el aprendizaje de un idioma. Cada aplicación tiene su forma de uso y curva de aprendizaje.
-### Language Reactor / FluentAi
+### Language Reactor / InterSub
 > https://www.languagereactor.com/
-> https://fluentai.pro/
+> https://intersub.cc/
 
-**Language Reactor** es una extensión para navegadores que usen Chromium (**FluentAi** en caso de usar Firefox) y provee una nueva forma de utilizar los sub-títulos de páginas como YouTube, permitiendo una búsqueda directa de traducciones en el contenido que se está consumiendo. Esta aplicación además provee otras funcionalidades y detalles descritos en su página original.
+**Language Reactor** es una extensión para navegadores que usen Chromium (**InterSub** en caso de usar Firefox) y provee una nueva forma de utilizar los sub-títulos de páginas como YouTube, permitiendo una búsqueda directa de traducciones en el contenido que se está consumiendo. Esta aplicación además provee otras funcionalidades y detalles descritos en su página original.
 ###  ⭐Anki
 > https://ankiweb.net/
 
@@ -79,11 +79,8 @@ De la misma forma, **Clozemaster** es un sistema de cartas de repetición espaci
 > https://yomitan.wiki/
 
 **Yomitan** se puede presentar como un diccionario de bolsillo para el navegador. Esta aplicación nos permite traducir palabras en un par de movimientos dentro de una página web junto a oraciones de contexto, pronunciación e incluso audio.
-
 Originalmente creada para el estudio del idioma japonés, permite añadir diferentes diccionarios y perfiles altamente modificables.
-
 Su configuración al inicio puede ser complicada, para ellos hay que leer detenidamente la documentación y explicaciones.
-
 Dentro de este [perfil de Github](https://github.com/seth-js) podemos encontrar diccionarios para los idiomas francés y alemán.
 ### Quillbot
 > https://quillbot.com/
@@ -91,9 +88,13 @@ Dentro de este [perfil de Github](https://github.com/seth-js) podemos encontrar 
 **QuillBot** es una herramienta en línea gratuita que ayuda a los usuarios a mejorar sus habilidades de escritura y redacción en diferentes idiomas. La aplicación utiliza avanzados algoritmos de aprendizaje automático para analizar el texto ingresado por el usuario y ofrecer sugerencias de mejora en cuanto a gramática, puntuación, estilo y coherencia.
 
 Además, **QuillBot** también ofrece una función de re-escritura que permite al usuario reescribir un texto existente con palabras y frases sinónimas, lo que ayuda a expandir el vocabulario y mejorar la fluidez del lenguaje.
+
 ___
 ## Conclusiones
 El uso de la tecnología que se provee en esta sección es indispensable para poder hacer del proceso de aprendizaje mucho más cómodo, agradable y eficiente.
 
 Si se aprovechan estas herramientas de manera diaria, es posible alcanzar metas con el idioma objetivo mucho más rápido en comparación a un método de estudio completamente basado en la academia.
+
 ___
+
+> © 2026 Luis Alejandro Cuevas. All rights reserved.

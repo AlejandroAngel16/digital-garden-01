@@ -1,15 +1,15 @@
 ---
-{"dg-publish":true,"permalink":"/02-paginas-de-gramatica/francais/a2/l-indicatif-futur/"}
+{"dg-publish":true,"permalink":"/02-paginas-de-gramatica/francais/a2/l-indicatif-futur/","dg-note-properties":{}}
 ---
 
 # L’Indicatif Futur
 #Français #A2
 ___
-Main Index: [[02 - Páginas de Gramática/Français/A2/Nivel A2・FR\|02 - Páginas de Gramática/Français/A2/Nivel A2・FR]]
+Main Index: [[02 - Páginas de Gramática/Français/NIVELES/Nivel A2・FR\|Nivel A2・FR]]
 ___
 [image]
 
-Como tercera [[02 - Páginas de Gramática/Gramática General/La Conjugación Simple\|conjugación simple]] que se aprende en el francés, tenemos el [[02 - Páginas de Gramática/Gramática General/El Indicativo Futuro\|indicativo futuro]]. Esta conjugación nos permite hablar de acciones en un futuro lejano y suena bastante formal en comparación al [[02 - Páginas de Gramática/Français/A2/Le Futur Proche & Le Passé Proche\|futuro próximo]].
+Como tercera [[La Conjugación Simple\|conjugación simple]] que se aprende en el francés, tenemos el [[El Indicativo Futuro\|indicativo futuro]]. Esta conjugación nos permite hablar de acciones en un futuro lejano y suena bastante formal en comparación al [[02 - Páginas de Gramática/Français/A2/Le Futur Proche & Le Passé Proche\|futuro próximo]].
 
 ## Conjugación de Verbos -er/-ir/-re
 Conjugar verbos en este tiempo es bastante sencillo, justo como [[02 - Páginas de Gramática/Français/A2/L’Indicatif Imparfait\|02 - Páginas de Gramática/Français/A2/L’Indicatif Imparfait]]. Pero la complejidad se encuentra en el cambio de las raíces y la cantidad de verbos irregulares.
@@ -33,7 +33,7 @@ Las terminaciones siempre serán las mismas independientemente del grupo verbal 
 > 	- Partir → Partirai
 > - En el caso de los verbos -re, tendremos que remover la ‘e’ del final y reemplazarla por la terminación adecuada.
 
->El [[02 - Páginas de Gramática/Gramática General/El Indicativo Futuro\|indicativo futuro]] se podrá utilizar no solo para hablar del futuro, sino para crear estructuras condicionales como se verá en secciones siguientes.
+>El [[El Indicativo Futuro\|indicativo futuro]] se podrá utilizar no solo para hablar del futuro, sino para crear estructuras condicionales como se verá en secciones siguientes.
 
 > [!example] 
 > - Tu aimeras ce film, j’en suis sûr. → Amarás este film, estoy seguro de eso.
@@ -77,3 +77,8 @@ Podemos revisar los Verbos Irregulares en la siguiente tabla:
 
 
 ___
+
+
+
+
+> © 2026 Luis Alejandro Cuevas. All rights reserved.

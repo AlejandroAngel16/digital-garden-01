@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/02-paginas-de-gramatica/francais/a1/les-conjonctions-i/"}
+{"dg-publish":true,"permalink":"/02-paginas-de-gramatica/francais/a1/les-conjonctions-i/","dg-note-properties":{}}
 ---
 
 # Les Conjonctions I
 #Français #A1
 ___
-Main Index: [[02 - Páginas de Gramática/Français/A1/Nivel A1・FR\|02 - Páginas de Gramática/Français/A1/Nivel A1・FR]]
+Main Index: [[02 - Páginas de Gramática/Français/NIVELES/Nivel A1・FR\|Nivel A1・FR]]
 ___
 Cuando queramos juntar oraciones para añadir información extra o para contrastar dos clausulas, necesitamos usar ciertas palabras para realizar la conexión. Es bastante importante saber como utilizar las comas y negaciones.
 
@@ -32,3 +32,9 @@ Cuando queramos juntar oraciones para añadir información extra o para contrast
 
 >No confundir ou con où(donde). Una es una Conjunción y el otro un Pronombre Interrogativo.
 ___
+
+
+
+
+
+> © 2026 Luis Alejandro Cuevas. All rights reserved.

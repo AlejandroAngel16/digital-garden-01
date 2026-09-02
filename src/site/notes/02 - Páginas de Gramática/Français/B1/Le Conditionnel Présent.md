@@ -1,15 +1,15 @@
 ---
-{"dg-publish":true,"permalink":"/02-paginas-de-gramatica/francais/b1/le-conditionnel-present/"}
+{"dg-publish":true,"permalink":"/02-paginas-de-gramatica/francais/b1/le-conditionnel-present/","dg-note-properties":{}}
 ---
 
 # Le Conditionnel Présent
 #Français #B1
 ___
-Main Index: [[02 - Páginas de Gramática/Français/B1/Nivel B1・FR\|02 - Páginas de Gramática/Français/B1/Nivel B1・FR]]
+Main Index: [[02 - Páginas de Gramática/Français/NIVELES/Nivel B1・FR\|Nivel B1・FR]]
 ___
 [image]
 
-Como cuarta [[02 - Páginas de Gramática/Gramática General/La Conjugación Simple\|conjugación simple]] que se aprende en el francés, tenemos el [[02 - Páginas de Gramática/Gramática General/El Condicional\|condicional presente]]. Esta conjugación nos permite hablar de acciones en un futuro hipotético y usualmente es usado con otras estructuras gramaticales.
+Como cuarta [[La Conjugación Simple\|conjugación simple]] que se aprende en el francés, tenemos el [[El Condicional\|condicional presente]]. Esta conjugación nos permite hablar de acciones en un futuro hipotético y usualmente es usado con otras estructuras gramaticales.
 
 ## Conjugación de Verbos -er/-ir/-re
 Justo como el [[02 - Páginas de Gramática/Français/A2/L’Indicatif Futur\|indicativo futuro]], la conjugación de los verbos en este tiempo es sencilla. Además vamos a utilizar las mismas raíces. La única diferencia son las terminaciones
@@ -77,3 +77,8 @@ Podemos revisar los Verbos Irregulares en la siguiente tabla:
 | Jeter           | Jetter-        |
 
 ___
+
+
+
+
+> © 2026 Luis Alejandro Cuevas. All rights reserved.

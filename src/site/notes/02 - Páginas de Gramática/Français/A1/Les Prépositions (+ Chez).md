@@ -1,16 +1,16 @@
 ---
-{"dg-publish":true,"permalink":"/02-paginas-de-gramatica/francais/a1/les-prepositions-chez/"}
+{"dg-publish":true,"permalink":"/02-paginas-de-gramatica/francais/a1/les-prepositions-chez/","dg-note-properties":{}}
 ---
 
 # Les Prépositions (+ Chez)
 #Français #A1
 ___
-Main Index: [[02 - Páginas de Gramática/Français/A1/Nivel A1・FR\|02 - Páginas de Gramática/Français/A1/Nivel A1・FR]]
+Main Index: [[02 - Páginas de Gramática/Français/NIVELES/Nivel A1・FR\|Nivel A1・FR]]
 ___
 > Antes que nada, es extremadamente importante recordar que “a” y “à” son dos palabras completamente diferentes. No está demás recordar que “a” es la conjugación del verbo “avoir”. → [[02 - Páginas de Gramática/Français/A1/Les Verbes - Être et Avoir\|02 - Páginas de Gramática/Français/A1/Les Verbes - Être et Avoir]]
 
 ## Preposiciones de Lugar
-Las [[02 - Páginas de Gramática/Gramática General/Las Preposiciones\|preposiciones]] de lugar, como ya sabemos, nos permiten localizar elementos dentro del plano físico. Es posible que algunas palabras también se consideren adverbios de lugar dependiendo de su categoría. 
+Las [[Las Preposiciones\|preposiciones]] de lugar, como ya sabemos, nos permiten localizar elementos dentro del plano físico. Es posible que algunas palabras también se consideren adverbios de lugar dependiendo de su categoría. 
 ### Preposiciones Fundamentales
 
 | Français | Español      |
@@ -24,7 +24,7 @@ Las [[02 - Páginas de Gramática/Gramática General/Las Preposiciones\|preposic
 > [!info] 
 > - **À** es una preposición bastante usada para definir una posición o dirección general. No necesariamente sobre o dentro de algo.
 > - **En** puede ser ligeramente confusa con comparación a **à** pero se puede reducir a que su uso es más preciso según el contexto.
-> - **À** también significa ‘para’ cuando se pone justo antes de un verbo en [[02 - Páginas de Gramática/Gramática General/Los Verbos en Infinitivo\|infinitivo]]. Este detalle es un poco confuso pero es muy común usar la preposición así
+> - **À** también significa ‘para’ cuando se pone justo antes de un verbo en [[Los Verbos en Infinitivo\|infinitivo]]. Este detalle es un poco confuso pero es muy común usar la preposición así
 
 ## Usos Preposicionales
 Algunas preposiciones requieren ser usadas de manera específica de acuerdo al contexto de la oración, el verbo y el espacio. Sin embargo, eso no quiere decir que solo se usen para lo que está descrito en el siguiente cuadro.
@@ -95,7 +95,6 @@ Se dice que esta preposición no tiene una traducción directa. Sin embargo, pod
 
 > Chez - Sustantivo
 
-
 > [!example] 
 > - Vous allez chez-moi? → ¿Vas a mi casa?
 > - J’aime passer du temps chez mon cousin. → Amo pasar tiempo donde mi primo.
@@ -103,3 +102,9 @@ Se dice que esta preposición no tiene una traducción directa. Sin embargo, pod
 
 
 ___
+
+
+
+
+
+> © 2026 Luis Alejandro Cuevas. All rights reserved.

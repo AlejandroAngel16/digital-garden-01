@@ -1,22 +1,24 @@
 ---
-{"dg-publish":true,"permalink":"/02-paginas-de-gramatica/francais/a2/les-pronoms-complement-i-cod-coi/"}
+{"dg-publish":true,"permalink":"/02-paginas-de-gramatica/francais/a2/les-pronoms-complement-i-cod-coi/","dg-note-properties":{}}
 ---
 
 # Les Pronoms Complément I (COD-COI)
 #Français #A2
 ___
-Main Index: [[02 - Páginas de Gramática/Français/A2/Nivel A2・FR\|02 - Páginas de Gramática/Français/A2/Nivel A2・FR]]
+Main Index: [[02 - Páginas de Gramática/Français/NIVELES/Nivel A2・FR\|Nivel A2・FR]]
 ___
 ## Estructura de Una Oración
-Ya sabemos que una oración puede componerse de un [[02 - Páginas de Gramática/Gramática General/El Complemento Directo\|complemento Directo]] o [[02 - Páginas de Gramática/Gramática General/El Complemento Indirecto\|complemento Indirecto]]. O sea, un elemento al que le recae la oración y otro elemento que es afectado indirectamente.
+
+Ya sabemos que una oración puede componerse de un [[El Complemento Directo\|complemento Directo]] o [[El Complemento Indirecto\|complemento Indirecto]]. O sea, un elemento al que le recae la oración y otro elemento que es afectado indirectamente.
 
 Como podemos observar en la siguiente gráfica: [image]
 
-- El COD de una oración responde a la pregunta → ¿Qué/Quién? ¿Qué está siendo afectado?
-- Y el COI de una oración responde a → ¿A qué/A quién? ¿A qué se dirige la acción?
+- El **COD** de una oración responde a la pregunta → ¿Qué/Quién? ¿Qué está siendo afectado?
+- Y el **COI** de una oración responde a → ¿A qué/A quién? ¿A qué se dirige la acción?
 
 ## Pronombres COD
-Los pronombres del [[02 - Páginas de Gramática/Gramática General/El Complemento Directo\|complemento directo]] se utilizan directamente para reemplazar este componente de la oración. Debemos tener en cuenta el genero y la cantidad de los objetos para usarlos adecuadamente.
+
+Los pronombres del [[El Complemento Directo\|complemento directo]] se utilizan directamente para reemplazar este componente de la oración. Debemos tener en cuenta el genero y la cantidad de los objetos para usarlos adecuadamente.
 
 | Pronom Sujet | Pronom COD |
 | ------------ | ---------- |
@@ -26,7 +28,8 @@ Los pronombres del [[02 - Páginas de Gramática/Gramática General/El Complemen
 | Nous         | Nous       |
 | Vous         | Vous       |
 | Ils/elles    | Les        |
-> Al usar pronombres de este tipo, es posible que las oraciones se parezca a aquellas cuando se utiliza un pronombre pronominal. Sin embargo, algunas reglas cambian.
+
+>Al usar pronombres de este tipo, es posible que las oraciones se parezca a aquellas cuando se utiliza un pronombre pronominal. Sin embargo, algunas reglas cambian.
 
 #### ¿COD en una oración?
 Aquí sabemos que parte de la oración corresponde a qué complemento utilizando las preguntas de la sub-sección anterior.
@@ -66,7 +69,7 @@ La oración reemplazada sería:
 > - Tu ne l'as pas prise. → Tú no la has tomado.
 
 ## Pronombres COI
-Los pronombres del [[02 - Páginas de Gramática/Gramática General/El Complemento Indirecto\|complemento indirecto]] entonces serán usados para la otra parte de la oración y siempre serán obvios porque van acompañados por la preposición à antes. Eso quiere decir que es necesario conocer la sección [[02 - Páginas de Gramática/Français/A2/Les Verbes à Regime Prépositionnel\|02 - Páginas de Gramática/Français/A2/Les Verbes à Regime Prépositionnel]] y volver a esta una vez la información se haya comprendido.
+Los pronombres del [[El Complemento Indirecto\|complemento indirecto]] entonces serán usados para la otra parte de la oración y siempre serán obvios porque van acompañados por la preposición à antes. Eso quiere decir que es necesario conocer la sección [[02 - Páginas de Gramática/Français/A2/Les Verbes à Regime Prépositionnel\|02 - Páginas de Gramática/Français/A2/Les Verbes à Regime Prépositionnel]] y volver a esta una vez la información se haya comprendido.
 
 | Pronombre Sujeto | Pronombre COI |
 | ---------------- | ------------- |
@@ -125,3 +128,8 @@ La oración reemplazada sería:
 Saber utilizar ambos pronombres en una sola oración es bastante más complicado y se puede revisar en la sección de [[02 - Páginas de Gramática/Français/B1/Les Pronoms Complément Directs & Indirects II (Ensemble)\|02 - Páginas de Gramática/Français/B1/Les Pronoms Complément Directs & Indirects II (Ensemble)]].
 
 ___
+
+
+
+
+> © 2026 Luis Alejandro Cuevas. All rights reserved.

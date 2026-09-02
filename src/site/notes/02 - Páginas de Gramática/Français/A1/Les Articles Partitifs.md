@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/02-paginas-de-gramatica/francais/a1/les-articles-partitifs/"}
+{"dg-publish":true,"permalink":"/02-paginas-de-gramatica/francais/a1/les-articles-partitifs/","dg-note-properties":{}}
 ---
 
 # Les Articles Partitifs
 #Français #A1
 ___
-Main Index: [[02 - Páginas de Gramática/Français/A1/Nivel A1・FR\|02 - Páginas de Gramática/Français/A1/Nivel A1・FR]]
+Main Index: [[02 - Páginas de Gramática/Français/NIVELES/Nivel A1・FR\|Nivel A1・FR]]
 ___
 ## Artículos Partitivos Positivos
 Estos artículos, como es usual, son usados justo antes de un sustantivo. Sin embargo, solo los usamos cuando estemos hablando de un cantidad que no sea definida. En español no existen, por ello puede ser un poco extraño. Tampoco existe una traducción directa.
@@ -47,3 +47,8 @@ Además debemos utilizar la locución ‘il y a’ junto al partitivo.
 > - Ils n’achètent pas de légumes au marché. → Ellos no compran verduras en el mercado.
 
 ___
+
+
+
+
+> © 2026 Luis Alejandro Cuevas. All rights reserved.

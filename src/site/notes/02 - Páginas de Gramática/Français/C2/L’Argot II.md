@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/02-paginas-de-gramatica/francais/c2/l-argot-ii/"}
+{"dg-publish":true,"permalink":"/02-paginas-de-gramatica/francais/c2/l-argot-ii/","dg-note-properties":{}}
 ---
 
 # L’Argot II
 #Français #C2
 ___
-Main Index: [[02 - Páginas de Gramática/Français/C2/Nivel C2・FR\|02 - Páginas de Gramática/Français/C2/Nivel C2・FR]]
+Main Index: [[02 - Páginas de Gramática/Français/NIVELES/Nivel C2・FR\|Nivel C2・FR]]
 ___
 Continuación de la sección → [[02 - Páginas de Gramática/Français/B2/L’Argot I\|02 - Páginas de Gramática/Français/B2/L’Argot I]]
 
@@ -49,3 +49,8 @@ En esta sección vamos a revisar una lista de Argot larga, donde el vocabulario 
 | Incroyable       | Ouf              |
 | Énervé           | Vénère           |
 ___
+
+
+
+
+> © 2026 Luis Alejandro Cuevas. All rights reserved.

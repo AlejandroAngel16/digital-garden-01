@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/02-paginas-de-gramatica/francais/a2/les-pronoms-possessifs/"}
+{"dg-publish":true,"permalink":"/02-paginas-de-gramatica/francais/a2/les-pronoms-possessifs/","dg-note-properties":{}}
 ---
 
 # Les Pronoms Possessifs
 #Français #A2
 ___
-Main Index: [[02 - Páginas de Gramática/Français/A2/Nivel A2・FR\|02 - Páginas de Gramática/Français/A2/Nivel A2・FR]]
+Main Index: [[02 - Páginas de Gramática/Français/NIVELES/Nivel A2・FR\|Nivel A2・FR]]
 ___
 No confundir con [[02 - Páginas de Gramática/Français/A1/Les Adjectifs Possessifs\|02 - Páginas de Gramática/Français/A1/Les Adjectifs Possessifs]]. Estos Pronombres se utilizan para reafirmar la posesión de un sustantivo según el [[02 - Páginas de Gramática/Français/A1/Les Pronoms Sujet\|pronombre sujeto]] y para remplazar el sustantivo del que se habla dentro de la oración.
 
@@ -28,3 +28,9 @@ Estas herramientas son más precisas para definir el género del objeto dentro d
 >‘La mise en œuvre’ puede traducirse como → implementación.
 
 ___
+
+
+
+
+
+> © 2026 Luis Alejandro Cuevas. All rights reserved.

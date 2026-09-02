@@ -1,15 +1,15 @@
 ---
-{"dg-publish":true,"permalink":"/02-paginas-de-gramatica/francais/a1/les-pronoms-sujet/"}
+{"dg-publish":true,"permalink":"/02-paginas-de-gramatica/francais/a1/les-pronoms-sujet/","dg-note-properties":{}}
 ---
 
 # Les Pronoms Sujet
 #Français #A1
 ___
-Main Index: [[02 - Páginas de Gramática/Français/A1/Nivel A1・FR\|02 - Páginas de Gramática/Français/A1/Nivel A1・FR]]
+Main Index: [[02 - Páginas de Gramática/Français/NIVELES/Nivel A1・FR\|Nivel A1・FR]]
 ___
 # Sujetos de la oración
 
-Los [[02 - Páginas de Gramática/Gramática General/Los Pronombres Sujeto\|pronombres sujeto]] son palabras clave para saber quien es exactamente el que realiza la acción dentro de una oración, o más bien es una representación de este. El francés tiene ciertas particularidades para usar la formalidad o para hablar de manera general.
+Los [[Los Pronombres Sujeto\|pronombres sujeto]] son palabras clave para saber quien es exactamente el que realiza la acción dentro de una oración, o más bien es una representación de este. El francés tiene ciertas particularidades para usar la formalidad o para hablar de manera general.
 
 Otro detalle importante es que el uso de estos pronombres es obligatorio, a diferencia del español donde se saltan usualmente para decir únicamente el verbo.
 
@@ -18,7 +18,7 @@ Otro detalle importante es que el uso de estos pronombres es obligatorio, a dife
 | Pronombre Français | Pronombre Español               |
 | ------------------ | ------------------------------- |
 | Je                 | Yo                              |
-| Tu                 | Tu                              |
+| Tu                 | Tú                              |
 | Il                 | Él                              |
 | Elle               | Ella                            |
 | Ça/Ce              | Eso/Esto                        |
@@ -34,7 +34,7 @@ Otro detalle importante es que el uso de estos pronombres es obligatorio, a dife
 
 ## Pronombre On
 
-El pronombre on es un elemento versátil en el francés, se utiliza para hablar de manera general sobre una acción y tiene más de una palabra análoga si se compara al español. (Aunque siga siendo 3ra persona del singular.) Para distinguir sus usos, es necesario aplicar análisis al contexto.
+El pronombre **on** es un elemento versátil en el francés, se utiliza para hablar de manera general sobre una acción y tiene más de una palabra análoga si se compara al español. (Aunque siga siendo 3ra persona del singular.) Para distinguir sus usos, es necesario aplicar análisis al contexto.
 
 | Français | Interpretación                    |
 | -------- | --------------------------------- |
@@ -49,7 +49,9 @@ El pronombre on es un elemento versátil en el francés, se utiliza para hablar 
 > [!example] 
 > - Ouais, on parle du travail. → Sí, **nosotros** hablamos del trabajo.
 > - Aux États-Unis on parle l’anglais. → En Estados Unidos **se** habla el inglés.
-> - On pense que la vie est difficile → **Uno** piensa que la vida es difícil.
+> - On pense que la vie est difficile. → **Uno** piensa que la vida es difícil.
 
 
 ___
+
+> © 2026 Luis Alejandro Cuevas. All rights reserved.

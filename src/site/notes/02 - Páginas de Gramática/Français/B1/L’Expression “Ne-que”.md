@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/02-paginas-de-gramatica/francais/b1/l-expression-ne-que/"}
+{"dg-publish":true,"permalink":"/02-paginas-de-gramatica/francais/b1/l-expression-ne-que/","dg-note-properties":{}}
 ---
 
 # L’Expression “Ne-que”
 #Français #B1
 ___
-Main Index: [[02 - Páginas de Gramática/Français/B1/Nivel B1・FR\|02 - Páginas de Gramática/Français/B1/Nivel B1・FR]]
+Main Index: [[02 - Páginas de Gramática/Français/NIVELES/Nivel B1・FR\|Nivel B1・FR]]
 ___
 Podemos interpretar esta expresión literalmente como → ‘**No… sino**’, o de forma más sencilla ‘**solamente**’. Esta estructura se utiliza junto a un verbo para expresar que algo se realiza con exclusividad o para limitar el alcance de esta.
 
@@ -24,3 +24,8 @@ Esta estructura es bastante común el el francés cotidiano y es un reemplazo di
 
 
 ___
+
+
+
+
+> © 2026 Luis Alejandro Cuevas. All rights reserved.
